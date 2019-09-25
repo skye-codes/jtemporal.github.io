@@ -31,6 +31,7 @@ fields:
   label: Language
   default: Python
 pages:
+- _hacktoberfest_projects/Python/pythonbrasil+planet.md
 - _hacktoberfest_projects/Python/pythonbrasil+associados.md
 - _hacktoberfest_projects/Python/GabrielRF+RastreioBot.md
 - _hacktoberfest_projects/Python/internetlab-br+Twitter-Bots.md
