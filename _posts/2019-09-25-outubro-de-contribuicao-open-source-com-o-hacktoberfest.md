@@ -8,7 +8,7 @@ description: 'Vem conhecer as regras do #Hacktoberfest para 2019!'
 tags: []
 
 ---
-Já está quase acabando o mês de Setembro e com isso se inicia os preparativos pra festa do mundo _open-source_ com o Hacktoberfest. A Digital Ocean liberou hoje (25/09/2019) [o início do cadastramento para o Hacktoberfest na página oficial do evento](https://hacktoberfest.digitalocean.com). Ano passado, cerca de 46 mil camisetas foram enviadas para pessoas que contribuíram no mundo todo. Esse ano, as recompensas estão limitadas à 50 mil.
+Já está quase acabando o mês de Setembro e com isso se inicia os preparativos pra festa do mundo _open-source_: o Hacktoberfest. A Digital Ocean liberou hoje (25/09/2019) [o início do cadastramento para o Hacktoberfest na página oficial do evento](https://hacktoberfest.digitalocean.com). Ano passado, cerca de 46 mil camisetas foram enviadas para pessoas que contribuíram no mundo todo. Esse ano, as recompensas estão limitadas à 50 mil.
 
 ## O Hacktoberfest
 
