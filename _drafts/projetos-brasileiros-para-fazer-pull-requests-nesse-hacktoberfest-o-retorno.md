@@ -37,6 +37,7 @@ E diferentementemente do ano passado! Essa lista agora não está mais no Medium
 ***
 
 {% assign grouped = site.hacktoberfest_projects | group_by: "principal_language" %}
+{{ grouped }}
 {% for group in grouped %}
 <h2> {{ group.name }} </h2>
 <p>{{ group.items }}</p>
