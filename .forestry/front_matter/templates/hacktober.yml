@@ -29,6 +29,7 @@ fields:
   config:
     required: true
   label: Language
+  default: Python
 pages:
 - _hacktoberfest_projects/Python/juditecypreste+PyRoles.md
 - _hacktoberfest_projects/PHP/PHPJasper+phpjasper.md
