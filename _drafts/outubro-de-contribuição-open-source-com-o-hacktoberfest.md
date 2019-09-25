@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-09-25 00:00:00 -0300
+date: 2019-09-25T03:00:00.000+00:00
 image: "/images/variados.png"
 comments: true
 title: 'Outubro de contribuição open-source com o #Hacktoberfest'
@@ -32,7 +32,7 @@ Além de dar os primeiros passos nessa onda de contribuições, aprender com o f
 
 ## Projetos para mandar o seu PR
 
-Então, pra te ajudar nessa linda missão de fazer seus quatro _pull requests_, aqui tem uma lista linda de projetos que são mantidos ou foram criados por colegas desse Brasilzão. Essa lista é pra ser colaborativa então se você quiser, você pode mandar um PR para adicionar projetos que você conheça.
+Então, pra te ajudar nessa linda missão de fazer seus quatro _pull requests_, aqui tem uma lista linda de projetos que são mantidos ou foram criados por pessoas desse Brasilzão. Essa lista é pra ser colaborativa então se você quiser, você pode mandar um PR para adicionar projetos que você conheça.
 
 ***
 
