@@ -1,7 +1,7 @@
 ---
 title: 'Projetos Brasileiros para fazer pull requests nesse #Hacktoberfest o retorno'
 layout: post
-date: 2019-09-25 06:00:00 -0300
+date: 2019-09-25T09:00:00.000+00:00
 image: "/images/variados.png"
 tags:
 - pull request
@@ -28,11 +28,13 @@ Novamente temos regrinhas:
 
 ## Avisos para 2019
 
-Essa lista **deve crescer** ao longo do mês de outubro e foi feita pra ser colaborativa… Então se sabe de um projeto que deveria estar aqui, só mandar o link que eu coloco, oooouuu você pode aproveitar o espírito de contribuição e mandar um PR para essa página! Todo mundo ganha <3.
 
-Esse ano os projetos estão separados pela linguagem principal pra facilitar as buscas pra quem lê e também em ordem alfabética pela linguagem. Se quiser adicionar um projeto pra uma liguagem que não estiver na lista só se atentar para isso, beleza? 😉
+Pra começar: diferentementemente do ano passado! Essa lista agora não está mais no Medium \\o/ Isso quer dizer que para ajudar ela a crescer você pode mandar o link ali nos comentários que eu coloco, oooouuu você pode aproveitar o espírito de contribuição e mandar um PR para essa página! Todo mundo ganha <3. Como ainda temos um tempinho até Outubro eu vou publicar as instruções para contribuições com essa lista no ar só daqui mais uns dias, assim ninguém queima largada =P
 
-E diferentementemente do ano passado! Essa lista agora não está mais no Medium \\o/
+
+Os projetos continuam separados pela linguagem principal pra facilitar as buscas pra quem lê e também em ordem alfabética pela linguagem. 😉
+
+Happy Hacking!
 
 ***
 
