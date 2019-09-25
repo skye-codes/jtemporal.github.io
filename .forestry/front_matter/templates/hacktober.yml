@@ -31,6 +31,7 @@ fields:
   label: Language
   default: Python
 pages:
+- _hacktoberfest_projects/TypeScript/prefeiturasp+SME-PratoAberto-Frontend.md
 - _hacktoberfest_projects/Ruby/magnetis+spok.md
 - _hacktoberfest_projects/Ruby/anonydog+anonydog.md
 - _hacktoberfest_projects/Python/manipuladordedados+pdiary.md
