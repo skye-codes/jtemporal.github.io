@@ -32,11 +32,11 @@ Além de dar os primeiros passos nessa onda de contribuições, aprender com o f
 
 ## Projetos para mandar o seu PR
 
-Então, pra te ajudar nessa linda missão de fazer seus quatro _pull requests_, aqui tem uma lista linda de projetos que são mantidos ou foram criados por pessoas desse Brasilzão. Essa lista é pra ser colaborativa então se você quiser, você pode mandar um PR para adicionar projetos que você conheça.
+Então, pra te ajudar nessa linda missão de fazer seus quatro _pull requests_, aqui tem uma lista linda de projetos que são mantidos ou foram criados por pessoas desse Brasilzão. Essa lista é pra ser colaborativa! Passa lá pra ver mais detalhes de como isso vai funcionar.
 
 ***
 
-## Links uteis
+## Links úteis
 
 Vou deixar aqui alguns links que podem ser úteis e te ajudar a iniciar no mundo de contribuições.
 
