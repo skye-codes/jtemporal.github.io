@@ -30,6 +30,7 @@ fields:
     required: true
   label: Language
 pages:
+- _hacktoberfest_projects/JavaScript/withmoney+withmoney-mobile.md
 - _hacktoberfest_projects/JavaScript/raphamorim+react-tv.md
 - _hacktoberfest_projects/JavaScript/prefeiturasp+SME-FilaDaCreche.md
 - _hacktoberfest_projects/JavaScript/Coderockr+vitrine-social.md
