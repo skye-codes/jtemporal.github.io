@@ -28,7 +28,13 @@ table {
     margin: 10px;
 }
 
-.github-project-share-card > p, h4 {
+.github-project-share-card > p {
+    margin: 10px;
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+.github-project-share-card > h4 {
     margin: 10px;
     line-height: 1.4em;
     font-size: 1.2em;
