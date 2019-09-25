@@ -6,6 +6,7 @@ comments: true
 title: 'Outubro de contribuição open-source com o #Hacktoberfest'
 description: 'Vem conhecer as regras do #Hacktoberfest para 2019!'
 tags:
+- português
 - git
 - github
 - pull request
