@@ -47,13 +47,13 @@ Escrever se tornou algo normal e parte do meu processo de aprendizado. Então, d
 
 ### Novas regras, novo site
 
-Assim como escrever passou fazer parte do meu dia a dia, meu site precisava finalmente passar por uma mudança, afinal de contas, parte das regras que me fizeram escolher o primeiro tema já não valiam mais. Eu precisava de algo que o foco fosse o conteúdo.
+Assim como escrever passou fazer parte do meu dia a dia, meu site precisava finalmente passar por uma mudança, afinal de contas, parte das regras que me fizeram escolher o primeiro tema já não valiam mais. Eu precisava de um tema que o **foco fosse o conteúdo**.
 
 Então parti em busca de um novo tema. Não sei se você já reparou, mas existe uma tendência de sites onde o foco é conteúdo terem formato de cartão, o dev.to é assim, o Medium é assim também e por aí vai... Nada mais natural que, ao procurar um tema, eu encontrasse um em formato de cartões. O escolhido da vez foi o [Cards por Webjeda](%22https://webjeda.com/cards/%22) . Eu gostei do tema apesar de enxergar alguns pontos que precisavam de alteração pra deixar ele do jeito que eu queria. Com o novo tema escolhido, no começo desse 2019 fiz a transição entre o Moon e o Cards.
 
 ### Cartões pra lá, cartões pra cá
 
-Como ambos temas são Jekyll, baseados em markdown e como o mesmo padrão de criação de caminho para as postagens, a transição foi suave. Praticamente uma questão de copiar e colar os artigos de uma pasta para a outra. Também criei as artes para cada tipo de post para facilitar o trabalho, afinal não queria usar imagens aleatórias, por isso padronizei as imagens para corresponder ao tipo de artigo.
+Como ambos temas são Jekyll, baseados em markdown e como o mesmo padrão de criação de caminho para as postagens, a transição foi suave. Praticamente uma questão de copiar e colar os artigos de uma pasta para a outra. Também criei as artes para cada tipo de artigo para facilitar o trabalho, afinal não queria usar imagens aleatórias, por isso padronizei as imagens para corresponder ao tipo de artigo.
 
 <table>
 <tr>
@@ -67,22 +67,26 @@ Como ambos temas são Jekyll, baseados em markdown e como o mesmo padrão de cri
 </table>
 <center><i>Algumas das capas que fiz para os artigos</i></center>
 
-Por fim, chegou a hora de colocar o site no ar. Também bem tranquilo já que a minha configuração é simples, bastava trocar no nome do repositório no GitHub, configurar o domínio e site novo no ar!
+Por fim, chegou a hora de colocar o site no ar. Esse passo também foi bem tranquilo já que a minha configuração é simples, bastava trocar no nome do repositório no GitHub, configurar o domínio e pow! Site novo no ar!
 
-Depois de trocar de tema, como uma pessoa viciada em dados, eu continuei a assistir meu analytics de perto, isso é... menos no mês que esqueci de colocar a tag de rastreamento no site novo hehe
+Depois de trocar de tema, como uma pessoa viciada em dados, eu continuei a assistir meu _analytics_ de perto, isso é... menos no mês que esqueci de colocar a _tag_ de rastreamento no site novo hehe
 
 <center><img src="http://giphygifs.s3.amazonaws.com/media/GDnomdqpSHlIs/giphy.gif"><br><a href="http://giphygifs.s3.amazonaws.com/media/GDnomdqpSHlIs/giphy.gif">Fonte</a></center>
 
-Depois de perceber que estava sem a tag e corrigir esse pequeno erro, voltamos à programação normal de assistir o analytics. E no mês de Agosto bati um record! Cheguei a mais de 17mil acessos!
+Depois de perceber que estava sem a tag e corrigir esse pequeno erro, voltamos à programação normal de assistir o _analytics_. E no mês de Agosto bati um record! Cheguei a mais de 17mil acessos!
 
 <center> <img src="/images/IMG_3901.PNG" style="max-width:65%;"><br> <i>Imagem mostrando a quantidade de acessos ao site em Agosto de 2019</i></center>
 
-Claro que não foi só a alteração do tema que contribuiu para o crescimento nos acessos do site. O aumento de artigos de assuntos variados, o crescimento do pizza de dados, e a melhoria nas tags de SEO do tema, foram pontos que podem ter impactado no aumento de acessos. No entanto, essa é a primeira vez que o meu site é de fato um blog, onde a primeira coisa que você vê ao entrar São os meus textos, eles também tem imagens de capa detalhe faltante no tema anterior. O SEO atualmente está melhor em relação ao próprio tema, mas o Moon tinha um SEO muito mais completo (mais tags implementadas). O que me leva a crer que o formato do site de fato é o fator mais importante aqui.
+Claro que não foi só a alteração do tema que contribuiu para o crescimento nos acessos do site. O aumento de artigos de assuntos variados, o crescimento do meu podcast [Pizza de Dados](http://pizzadedados.com/), e a melhoria nas tags de SEO do tema, foram pontos que podem ter contribuido para o aumento de acessos.
 
-### Seja água e deixe que os sites sejam também
+No entanto, essa é a primeira vez que o meu site é de fato um blog, onde a primeira coisa que você vê ao entrar são os meus textos, eles também tem imagens de capa, um detalhe faltante no tema anterior. O SEO atualmente está melhor em relação ao próprio tema, mas o Moon tinha um SEO muito mais completo (mais _tags_ implementadas). O que me leva a crer que o formato do site de fato é o fator mais importante aqui. Para ter certeza estatística desse sentimento, eu deveria ter feito um [teste A/B](https://pt.wikipedia.org/wiki/Teste_A/B) para cada alteração... Mas bem, não fiz então fica aí o aprendizado para a próxima.
 
-Passar por esse processo de mudança de foco é normal. Assim como a tecnologia se transforma, as necessidades também vão mudando. E é muito gostoso perceber e permitir se ajustar às mudanças. No meu caso elas aconteceram gradativamente. Passei de uma pessoa que não tinha interesse em escrever nada pra alguém que publica artigos constantemente. Escrevi em plataformas pagas e troquei para plataformas gratuitas procurando espalhar conteúdo sem proibições causadas por paywalls. Meu site deixou de ser um bloco de notas público para se tornar oficialmente um blog.
+### Uma reflexão sobre esse processo
+
+Passar por esse processo de mudança de foco é normal. Assim como a tecnologia se transforma, as necessidades também vão mudando. E é muito gostoso perceber e permitir que o ajuste necessário perante às mudanças ocorra. No meu caso elas aconteceram gradativamente. Passei de uma pessoa que não tinha interesse em escrever nada pra alguém que publica artigos constantemente. Escrevi em plataformas pagas e troquei para plataformas gratuitas procurando espalhar conteúdo sem proibições causadas por paywalls. Meu site deixou de ser um bloco de notas público para se tornar oficialmente um blog.
 
 E foi bom ver o crescimento ao longo desses 3 anos:
 
 <center><img src="/images/IMG_3911.PNG" style="max-width:65%;"><br> <i>Imagem mostrando a quantidade de acessos ao site entre Dezembro de 2016 e Setembro de 2019</i></center>
+
+Eu considero que essa evolução é um retrato bem claro das mesmas mudanças que passei ao longo desses anos: evolução composta de altos e baixos. E finalmente chegando a uma recompensa. Puxa vida. 17 mil pageviews! Quem diria não é mesmo?
