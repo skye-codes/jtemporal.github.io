@@ -30,6 +30,7 @@ fields:
     required: true
   label: Language
 pages:
+- _hacktoberfest_projects/JavaScript/yanmagale+narigajs.md
 - _hacktoberfest_projects/Go/prest.md
 - _hacktoberfest_projects/Go/OsProgramadores+op-website-hugo.md
 - _hacktoberfest_projects/Go/goreleaser+goreleaser.md
