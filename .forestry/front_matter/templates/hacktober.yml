@@ -30,6 +30,7 @@ fields:
     required: true
   label: Language
 pages:
+- _hacktoberfest_projects/PHP/caronae+caronae-backend.md
 - _hacktoberfest_projects/Kotlin/wilder+ftwfy.md
 - _hacktoberfest_projects/Julia/felipenoris+Mongoc.jl.md
 - _hacktoberfest_projects/Julia/felipenoris+JuliaPackageWithRustDep.jl.md
