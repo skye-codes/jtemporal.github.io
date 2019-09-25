@@ -31,6 +31,7 @@ fields:
   label: Language
   default: ''
 pages:
+- _hacktoberfest_projects/Python/berinhard+pyp5js.md
 - _hacktoberfest_projects/Clojure/mauricioszabo+atom-chlorine.md
 - _hacktoberfest_projects/Ruby/magnetis+spok.md
 - _hacktoberfest_projects/Ruby/anonydog+anonydog.md
