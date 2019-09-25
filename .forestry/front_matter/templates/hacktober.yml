@@ -31,6 +31,7 @@ fields:
   label: Language
   default: Python
 pages:
+- _hacktoberfest_projects/Python/luanfonceca+speakerfight.md
 - _hacktoberfest_projects/Python/rougeth+bottery.md
 - _hacktoberfest_projects/Python/gilsondev+django-rest-localflavor.md
 - _hacktoberfest_projects/Python/pythonbrasil+wiki.md
