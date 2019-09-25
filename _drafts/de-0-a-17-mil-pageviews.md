@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-09-16 10:00:00 -0300
+date: 2019-09-16T13:00:00.000+00:00
 image: "/images/variados.png"
 comments: true
 title: De 0 a 17 mil pageviews
@@ -17,21 +17,21 @@ tags:
 - jekyll
 
 ---
-O primeiro website que eu coloquei no ar, era um site Django. Foi num tutorial da semana acadêmica da informática biomédica e foi ministrado pela comunidade Python de Ribeirão Preto. Foi a primeira vez que vi Python sendo usado de verdade e foi o meu primeiro deploy com direito a heroku e tudo, mas esse causo fica pra outro momento.
+O primeiro website que eu coloquei no ar, era um site Django. Foi num tutorial da semana acadêmica do meu curso de graduação (Informática Biomédica) e foi ministrado pela comunidade Python de Ribeirão Preto. Foi a primeira vez que vi Python sendo usado de verdade e foi o meu primeiro deploy com direito a heroku e tudo, mas esse causo, fica pra outro momento.
 
-Desde então, minhas habilidades de desenvolvimento evoluíram, eu conheci novas tecnologias, aprendi a contribuir avidamente com open-source, da pra dizer que, de um modo geral, melhorei como desenvolvedora.
+Desde então, minhas habilidades de desenvolvimento evoluíram, eu conheci novas tecnologias, aprendi a contribuir avidamente com _open-source_, da pra dizer que, de um modo geral, melhorei como desenvolvedora.
 
-Entre o primeiro site que coloquei no ar e hoje, aprendi muitas coisas,  e, entre elas, vi formas alternativas de publicar sites. Sendo, de todas formas que aprendi até hoje, a minha forma favorita de colocar sites no ar é usando o GitHub Pages. Inclusive, eu [até escrevi um tutorial sobre essa forma de colocar sites no ar](https://jtemporal.com/do-tema-ao-ar/) com intuito de ajudar qualquer pessoa conheça GitHub e um tiquinho de git a ter um site.
+Entre o primeiro site que coloquei no ar e hoje, aprendi muitas coisas,  e, entre elas, conheci formas alternativas de publicar sites. Sendo que, de todas formas que aprendi até hoje, a minha forma favorita de colocar sites no ar é usando o GitHub Pages. Inclusive, eu [até escrevi um tutorial sobre essa forma de colocar sites no ar](https://jtemporal.com/do-tema-ao-ar/) com intuito de ajudar qualquer pessoa conheça GitHub e um tiquinho de git a ter um site.
 
 ### Meu site, minhas regras
 
-A primeira versão do [jtemporal.com](https://jtemporal.com) nunca foi estruturada para ser um blog, apesar de ter uma sessão para artigos e ser lá onde escrevia sobre conteúdos técnicos. Esse pequeno detalhe teve um impacto gigante no acesso aos conteúdos que publiquei. Quando eu decidi colocar o meu site no ar, escolhi um tema seguindo as seguintes regras:
+A primeira versão do [jtemporal.com](https://jtemporal.com) nunca foi estruturada para ser um blog, apesar de ter uma sessão para artigos e ser lá onde escrevia sobre conteúdos técnicos. Pense que meu site era uma espécie de bloco de notas público, eu escrevia sobre coisas que estudava ou estava aplicando no trabalho. Esse pequeno detalhe teve um impacto gigante no acesso aos conteúdos que publiquei. Quando eu decidi colocar o esse site no ar, escolhi um tema seguindo as seguintes regras:
 
-1. Não pode ser single page;
+1. Não pode ser _single page_ (página única);
 2. Não pode ser primariamente um blog;
 3. Tem que ser bonito e amigável para plataformas mobile.
 
-Depois de procurar bastante achei o meu primeiro tema: [o Moon](http://taylantatli.github.io/Moon/). Era exatamente o que eu queria. Bonitinho, com umas animações legais, não era primariamente um blog, apesar de como disse anteriormente, ter um espaço para isso. Não era single page, não sei o motivo, mas não gosto de sites single page `¯\_(ツ)_/¯`. O Moon supria todas minhas necessidades.
+Depois de procurar bastante achei o meu primeiro tema: [o Moon](http://taylantatli.github.io/Moon/). Era exatamente o que eu queria. Bonitinho, com umas animações legais, não era primariamente um blog, apesar de como disse anteriormente, ter um espaço para isso. Não era _single page_, não sei o motivo, mas não gosto de sites single page `¯\_(ツ)_/¯`. O Moon supria todas minhas necessidades.
 
 Eu gostei, e ainda gosto muito do Moon. Acho ele um tema bem feito e, durante os dois primeiros anos tendo um site, tendo um lugar para colocar meus textos, eu aumentei consideravelmente a quantidade de artigos que escrevia. Eu desenvolvi uma habilidade e descobri uma vontade de escrever sobre conteúdos técnicos que eu não sabia que tinha, afinal de contas eu nunca quis ser escritora, redação nunca foi meu forte na escola e, apesar de ser uma aluna aplicada e me esforçar bastante para escrever textos descentes quando necessário, não achava aquilo ali fácil.
 
