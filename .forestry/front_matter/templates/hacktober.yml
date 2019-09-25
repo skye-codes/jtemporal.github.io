@@ -30,6 +30,7 @@ fields:
     required: true
   label: Language
 pages:
+- _hacktoberfest_projects/JavaScript/zeucxb+dymock.md
 - _hacktoberfest_projects/JavaScript/monumentum+astronode.md
 - _hacktoberfest_projects/JavaScript/rdiego26+redis-session-storage.md
 - _hacktoberfest_projects/JavaScript/rdiego26+klefki.md
