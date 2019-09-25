@@ -29,7 +29,9 @@ Novamente temos regrinhas:
 ## Avisos para 2019
 
 
-Pra começar: diferentementemente do ano passado! Essa lista agora não está mais no Medium \\o/ Isso quer dizer que para ajudar ela a crescer você pode mandar o link ali nos comentários que eu coloco, oooouuu você pode aproveitar o espírito de contribuição e mandar um PR para essa página! Todo mundo ganha <3. Como ainda temos um tempinho até Outubro eu vou publicar as instruções para contribuições por meio de PRs só daqui mais uns dias, assim ninguém queima largada =P
+Pra começar: diferentementemente do ano passado! Essa lista agora não está mais no Medium \\o/ Isso quer dizer que para ajudar ela a crescer você pode mandar o link do repositório ali nos comentários que eu coloco o projeto na lista.
+
+Oooouuu você pode aproveitar o espírito de contribuição e mandar um PR para essa página! Todo mundo ganha <3. Como ainda temos um tempinho até Outubro, pra ninguém queimar largada, eu só vou publicar as instruções para contribuições por meio de PRs no dia 30/09/2019.
 
 
 Os projetos continuam separados pela linguagem principal pra facilitar as buscas pra quem lê e também em ordem alfabética pela linguagem. 😉
