@@ -31,6 +31,7 @@ fields:
   label: Language
   default: Python
 pages:
+- _hacktoberfest_projects/Python/okfn-brasil+serenata-de-amor.md
 - _hacktoberfest_projects/Python/prefeiturasp+SME-PratoAberto-API.md
 - _hacktoberfest_projects/Python/mari-linhares+tensorflow-brasil.md
 - _hacktoberfest_projects/Python/jtemporal+caipyra.md
