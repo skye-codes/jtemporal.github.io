@@ -31,6 +31,7 @@ fields:
   label: Language
   default: Python
 pages:
+- _hacktoberfest_projects/Python/cobrateam+splinter.md
 - _hacktoberfest_projects/Python/lamenezes+simple-model.md
 - _hacktoberfest_projects/Python/allisson+python-simple-rest-client.md
 - _hacktoberfest_projects/Python/georgeyk+loafer.md
