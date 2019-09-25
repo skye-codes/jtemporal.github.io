@@ -30,6 +30,7 @@ fields:
     required: true
   label: Language
 pages:
+- _hacktoberfest_projects/Python/juditecypreste+PyRoles.md
 - _hacktoberfest_projects/PHP/PHPJasper+phpjasper.md
 - _hacktoberfest_projects/PHP/caronae+caronae-backend.md
 - _hacktoberfest_projects/Kotlin/wilder+ftwfy.md
