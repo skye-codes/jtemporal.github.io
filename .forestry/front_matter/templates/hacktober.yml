@@ -30,6 +30,7 @@ fields:
     required: true
   label: Language
 pages:
+- _hacktoberfest_projects/JavaScript/UFERSA-Vai-de-Bike+ufersavdbAPI.md
 - _hacktoberfest_projects/JavaScript/withmoney+withmoney-api.md
 - _hacktoberfest_projects/JavaScript/withmoney+withmoney-mobile.md
 - _hacktoberfest_projects/JavaScript/raphamorim+react-tv.md
