@@ -31,6 +31,7 @@ fields:
   label: Language
   default: Python
 pages:
+- _hacktoberfest_projects/Python/pyladies-brazil+br-pyladies-pelican.md
 - _hacktoberfest_projects/Python/anapaulagomes+pytest-picked.md
 - _hacktoberfest_projects/Python/anapaulagomes+looong.md
 - _hacktoberfest_projects/Python/juditecypreste+PyRoles.md
