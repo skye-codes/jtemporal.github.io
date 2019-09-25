@@ -31,6 +31,7 @@ fields:
   label: Language
   default: Python
 pages:
+- _hacktoberfest_projects/Python/anapaulagomes+looong.md
 - _hacktoberfest_projects/Python/juditecypreste+PyRoles.md
 - _hacktoberfest_projects/PHP/PHPJasper+phpjasper.md
 - _hacktoberfest_projects/PHP/caronae+caronae-backend.md
