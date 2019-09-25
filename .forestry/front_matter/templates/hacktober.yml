@@ -30,6 +30,7 @@ fields:
     required: true
   label: Language
 pages:
+- _hacktoberfest_projects/Go/OsProgramadores+op-website-hugo.md
 - _hacktoberfest_projects/Go/goreleaser+goreleaser.md
 - _hacktoberfest_projects/Go/rumlang+rum.md
 - _hacktoberfest_projects/Go/gofn+gofn.md
