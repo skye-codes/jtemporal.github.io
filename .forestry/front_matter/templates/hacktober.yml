@@ -31,6 +31,7 @@ fields:
   label: Language
   default: Python
 pages:
+- _hacktoberfest_projects/Python/jtemporal+caipyra.md
 - _hacktoberfest_projects/Python/plenario+plenario.md
 - _hacktoberfest_projects/Python/thaisviana+AlgPedia.md
 - _hacktoberfest_projects/Python/pyladies-brazil+br-pyladies-pelican.md
