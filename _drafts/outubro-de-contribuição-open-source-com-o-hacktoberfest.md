@@ -12,7 +12,7 @@ Já está quase acabando o mês de Setembro e com isso se inicia os preparativos
 
 ## O Hacktoberfest
 
-É um evento que dura o mês inteiro e busca incentivar a participação em projetos _open-source_, então saber um pouquinho de código para participar é interessante, mas não se deixe intimidar, tem espaço para todos os níveis de conhecimento. E a melhor parte: qualquer pessoa que queira pode participar da sua própria casa!
+Esse ano, o evento é patrocinado pelo [Dev.to](https://dev.to/) e pela [Digital Ocean](https://www.digitalocean.com), e é um evento que dura o mês inteiro e busca incentivar a participação em projetos _open-source_.  Saber um pouquinho de código para participar é interessante, mas não se deixe intimidar, tem espaço para todos os níveis de conhecimento. E a melhor parte: qualquer pessoa que queira pode participar da sua própria casa!
 
 ## Objetivos
 
