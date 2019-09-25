@@ -48,7 +48,7 @@ E diferentementemente do ano passado! Essa lista agora não está mais no Medium
 <img src="{{ item.image }}" alt="" />
 <h4>{{ project }}</h4>
 <br/>
-<p>{{ item.description }}</p>
+<p>{{ item.description }}</p><br>
 <p><small>github.com</small></p>
 </div>
 </a>
