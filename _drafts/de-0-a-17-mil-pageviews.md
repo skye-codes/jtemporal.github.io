@@ -17,11 +17,11 @@ tags:
 - jekyll
 
 ---
-O primeiro website que eu coloquei no ar, era um site Django. Foi num tutorial da semana acadêmica do meu curso de graduação (Informática Biomédica) e foi ministrado pela comunidade Python de Ribeirão Preto. Foi a primeira vez que vi Python sendo usado de verdade e foi o meu primeiro deploy com direito a heroku e tudo, mas esse causo, fica pra outro momento.
+O primeiro website que eu coloquei no ar, era um site Django. Foi num tutorial da semana acadêmica do meu curso de graduação (Informática Biomédica) e foi ministrado pela comunidade Python de Ribeirão Preto. Foi a primeira vez que vi Python sendo usado de verdade e foi o meu primeiro deploy com direito a heroku e tudo, mas esse causo fica pra outro momento.
 
-Desde então, minhas habilidades de desenvolvimento evoluíram, eu conheci novas tecnologias, aprendi a contribuir avidamente com _open-source_, da pra dizer que, de um modo geral, melhorei como desenvolvedora.
+Desde então, minhas habilidades de desenvolvimento evoluíram, eu conheci novas tecnologias, aprendi a contribuir avidamente com _open-source_ dá pra dizer que, de um modo geral, melhorei como desenvolvedora.
 
-Entre o primeiro site que coloquei no ar e hoje, aprendi muitas coisas,  e, entre elas, conheci formas alternativas de publicar sites. Sendo que, de todas formas que aprendi até hoje, a minha forma favorita de colocar sites no ar é usando o GitHub Pages. Inclusive, eu [até escrevi um tutorial sobre essa forma de colocar sites no ar](https://jtemporal.com/do-tema-ao-ar/) com intuito de ajudar qualquer pessoa conheça GitHub e um tiquinho de git a ter um site.
+Entre o primeiro site que coloquei no ar e hoje, aprendi muitas coisas,  e, entre elas, conheci formas alternativas de publicar sites. Sendo que de todas formas que aprendi até hoje, a minha forma favorita de colocar sites no ar é usando o GitHub Pages. Inclusive, eu [até escrevi um tutorial sobre essa forma de colocar sites no ar](https://jtemporal.com/do-tema-ao-ar/) com intuito de ajudar qualquer pessoa conheça GitHub e um tiquinho de git a ter um site.
 
 ### Meu site, minhas regras
 
@@ -90,3 +90,12 @@ E foi bom ver o crescimento ao longo desses 3 anos:
 <center><img src="/images/IMG_3911.PNG" style="max-width:65%;"><br> <i>Imagem mostrando a quantidade de acessos ao site entre Dezembro de 2016 e Setembro de 2019. Dá para notar o vale causado pelo esquecimento da _tag_ ali entre Janeiro e Junho de 2019.</i></center>
 
 Eu considero que essa evolução é um retrato bem claro das mesmas mudanças que passei ao longo desses anos: evolução composta de altos e baixos. E finalmente chegando a uma recompensa. Puxa vida. 17 mil pageviews! Quem diria não é mesmo?
+
+### Principais pontos
+
+Então vamos recapitular bem os pontos de aprendizado:
+
+1. Escolher um tema que seja focado no que você quer apresentar, isso vai fazer toda diferença na interação entre os usários e o seu conteúdo;
+2. Se você gosta de acompanhar o que acontece nos seu site não se esqueça da _tag_ de trackeamento;
+3. Se você tem um site, aprenda um pouco de SEO e se você usar um plugin para montar as _tags_ de SEO, aprenda como ele funciona;
+4. Se quiser ter certeza estatística do impacto que uma alteração tem no seu sit
