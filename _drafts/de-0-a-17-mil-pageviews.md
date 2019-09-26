@@ -98,4 +98,4 @@ Então vamos recapitular bem os pontos de aprendizado:
 1. Escolher um tema que seja focado no que você quer apresentar, isso vai fazer toda diferença na interação entre os usários e o seu conteúdo;
 2. Se você gosta de acompanhar o que acontece nos seu site não se esqueça da _tag_ de trackeamento;
 3. Se você tem um site, aprenda um pouco de SEO e se você usar um plugin para montar as _tags_ de SEO, aprenda como ele funciona;
-4. Se quiser ter certeza estatística do impacto que uma alteração tem no seu sit
+4. Se quiser ter certeza estatística do impacto que uma alteração tem no seu site faça testes A/B.
