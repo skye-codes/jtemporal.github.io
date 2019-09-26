@@ -6,6 +6,7 @@ comments: true
 title: De 0 a 17 mil pageviews
 description: 'Como uma troca de temas impactou na quantidade de acessos do meu blog '
 tags:
+- google analytics
 - pageviews
 - seo
 - site estático
