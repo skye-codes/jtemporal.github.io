@@ -26,9 +26,9 @@ _TK Nota da autora_: existem inúmeras formas de fazer esse _pull request_ (PR),
 Abra [o repositório desse site aqui](https://github.com/jtemporal/jtemporal.github.io).
 
 <center>
-<img src="/images/repo-jtemporal.png" />
+<img src="/images/repo-jtemporal.png" alt="Imagem mostrando o repositório deste site"/>
 <br>
-<small>Imagem mostrando o repositório deste site</small>
+<small><i>Imagem mostrando o repositório deste site</i></small>
 </center>
 
 ## Copiando o template
@@ -51,7 +51,12 @@ na pasta `_hacktoberfest_projects/` temos muitas pastas, elas existem apenas com
 
 Agora, numa nova página, abra o repósitorio que você quer adicionar na lista. Aqui vamos usar de exemplo o [Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza) (Guia).
 
-![](images/repo-guia-github.png)
+<center>
+<img src="/images/repo-guia-github.png" alt="Imagem mostrando o repositório Guia do Cientista de Dados das Galáxias"/>
+<br>
+<small><i>Imagem mostrando o repositório Guia do Cientista de Dados das Galáxias</i></small>
+</center>
+
 
 ## Criando um arquivo para o projeto
 
