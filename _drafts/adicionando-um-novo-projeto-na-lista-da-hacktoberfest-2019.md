@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adicionando um novo projeto na lista da #Hacktoberfest 2019'
-date: 2019-09-27 08:00:00 -0300
+date: 2019-09-27T11:00:00.000+00:00
 image: "/images/tutorial.png"
 tags:
 - tutorial
@@ -37,7 +37,7 @@ TK gif passo_2
 
 Ainda no repositório desse site, vá até a pasta `_hacktoberfest_projects/`, lá é onde moram os dados de todos os projetos que estão sendo mostrados na lista de 2019:
 
-TK gif passo_3_1
+TK gif passo_3
 
 ## Passo 1
 
