@@ -45,9 +45,11 @@ Esse arquivo é o template de informações necessárias para mostrar corretamen
 
 Ainda no repositório desse site, vá até a pasta `_hacktoberfest_projects/`, lá é onde moram os dados de todos os projetos que estão sendo mostrados na lista de 2019:
 
-TK gif passo_3
+<center>
+<img src="https://media.giphy.com/media/KezWI4wn1os6c5DPeR/giphy.gif" alt="Gif mostrando o passo a passo descrito acima"/>
+</center>
 
-na pasta `_hacktoberfest_projects/` temos muitas pastas, elas existem apenas como por questões organizacionais, cada pasta tem o nome de uma linguagem, e o projeto que você quer adicionar deve ser acrescentado na pasta correspondente à linguagem principal do projeto.
+Na pasta `_hacktoberfest_projects/` temos muitas pastas, elas existem apenas como por questões organizacionais, cada pasta tem o nome de uma linguagem, e o projeto que você quer adicionar deve ser acrescentado na pasta correspondente à linguagem principal do projeto.
 
 ## Escolhendo um projeto para adicionar
 
@@ -64,6 +66,10 @@ Agora, numa nova página, abra o repósitorio que você quer adicionar na lista.
 O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunto de arquivos em markdown, sendo assim, vamos criar o arquivo do Guia na pasta  `Variados`. Novamente na página do site, navegue até pasta  `_hacktoberfest_projects/` e em seguida entre na pasta `Variados`. Para criar o arquivo clique em `Create new file`, em seguida cole o conteúdo que copiamos do arquivo `repo-owner+repo-name.md` no espaço de conteúdo, dê o nome do arquivo seguindo o padrão `<nome-do-dono-do-repo>+<nome-nome-do-repo>.md`. Veja o gif:
 
 TK passo5
+<center>
+<img src="" alt="Gif mostrando o passo a passo descrito acima"/>
+</center>
+
 
 ## Preenchendo as informações
 
@@ -72,9 +78,16 @@ Agora vo
 
 TK passo 6
 
+<center>
+<img src="" alt="Gif mostrando o passo a passo descrito acima"/>
+</center>
+
 ## Abrindo o PR
 
 TK passo7
+<center>
+<img src="" alt="Gif mostrando o passo a passo descrito acima"/>
+</center>
 
 Finalmente
 
