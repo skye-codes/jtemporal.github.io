@@ -37,7 +37,7 @@ TK gif passo_2
 
 Ainda no repositório desse site, vá até a pasta `_hacktoberfest_projects/`, lá é onde moram os dados de todos os projetos que estão sendo mostrados na lista de 2019:
 
-TK gif passo_3_1
+TK gif passo_3
 
 na pasta `_hacktoberfest_projects/` temos muitas pastas, elas existem apenas como por questões organizacionais, cada pasta tem o nome de uma linguagem, e o projeto que você quer adicionar deve ser acrescentado na pasta correspondente à linguagem principal do projeto.
 
@@ -47,21 +47,8 @@ Agora, numa nova página, abra o repósitorio que você quer adicionar na lista.
 
 TK imagem guia
 
-## Passo 4
-
-O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunto de arquivos em markdown, sendo assim, vamos até a pasta  `Variados`:
-
-TK passo32
-
-
-
-
-Alguns detalhes importantes aqui: o primeiro deles é que como você pode ver no gif acima, 
-
-TK gif passo_4_2
-
-Como você pode observar no gif acima, a pasta `Variados` ainda não existe. Então vamos precisar levar isso em consideração ao criar o nosso arquivo.
-
 ## Passo 5
 
-Pastas vazias são ignoradas pelo git, por isso você não consegue nem ao menos criar uma pasta vazia pela interface do GitHub, mas existe duas maneiras
+O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunto de arquivos em markdown, sendo assim, vamos criar o arquivo do Guia na pasta  `Variados`. Para criar o arquivo clique em Create new file, em seguida cole o conteúdo que copiamos do arquivo `repo-owner+repo-name.md`, dê o nome do arquivo seguindo o padrão `<nome-do-dono-do-repo>+<nome-nome-do-repo>.md`. Veja o gif:
+
+TK passo5
