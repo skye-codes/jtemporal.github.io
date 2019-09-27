@@ -36,7 +36,7 @@ Pra começar abra [o repositório desse site aqui](https://github.com/jtemporal/
 No repositório desse site, que você acabou de abrir, navegue até a pasta `.github/` e copie o conteúdo do arquivo `repo-owner+repo-name.md` (eu recomendo que você use o modo Raw do arquivo para fazer essa cópia). Veja o gif a seguir com esse processo:
 
 <center>
-<img src="https://media.giphy.com/media/Y0Jt7zY8vxlWJ0dIGv/giphy.gif" alt="Gif mostrando o passo a passo descrito acima"/>
+<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_passo_2.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
 
 Esse arquivo é o template de informações necessárias para mostrar corretamente um projeto na lista.
@@ -66,7 +66,7 @@ Agora, numa nova página, abra o repósitorio que você quer adicionar na lista.
 O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunto de arquivos em markdown, sendo assim, vamos criar o arquivo do Guia na pasta  `Variados`. Novamente na página do site, navegue até pasta  `_hacktoberfest_projects/` e em seguida entre na pasta `Variados`. Para criar o arquivo clique em `Create new file`, em seguida cole o conteúdo que copiamos do arquivo `repo-owner+repo-name.md` no espaço de conteúdo, dê o nome do arquivo seguindo o padrão `<nome-do-dono-do-repo>+<nome-nome-do-repo>.md`. Veja:
 
 <center>
-<img src="https://media.giphy.com/media/UVNEhE1oIqSuYjd0KM/giphy.gif" alt="Gif mostrando o passo a passo descrito acima"/>
+<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_passo_5.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
 
 ## Preenchendo as informações
@@ -76,7 +76,7 @@ Agora vo
 TK passo 6
 
 <center>
-<img src="https://media.giphy.com/media/TKSBThVoJD1HoHhq7x/giphy.gif" alt="Gif mostrando o passo a passo descrito acima"/>
+<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_passo_6.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
 
 ## Abrindo o PR
