@@ -25,7 +25,11 @@ _TK Nota da autora_: existem inúmeras formas de fazer esse _pull request_ (PR),
 
 Abra [o repositório desse site aqui](https://github.com/jtemporal/jtemporal.github.io).
 
-![](images/repo-jtemporal.png)
+<center>
+<img src="/images/repo-jtemporal.png" />
+<br>
+<small>Imagem mostrando o repositório deste site</small>
+</center>
 
 ## Copiando o template
 
