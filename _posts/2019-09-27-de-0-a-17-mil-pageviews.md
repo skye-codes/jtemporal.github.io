@@ -1,11 +1,12 @@
 ---
 layout: post
-date: 2019-09-16T13:00:00.000+00:00
+date: 2019-09-27 10:00:00 -0300
 image: "/images/variados.png"
 comments: true
 title: De 0 a 17 mil pageviews
 description: 'Como uma troca de temas impactou na quantidade de acessos do meu blog '
 tags:
+- static site
 - google analytics
 - pageviews
 - seo
