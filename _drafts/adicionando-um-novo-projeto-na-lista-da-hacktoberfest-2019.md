@@ -65,7 +65,16 @@ O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunt
 
 TK passo5
 
+## Preenchendo as informações
+
+Agora vo
+
+
+TK passo 6
+
 ## Abrindo o PR
+
+TK passo7
 
 Finalmente
 
