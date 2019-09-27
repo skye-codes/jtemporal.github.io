@@ -63,11 +63,10 @@ Agora, numa nova página, abra o repósitorio que você quer adicionar na lista.
 
 ## Criando um arquivo para o projeto
 
-O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunto de arquivos em markdown, sendo assim, vamos criar o arquivo do Guia na pasta  `Variados`. Novamente na página do site, navegue até pasta  `_hacktoberfest_projects/` e em seguida entre na pasta `Variados`. Para criar o arquivo clique em `Create new file`, em seguida cole o conteúdo que copiamos do arquivo `repo-owner+repo-name.md` no espaço de conteúdo, dê o nome do arquivo seguindo o padrão `<nome-do-dono-do-repo>+<nome-nome-do-repo>.md`. Veja o gif:
+O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunto de arquivos em markdown, sendo assim, vamos criar o arquivo do Guia na pasta  `Variados`. Novamente na página do site, navegue até pasta  `_hacktoberfest_projects/` e em seguida entre na pasta `Variados`. Para criar o arquivo clique em `Create new file`, em seguida cole o conteúdo que copiamos do arquivo `repo-owner+repo-name.md` no espaço de conteúdo, dê o nome do arquivo seguindo o padrão `<nome-do-dono-do-repo>+<nome-nome-do-repo>.md`. Veja:
 
-TK passo5
 <center>
-<img src="" alt="Gif mostrando o passo a passo descrito acima"/>
+<img src="https://media.giphy.com/media/UVNEhE1oIqSuYjd0KM/giphy.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
 
 
@@ -79,18 +78,20 @@ Agora vo
 TK passo 6
 
 <center>
-<img src="" alt="Gif mostrando o passo a passo descrito acima"/>
+<img src="https://media.giphy.com/media/TKSBThVoJD1HoHhq7x/giphy.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
 
 ## Abrindo o PR
 
 TK passo7
 <center>
-<img src="" alt="Gif mostrando o passo a passo descrito acima"/>
+<img src="https://media.giphy.com/media/Y2bkKMrMhG22GFUeJ8/giphy.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
 
-Finalmente
+## Possíveis problemas
 
-a pasta nao existe
+Existem principalmente dois casos em que esse fluxo vai precisar de ajustes, mas não precisa se desesperar, eu explico eles abaixo.
 
-o repo nao tem descricao
+### Caso 1: a pasta nao existe
+
+### Caso 2: o repo nao tem descricao
