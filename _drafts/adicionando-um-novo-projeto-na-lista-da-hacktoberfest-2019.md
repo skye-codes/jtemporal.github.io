@@ -37,7 +37,15 @@ TK gif passo_2
 
 Ainda no repositório desse site, vá até a pasta `_hacktoberfest_projects/`, lá é onde moram os dados de todos os projetos que estão sendo mostrados na lista de 2019:
 
-TK gif passo_3
+TK gif passo_3_1
+
+na pasta `_hacktoberfest_projects/` temos muitas pastas, elas existem apenas como por questões organizacionais, cada pasta tem o nome de uma linguagem, e o projeto deve ser adicionado à pasta correspondente a linguagem principal do projeto.
+
+## Passo 4
+
+O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunto de arquivos em markdown, sendo assim, vamos até a pasta  `Variados`:
+
+TK passo32
 
 ## Passo 1
 
@@ -45,9 +53,7 @@ Abra o repósitorio que você quer adicionar na lista numa página. Aqui vamos u
 
 TK imagem guia
 
-Alguns detalhes importantes aqui: o primeiro deles é que como você pode ver no gif acima, na pasta `_hacktoberfest_projects/` temos muitas pastas, elas existem apenas como por questões organizacionais, cada pasta tem o nome de uma linguagem, e o projeto deve ser adicionado à pasta correspondente a linguagem principal do projeto.
-
-O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunto de arquivos em markdown, sendo assim, precisamos encontrar a pasta chamada _Variados_ para colocar o projeto.
+Alguns detalhes importantes aqui: o primeiro deles é que como você pode ver no gif acima, 
 
 TK gif passo_4_2
 
