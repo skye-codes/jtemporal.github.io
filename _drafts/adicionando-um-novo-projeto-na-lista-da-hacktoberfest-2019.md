@@ -95,3 +95,9 @@ Existem principalmente dois casos em que esse fluxo vai precisar de ajustes, mas
 ### Caso 1: a pasta nao existe
 
 ### Caso 2: o repo nao tem descricao
+
+## Revisão dos passos
+
+Então pra aquela galera que só precisa de uma explicação mais concisa aqui vai!
+
+1. Crie um arquivo na pasta correspondentUse o template disponível aqui
