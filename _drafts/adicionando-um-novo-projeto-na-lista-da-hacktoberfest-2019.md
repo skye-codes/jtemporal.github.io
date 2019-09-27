@@ -23,7 +23,7 @@ _TK Nota da autora_: existem inúmeras formas de fazer esse pull request, aqui e
 
 ## Passo 1
 
-Abra o repósitorio que você quer adicionar na lista numa página. Aqui vamos usar de exemplo o[ Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza), na seção de Variados.
+Abra o repósitorio que você quer adicionar na lista numa página. Aqui vamos usar de exemplo o [Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza) (Guia), na seção de Variados.
 
 TK imagem guia
 
@@ -35,6 +35,20 @@ TK imagem do repositório
 
 ## Passo 3
 
-No repositório desse site, navegue até a pasta `.github` e copie o conteudo do arquivo `repo-owner+repo-name.md` (eu recomendo que você use o modo Raw do arquivo para fazer essa cópia). Veja o gif a seguir com esse processo:
+No repositório desse site, navegue até a pasta `.github/` e copie o conteudo do arquivo `repo-owner+repo-name.md` (eu recomendo que você use o modo Raw do arquivo para fazer essa cópia). Veja o gif a seguir com esse processo:
 
 TK gif passo_3
+
+## Passo 4
+
+Ainda na página desse site, vá até a pasta `_hacktoberfest_projects/` lá é onde moram os dados de todos os projetos que estão sendo mostrados na lista de 2019:
+
+TK gif passo_4_1
+
+Alguns detalhes importantes aqui: o primeiro deles é que como você pode ver no gif acima, na pasta `_hacktoberfest_projects/` temos muitas pastas, elas existem apenas como por questões organizacionais, cada pasta tem o nome de uma linguagem, e o projeto deve ser adicionado à pasta correspondente a linguagem principal do projeto. O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunto de arquivos em markdown, sendo assim, precisamos encontrar a pasta chamada _Variados_ para colocar o projeto.
+
+TK gif passo_4_2
+
+Como você pode observar no gif acima, a pasta `Variados` ainda não existe. Então vamos precisar levar isso em consideração ao criar o nosso arquivo.
+
+## Passo 5
