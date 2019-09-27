@@ -9,7 +9,7 @@ comments: true
 description: Vou te mostrar o passo a passo pra colocar um repo na lista de 2019
 
 ---
-A lista de projetos brasileiros para contribuir nesse Hacktoberfest 
+A lista de projetos brasileiros para contribuir nesse Hacktoberfest de 2019 é gerada automáticamente usando algumas mágicas do Liquid como eu explico nesse outro artigo. 
 
 Para isso vamos usar o seguinte pedaço de código:
 
