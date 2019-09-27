@@ -9,7 +9,7 @@ comments: true
 description: Vou te mostrar o passo a passo pra colocar um repo na lista de 2019
 
 ---
-A lista de projetos brasileiros para contribuir nesse Hacktoberfest de 2019 é gerada automáticamente usando algumas mágicas do Liquid como eu explico nesse outro artigo. Então, vamos ver como podemos adicionar um novo projeto nessa lista por meio de um _pull request_? 
+A lista de projetos brasileiros para contribuir nesse Hacktoberfest de 2019 é gerada automáticamente usando algumas mágicas do Liquid como eu explico nesse outro artigo. Então, vamos ver como podemos adicionar um novo projeto nessa lista por meio de um _pull request_?
 
 TK gif lets do this
 
@@ -23,7 +23,7 @@ _TK Nota da autora_: existem inúmeras formas de fazer esse pull request, aqui e
 
 ## Passo 1
 
-Abra o repósitorio que você quer adicionar na lista numa página. Aqui vamos usar de exemplo o[ Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza), na seção de Variados. 
+Abra o repósitorio que você quer adicionar na lista numa página. Aqui vamos usar de exemplo o[ Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza), na seção de Variados.
 
 TK imagem guia
 
@@ -35,13 +35,4 @@ TK imagem do repositório
 
 ## Passo 3
 
-No repositório desse site, 
-
-Para isso vamos usar o seguinte pedaço de código:
-
-    <div>
-      <a class="github-project-share" href="LINK DO REPOSITÓRIO" >
-        <p> DESCRIÇÃO </p>
-        <img src="LINK DA FOTO"/>
-      </a>
-    </div>
+No repositório desse site, navegue até a pasta .github e copie o conteudo do arquivo repo-owner+repo-name.md (eu recomendo que você use o modo Raw do arquivo para fazer essa cópia). Veja o gif a seguir com esse processo:
