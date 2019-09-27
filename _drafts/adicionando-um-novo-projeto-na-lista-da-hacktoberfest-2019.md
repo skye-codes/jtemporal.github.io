@@ -59,12 +59,6 @@ TK passo5
 
 Finalmente
 
-
-
-
-
-
-
 a pasta nao existe
 
 o repo nao tem descricao
