@@ -35,6 +35,6 @@ TK imagem do repositório
 
 ## Passo 3
 
-No repositório desse site, navegue até a pasta .github e copie o conteudo do arquivo repo-owner+repo-name.md (eu recomendo que você use o modo Raw do arquivo para fazer essa cópia). Veja o gif a seguir com esse processo:
+No repositório desse site, navegue até a pasta `.github` e copie o conteudo do arquivo `repo-owner+repo-name.md` (eu recomendo que você use o modo Raw do arquivo para fazer essa cópia). Veja o gif a seguir com esse processo:
 
 TK gif passo_3
