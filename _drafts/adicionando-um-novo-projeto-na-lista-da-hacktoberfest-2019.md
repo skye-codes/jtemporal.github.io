@@ -23,7 +23,19 @@ _TK Nota da autora_: existem inúmeras formas de fazer esse pull request, aqui e
 
 ## Passo 1
 
-Abra 
+Abra o repósitorio que você quer adicionar na lista numa página. Aqui vamos usar de exemplo o[ Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza), na seção de Variados. 
+
+TK imagem guia
+
+## Passo 2
+
+Em outra página, abra [o repositório desse site aqui](https://github.com/jtemporal/jtemporal.github.io).
+
+TK imagem do repositório
+
+## Passo 3
+
+No repositório desse site, 
 
 Para isso vamos usar o seguinte pedaço de código:
 
