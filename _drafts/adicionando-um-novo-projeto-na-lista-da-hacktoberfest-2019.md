@@ -39,7 +39,13 @@ Ainda no repositório desse site, vá até a pasta `_hacktoberfest_projects/`, l
 
 TK gif passo_3_1
 
-na pasta `_hacktoberfest_projects/` temos muitas pastas, elas existem apenas como por questões organizacionais, cada pasta tem o nome de uma linguagem, e o projeto deve ser adicionado à pasta correspondente a linguagem principal do projeto.
+na pasta `_hacktoberfest_projects/` temos muitas pastas, elas existem apenas como por questões organizacionais, cada pasta tem o nome de uma linguagem, e o projeto que você quer adicionar deve ser acrescentado na pasta correspondente à linguagem principal do projeto.
+
+## Passo 4
+
+Agora, numa nova página, abra o repósitorio que você quer adicionar na lista. Aqui vamos usar de exemplo o [Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza) (Guia).
+
+TK imagem guia
 
 ## Passo 4
 
@@ -47,11 +53,8 @@ O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunt
 
 TK passo32
 
-## Passo 1
 
-Abra o repósitorio que você quer adicionar na lista numa página. Aqui vamos usar de exemplo o [Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza) (Guia).
 
-TK imagem guia
 
 Alguns detalhes importantes aqui: o primeiro deles é que como você pode ver no gif acima, 
 
