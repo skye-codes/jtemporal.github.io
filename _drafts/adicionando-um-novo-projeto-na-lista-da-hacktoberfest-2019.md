@@ -69,11 +69,9 @@ O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunt
 <img src="https://media.giphy.com/media/UVNEhE1oIqSuYjd0KM/giphy.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
 
-
 ## Preenchendo as informações
 
 Agora vo
-
 
 TK passo 6
 
@@ -98,6 +96,10 @@ Existem principalmente dois casos em que esse fluxo vai precisar de ajustes, mas
 
 ## Revisão dos passos
 
-Então pra aquela galera que só precisa de uma explicação mais concisa aqui vai!
+Então pra aquela galera que só precisa de uma explicação mais concisa aqui vai! São só três passos!
 
-1. Crie um arquivo na pasta correspondentUse o template disponível aqui
+1. Crie um arquivo na pasta correspondente à linguagem principal do projeto que você quer adicionar, use o template disponível aqui e não se esqueça de nomear o arquivo seguindo a convenção `<nome-do-dono-do-repo>+<nome-nome-do-repo>.md`;
+2. Preencha os campos com as informações do projeto que você quer adicionar;
+3. Abra o PR.
+
+Aguarde a revisão e aprovação!
