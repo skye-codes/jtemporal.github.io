@@ -35,7 +35,11 @@ Pra começar abra [o repositório desse site aqui](https://github.com/jtemporal/
 
 No repositório desse site, que você acabou de abrir, navegue até a pasta `.github/` e copie o conteúdo do arquivo `repo-owner+repo-name.md` (eu recomendo que você use o modo Raw do arquivo para fazer essa cópia). Veja o gif a seguir com esse processo:
 
-TK gif passo_2
+<center>
+<img src="https://media.giphy.com/media/Y0Jt7zY8vxlWJ0dIGv/giphy.gif" alt="Gif mostrando o passo a passo descrito acima"/>
+</center>
+
+https://media.giphy.com/media/Y0Jt7zY8vxlWJ0dIGv/giphy.gif
 
 Esse arquivo é o template de informações necessárias para mostrar corretamente um projeto na lista.
 
