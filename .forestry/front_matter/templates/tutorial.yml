@@ -26,17 +26,11 @@ fields:
   type: file
   hidden: false
   default: "/images/tutorial.png"
-- name: tags2
-  label: Tags
-  type: tag_list
-  hidden: false
-  default:
-  - tutorial
 - name: tags
   type: list
   config:
     use_select: false
-    min: 
+    min: '1'
     max: 
   label: Tags
 - name: comments
