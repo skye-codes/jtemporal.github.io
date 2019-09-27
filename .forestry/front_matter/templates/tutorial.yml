@@ -12,15 +12,21 @@ fields:
   type: text
   hidden: false
   default: Título
+  config:
+    required: true
 - type: text
   name: description
   label: Subtiulo
   description: Max 70 char
+  config:
+    required: true
 - name: date
   label: Date
   type: datetime
   hidden: false
-  default: '2019-02-21T03:00:00.000+00:00'
+  default: now
+  config:
+    required: true
 - name: image
   label: Img
   type: file
