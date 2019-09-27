@@ -9,6 +9,8 @@ comments: true
 description: Vou te mostrar o passo a passo pra colocar um repo na lista de 2019
 
 ---
+A lista de projetos brasileiros para contribuir nesse Hacktoberfest 
+
 Para isso vamos usar o seguinte pedaço de código:
 
     <div>
