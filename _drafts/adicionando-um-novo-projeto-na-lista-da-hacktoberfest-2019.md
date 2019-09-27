@@ -61,7 +61,7 @@ Agora, numa nova página, abra o repósitorio que você quer adicionar na lista.
 
 ## Criando um arquivo para o projeto
 
-O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunto de arquivos em markdown, sendo assim, vamos criar o arquivo do Guia na pasta  `Variados`. Para criar o arquivo clique em `Create new file`, em seguida cole o conteúdo que copiamos do arquivo `repo-owner+repo-name.md` no espaço de conteúdo, dê o nome do arquivo seguindo o padrão `<nome-do-dono-do-repo>+<nome-nome-do-repo>.md`. Veja o gif:
+O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunto de arquivos em markdown, sendo assim, vamos criar o arquivo do Guia na pasta  `Variados`. Novamente na página do site, navegue até pasta  `_hacktoberfest_projects/` tPara criar o arquivo clique em `Create new file`, em seguida cole o conteúdo que copiamos do arquivo `repo-owner+repo-name.md` no espaço de conteúdo, dê o nome do arquivo seguindo o padrão `<nome-do-dono-do-repo>+<nome-nome-do-repo>.md`. Veja o gif:
 
 TK passo5
 
