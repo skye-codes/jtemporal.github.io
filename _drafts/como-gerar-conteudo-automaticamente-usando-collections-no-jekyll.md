@@ -4,7 +4,7 @@ title: Como gerar conteudo automaticamente usando Collections no Jekyll
 date: 2019-09-27 00:00:00 -0300
 image: "/images/tutorial.png"
 comments: true
-description: ''
+description: Usando o Liquid para preencher conteudo a partir de um conjunto de dados
 tags:
 - tutorial
 
