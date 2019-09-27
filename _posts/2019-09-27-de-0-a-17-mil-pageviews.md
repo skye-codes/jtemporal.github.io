@@ -92,7 +92,7 @@ E foi bom ver o crescimento ao longo desses 3 anos:
 
 <center><img src="/images/IMG_3911.PNG" style="max-width:65%;"><br> <i>Imagem mostrando a quantidade de acessos ao site entre Dezembro de 2016 e Setembro de 2019. Dá para notar o vale causado pelo esquecimento da _tag_ ali entre Janeiro e Junho de 2019.</i></center>
 
-Eu considero que essa evolução é um retrato bem claro das mesmas mudanças que passei ao longo desses anos: evolução composta de altos e baixos. E finalmente chegando a uma recompensa. Puxa vida. 17 mil pageviews! Quem diria não é mesmo?
+Eu não acredito que esses tipos de número são uma régua de pessoas, mesmo assim considero que essa evolução é um retrato bem claro das mesmas mudanças que passei ao longo desses anos, uma evolução composta de altos e baixos. E finalmente chegando a uma recompensa. Puxa vida. 17 mil _pageviews_! Quem diria não é mesmo?
 
 ### Principais pontos
 
