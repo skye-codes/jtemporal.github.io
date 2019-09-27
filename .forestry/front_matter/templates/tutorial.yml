@@ -26,16 +26,23 @@ fields:
   type: file
   hidden: false
   default: "/images/tutorial.png"
-- name: tags
+- name: tags2
   label: Tags
   type: tag_list
   hidden: false
   default:
   - tutorial
+- name: tags
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Tags
 - name: comments
   label: Comments
   type: boolean
-  hidden: false
+  hidden: true
   default: true
 pages:
 - _posts/adicionando-um-novo-projeto-na-lista-da-hacktoberfest-2019.md
