@@ -90,9 +90,9 @@ TK passo7
 
 Existem principalmente dois casos em que esse fluxo vai precisar de ajustes, mas não precisa se desesperar, eu explico eles abaixo.
 
-### Caso 1: a pasta nao existe
+### Caso 1: quero adicionar uma linguagem nova
 
-### Caso 2: o repo nao tem descricao
+### Caso 2: o projeto que eu quero adicionar não tem descrição
 
 ## Revisão dos passos
 
