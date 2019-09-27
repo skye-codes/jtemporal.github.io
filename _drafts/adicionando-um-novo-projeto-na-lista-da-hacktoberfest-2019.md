@@ -19,21 +19,23 @@ TK gif lets do this
 2. Uma conta no GitHub;
 3. Disposição.
 
-_TK Nota da autora_: existem inúmeras formas de fazer esse _pull request_, aqui eu vou ensinar um formato usando o navegador para que você possa fazer sua contribuição mesmo que você não tenha conhecimentos profundos de git. Se você já tem prática em contribuir com projetos no GitHub, pula direto para essa seção que tem uma lista de passos menos detalhada do PR que deve ser o suficiente pra você fazer a sua contribuição.
+_TK Nota da autora_: existem inúmeras formas de fazer esse _pull request_ (PR), aqui eu vou ensinar um formato usando o navegador para que você possa fazer sua contribuição mesmo que você não tenha conhecimentos profundos de git. Se você já tem prática em contribuir com projetos no GitHub, pula direto para essa seção que tem uma lista de passos menos detalhada do PR que deve ser o suficiente pra você fazer a sua contribuição.
 
-## Passo 1
+## Abrindo o repositório do PR
 
 Abra [o repositório desse site aqui](https://github.com/jtemporal/jtemporal.github.io).
 
 TK imagem do repositório
 
-## Passo 2
+## Copiando o template
 
 No repositório desse site, que você acabou de abrir, navegue até a pasta `.github/` e copie o conteúdo do arquivo `repo-owner+repo-name.md` (eu recomendo que você use o modo Raw do arquivo para fazer essa cópia). Veja o gif a seguir com esse processo:
 
 TK gif passo_2
 
-## Passo 3
+Esse arquivo é o template de informações necessárias para mostrar corretamente um projeto na lista.
+
+## Onde moram os projetos
 
 Ainda no repositório desse site, vá até a pasta `_hacktoberfest_projects/`, lá é onde moram os dados de todos os projetos que estão sendo mostrados na lista de 2019:
 
@@ -41,14 +43,28 @@ TK gif passo_3
 
 na pasta `_hacktoberfest_projects/` temos muitas pastas, elas existem apenas como por questões organizacionais, cada pasta tem o nome de uma linguagem, e o projeto que você quer adicionar deve ser acrescentado na pasta correspondente à linguagem principal do projeto.
 
-## Passo 4
+## Escolhendo um projeto para adicionar
 
 Agora, numa nova página, abra o repósitorio que você quer adicionar na lista. Aqui vamos usar de exemplo o [Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza) (Guia).
 
 TK imagem guia
 
-## Passo 5
+## Criando um arquivo para o projeto
 
-O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunto de arquivos em markdown, sendo assim, vamos criar o arquivo do Guia na pasta  `Variados`. Para criar o arquivo clique em Create new file, em seguida cole o conteúdo que copiamos do arquivo `repo-owner+repo-name.md`, dê o nome do arquivo seguindo o padrão `<nome-do-dono-do-repo>+<nome-nome-do-repo>.md`. Veja o gif:
+O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunto de arquivos em markdown, sendo assim, vamos criar o arquivo do Guia na pasta  `Variados`. Para criar o arquivo clique em `Create new file`, em seguida cole o conteúdo que copiamos do arquivo `repo-owner+repo-name.md` no espaço de conteúdo, dê o nome do arquivo seguindo o padrão `<nome-do-dono-do-repo>+<nome-nome-do-repo>.md`. Veja o gif:
 
 TK passo5
+
+## Abrindo o PR
+
+
+
+
+
+
+
+
+
+a pasta nao existe
+
+o repo nao tem descricao
