@@ -39,8 +39,6 @@ No repositório desse site, que você acabou de abrir, navegue até a pasta `.gi
 <img src="https://media.giphy.com/media/Y0Jt7zY8vxlWJ0dIGv/giphy.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
 
-https://media.giphy.com/media/Y0Jt7zY8vxlWJ0dIGv/giphy.gif
-
 Esse arquivo é o template de informações necessárias para mostrar corretamente um projeto na lista.
 
 ## Onde moram os projetos
