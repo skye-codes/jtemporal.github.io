@@ -70,23 +70,23 @@ Como ambos temas são Jekyll, baseados em markdown e como o mesmo padrão de cri
 </table>
 <center><i>Algumas das capas que fiz para os artigos</i></center>
 
-Por fim, chegou a hora de colocar o site no ar. Esse passo também foi bem tranquilo já que a minha configuração é simples, bastava trocar no nome do repositório no GitHub, configurar o domínio e pow! Site novo no ar!
+Por fim, chegou a hora de colocar o site no ar. Esse passo também foi bem tranquilo já que a minha configuração é simples, bastava trocar no nome do repositório no GitHub, configurar o domínio e _pow_! Site novo no ar!
 
 Depois de trocar de tema, como uma pessoa viciada em dados, eu continuei a assistir meu _analytics_ de perto, isso é... menos no mês que esqueci de colocar a _tag_ de rastreamento no site novo hehe
 
 <center><img src="http://giphygifs.s3.amazonaws.com/media/GDnomdqpSHlIs/giphy.gif"><br><a href="http://giphygifs.s3.amazonaws.com/media/GDnomdqpSHlIs/giphy.gif">Fonte</a></center>
 
-Depois de perceber que estava sem a tag e corrigir esse pequeno erro, voltamos à programação normal de assistir o _analytics_. E no mês de Agosto bati um record! Cheguei a mais de 17mil acessos!
+Depois de perceber que estava sem a _tag_ e corrigir esse pequeno erro, voltamos à programação normal de assistir o _analytics_. E no mês de Agosto bati um recorde! Cheguei a mais de 17mil acessos!
 
 <center> <img src="/images/IMG_3901.PNG" style="max-width:65%;"><br> <i>Imagem mostrando a quantidade de acessos ao site em Agosto de 2019</i></center>
 
-Claro que não foi só a alteração do tema que contribuiu para o crescimento nos acessos do site. O aumento de artigos de assuntos variados, o crescimento do [Pizza de Dados](http://pizzadedados.com/) podcast que fundei com meus amigos, e a melhoria nas tags de SEO do tema, foram pontos que podem ter contribuido para o aumento de acessos.
+Claro que não foi só a alteração do tema que contribuiu para o crescimento nos acessos do site. O aumento de artigos de assuntos variados, o crescimento do [Pizza de Dados](http://pizzadedados.com/) podcast que fundei com meus amigos, e a melhoria nas _tags_ de SEO do tema, foram pontos que podem ter contribuído para o aumento de acessos.
 
 No entanto, essa é a primeira vez que o meu site é de fato um blog, onde a primeira coisa que você vê ao entrar são os meus textos, eles também tem imagens de capa, um detalhe faltante no tema anterior. O SEO atualmente está melhor em relação ao próprio tema, mas o Moon tinha um SEO muito mais completo (mais _tags_ implementadas). O que me leva a crer que o formato do site de fato é o fator mais importante aqui. Para ter certeza estatística desse sentimento, eu deveria ter feito um [teste A/B](https://pt.wikipedia.org/wiki/Teste_A/B) para cada alteração... Mas bem, não fiz então fica aí o aprendizado para a próxima.
 
 ### Uma reflexão sobre esse processo
 
-Passar por esse processo de mudança de foco é normal. Assim como a tecnologia se transforma, as necessidades também vão mudando. E é muito gostoso perceber e permitir que o ajuste necessário perante às mudanças ocorra. No meu caso elas aconteceram gradativamente. Passei de uma pessoa que não tinha interesse em escrever nada pra alguém que publica artigos constantemente. Escrevi em plataformas pagas e troquei para plataformas gratuitas procurando espalhar conteúdo sem proibições causadas por paywalls. Meu site deixou de ser um bloco de notas público para se tornar oficialmente um blog.
+Passar por esse processo de mudança de foco é normal. Assim como a tecnologia se transforma, as necessidades também vão mudando. E é muito gostoso perceber e permitir que o ajuste necessário perante às mudanças ocorra. No meu caso elas aconteceram gradativamente. Passei de uma pessoa que não tinha interesse em escrever nada pra alguém que publica artigos constantemente. Escrevi em plataformas pagas e troquei para plataformas gratuitas procurando espalhar conteúdo sem proibições causadas por _paywalls_. Meu site deixou de ser um bloco de notas público para se tornar oficialmente um blog.
 
 E foi bom ver o crescimento ao longo desses 3 anos:
 
@@ -98,7 +98,7 @@ Eu não acredito que esses tipos de número são uma régua de pessoas, mesmo as
 
 Então vamos recapitular bem os pontos de aprendizado:
 
-1. Escolher um tema que seja focado no que você quer apresentar, isso vai fazer toda diferença na interação entre os usários e o seu conteúdo;
+1. Escolher um tema que seja focado no que você quer apresentar, isso vai fazer toda diferença na interação entre os usuários e o seu conteúdo;
 2. Se você gosta de acompanhar o que acontece nos seu site não se esqueça da _tag_ de rastreio;
-3. Se você tem um site, aprenda um pouco de SEO e se você usar um plugin para montar as _tags_ de SEO, aprenda como ele funciona;
+3. Se você tem um site, aprenda um pouco de SEO e se você usar um _plugin_ para montar as _tags_ de SEO, aprenda como ele funciona;
 4. Se quiser ter certeza estatística do impacto que uma alteração tem no seu site faça testes A/B.
