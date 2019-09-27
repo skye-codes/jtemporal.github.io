@@ -52,3 +52,5 @@ TK gif passo_4_2
 Como você pode observar no gif acima, a pasta `Variados` ainda não existe. Então vamos precisar levar isso em consideração ao criar o nosso arquivo.
 
 ## Passo 5
+
+Pastas vazias são ignoradas pelo git, por isso você não consegue nem ao menos criar uma pasta vazia pela interface do GitHub, mas existe duas maneiras 
