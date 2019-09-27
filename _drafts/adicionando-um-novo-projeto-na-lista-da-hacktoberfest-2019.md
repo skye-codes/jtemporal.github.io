@@ -23,7 +23,7 @@ _TK Nota da autora_: existem inúmeras formas de fazer esse _pull request_ (PR),
 
 ## Abrindo o repositório do PR
 
-Abra [o repositório desse site aqui](https://github.com/jtemporal/jtemporal.github.io).
+Pra começar abra [o repositório desse site aqui](https://github.com/jtemporal/jtemporal.github.io) numa página do seu navegador.
 
 <center>
 <img src="/images/repo-jtemporal.png" alt="Imagem mostrando o repositório deste site"/>
@@ -56,7 +56,6 @@ Agora, numa nova página, abra o repósitorio que você quer adicionar na lista.
 <br>
 <small><i>Imagem mostrando o repositório Guia do Cientista de Dados das Galáxias</i></small>
 </center>
-
 
 ## Criando um arquivo para o projeto
 
