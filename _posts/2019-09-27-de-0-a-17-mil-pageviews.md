@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-09-27 10:00:00 -0300
+date: 2019-09-27T13:00:00.000+00:00
 image: "/images/variados.png"
 comments: true
 title: De 0 a 17 mil pageviews
@@ -80,7 +80,7 @@ Depois de perceber que estava sem a tag e corrigir esse pequeno erro, voltamos �
 
 <center> <img src="/images/IMG_3901.PNG" style="max-width:65%;"><br> <i>Imagem mostrando a quantidade de acessos ao site em Agosto de 2019</i></center>
 
-Claro que não foi só a alteração do tema que contribuiu para o crescimento nos acessos do site. O aumento de artigos de assuntos variados, o crescimento do meu podcast [Pizza de Dados](http://pizzadedados.com/), e a melhoria nas tags de SEO do tema, foram pontos que podem ter contribuido para o aumento de acessos.
+Claro que não foi só a alteração do tema que contribuiu para o crescimento nos acessos do site. O aumento de artigos de assuntos variados, o crescimento do [Pizza de Dados](http://pizzadedados.com/) podcast que fundei com meus amigos, e a melhoria nas tags de SEO do tema, foram pontos que podem ter contribuido para o aumento de acessos.
 
 No entanto, essa é a primeira vez que o meu site é de fato um blog, onde a primeira coisa que você vê ao entrar são os meus textos, eles também tem imagens de capa, um detalhe faltante no tema anterior. O SEO atualmente está melhor em relação ao próprio tema, mas o Moon tinha um SEO muito mais completo (mais _tags_ implementadas). O que me leva a crer que o formato do site de fato é o fator mais importante aqui. Para ter certeza estatística desse sentimento, eu deveria ter feito um [teste A/B](https://pt.wikipedia.org/wiki/Teste_A/B) para cada alteração... Mas bem, não fiz então fica aí o aprendizado para a próxima.
 
