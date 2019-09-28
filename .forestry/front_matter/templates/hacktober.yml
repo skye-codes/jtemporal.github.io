@@ -31,6 +31,7 @@ fields:
   label: Language
   default: ''
 pages:
+- _hacktoberfest_projects/Variados/jonatasbaldin+python-community-map.md
 - _hacktoberfest_projects/Variados/brasil-php+blog.md
 - _hacktoberfest_projects/Python/manipuladordedados+pdiary.md
 - _hacktoberfest_projects/Python/ayr-ton+kamu.md
