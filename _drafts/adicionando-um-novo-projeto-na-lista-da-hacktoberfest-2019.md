@@ -86,7 +86,8 @@ Para tudo isso basta copiar essas informações na página do repositório e col
 
 ## Abrindo o PR
 
-TK passo7
+Depois de preencher todos os campos necessários presentes no nosso arquivo, basta abrir o PR. Então apenas desça até a área de detalhes do _commit_, escreva uma mensagem descrevendo qual projeto você está adicionando, clique em `Propose new file` e siga para propor o PR clicando em `Create Pull Request`.
+
 <center>
 <img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_passo_7.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
