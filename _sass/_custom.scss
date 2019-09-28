@@ -17,15 +17,16 @@ table {
 }
 
 .github-project-share-card {
+    border: 1px solid #1bacaf5c;
     box-sizing: border-box;
-    justify-content: center;
+    box-shadow: 1px 1px 3px #888;
     display: flex;
     flex-wrap: wrap;
-    border: 1px solid #1bacaf5c;
-    box-shadow: 1px 1px 3px #888;
+    flex-direction: column;
+    justify-content: center;
     min-height: 250px;
-    padding-: 10px;
     margin: 10px;
+    padding-: 10px;
 }
 
 .github-project-share-card > p {
@@ -35,20 +36,19 @@ table {
 }
 
 .github-project-share-card > h4 {
-    margin: 10px;
     line-height: 1.4em;
     font-size: 1.2em;
-}
-
-.github-project-share-card > p > small {
-    text-align: left;
 }
 
 .github-project-share-card > img {
     border-radius: 50%;
     width: 20%;
     height: 20%;
-    margin: 10px;
+}
+
+.github-project-share-card > h4, img, p {
+    align-self: center;
+    text-align: center;
 }
 
 th {
