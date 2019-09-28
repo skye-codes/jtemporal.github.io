@@ -46,7 +46,7 @@ Esse arquivo é o template de informações necessárias para mostrar corretamen
 Ainda no repositório desse site, vá até a pasta `_hacktoberfest_projects/`, lá é onde moram os dados de todos os projetos que estão sendo mostrados na lista de 2019:
 
 <center>
-<img src="" alt="Gif mostrando o passo a passo descrito acima"/>
+<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_passo_3.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
 
 Na pasta `_hacktoberfest_projects/` temos muitas pastas, elas existem apenas como por questões organizacionais, cada pasta tem o nome de uma linguagem, e o projeto que você quer adicionar deve ser acrescentado na pasta correspondente à linguagem principal do projeto.
@@ -83,7 +83,7 @@ TK passo 6
 
 TK passo7
 <center>
-<img src="https://media.giphy.com/media/Y2bkKMrMhG22GFUeJ8/giphy.gif" alt="Gif mostrando o passo a passo descrito acima"/>
+<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_passo_7.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
 
 ## Possíveis problemas
