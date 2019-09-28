@@ -71,12 +71,17 @@ O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunt
 
 ## Preenchendo as informações
 
-Agora vo
+Agora você pode preencher os dados do projeto no nosso arquivo, só precisamos de quatro informções:
 
-TK passo 6
+1. O link do repositório (campo `repo`);
+1. O link pra imagem de perfil da pessoa dona do repositório (campo `image`);
+1. A descrição do repositório (campo `description`);
+1. E a linguagem principal do repositório (campo `principal_language`).
+
+Para tudo isso basta copiar essas informações na página do repositório e colar na linha de campo correspondente no nosso arquivo.
 
 <center>
-<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_passo_6.gif" alt="Gif mostrando o passo a passo descrito acima"/>
+<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_passo_6.gif" alt="Gif mostrando o passo a passo descrito acima. Na parte superior o repositório do Guia de onde copiei as informações e na parte inferior o repositório deste site onde colei as informações"/>
 </center>
 
 ## Abrindo o PR
