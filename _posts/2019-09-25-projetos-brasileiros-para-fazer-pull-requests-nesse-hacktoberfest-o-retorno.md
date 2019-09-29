@@ -28,9 +28,7 @@ Novamente temos regrinhas:
 
 ## Avisos para 2019
 
-
-Pra começar, diferentementemente do ano passado, Essa lista agora não está mais no Medium! Isso quer dizer que para ajudar ela a crescer você pode mandar o link do repositório ali nos comentários que eu coloco o projeto na lista oooouuu você pode aproveitar o espírito de contribuição e mandar um PR para essa página! Todo mundo ganha <3. Como ainda temos um tempinho até Outubro, pra ninguém queimar largada, eu só vou publicar as instruções para contribuições por meio de PRs no dia 30/09/2019.
-
+Pra começar, diferentementemente do ano passado, Essa lista agora não está mais no Medium! Isso quer dizer que para ajudar ela a crescer você pode mandar o link do repositório ali nos comentários que eu coloco o projeto na lista oooouuu você pode aproveitar o espírito de contribuição e mandar um PR para essa página! O artigo \[com as instruções de como adicionar projetos tá aqui\]. Todo mundo ganha <3.
 
 Os projetos continuam separados pela linguagem principal pra facilitar as buscas pra quem lê e também em ordem alfabética pela linguagem. 😉
 
@@ -45,7 +43,7 @@ Happy Hacking!
 <div class="github-project-share">
 <a style="text-decoration: none;" href="{{ item.repo }}">
 {% assign project_info = item.relative_path |  remove: ".md" | remove: ".yml" | split: "/"  %}
-{% assign project = project_info[2] | replace: "+", "/" %}
+{% assign project = project_info\[2\] | replace: "+", "/" %}
 <div class="github-project-share-card ">
 <img src="{{ item.image }}" alt="" />
 <h4>{{ project }}</h4>
