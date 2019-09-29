@@ -9,7 +9,7 @@ comments: true
 description: Vou te mostrar o passo a passo pra colocar um repo na lista de 2019
 
 ---
-A lista de projetos brasileiros para contribuir nesse Hacktoberfest de 2019 é gerada automáticamente usando algumas mágicas do Liquid como eu explico nesse outro artigo. Então, vamos ver como podemos adicionar um novo projeto nessa lista por meio de um _pull request_?
+A lista de projetos brasileiros para contribuir nesse Hacktoberfest de 2019 é gerada automáticamente usando algumas mágicas do Liquid <!--como eu explico nesse outro artigo-->. Então, vamos ver como podemos adicionar um novo projeto nessa lista por meio de um _pull request_?
 
 TK gif lets do this
 
@@ -19,7 +19,7 @@ TK gif lets do this
 2. Uma conta no GitHub;
 3. Disposição.
 
-_TK Nota da autora_: existem inúmeras formas de fazer esse _pull request_ (PR), aqui eu vou ensinar um formato usando o navegador para que você possa fazer sua contribuição mesmo que você não tenha conhecimentos profundos de git. Se você já tem prática em contribuir com projetos no GitHub, pula direto para essa seção que tem uma lista de passos menos detalhada do PR que deve ser o suficiente pra você fazer a sua contribuição.
+_TK Nota da autora_: existem inúmeras formas de fazer esse _pull request_ (PR), aqui eu vou ensinar um formato usando o navegador para que você possa fazer sua contribuição mesmo que você não tenha conhecimentos profundos de git. Se você já tem prática em contribuir com projetos no GitHub, pula direto para <a href="#revisao">essa seção</a> que tem uma lista de passos menos detalhada do PR que deve ser o suficiente pra você fazer a sua contribuição.
 
 ## Abrindo o repositório do PR
 
