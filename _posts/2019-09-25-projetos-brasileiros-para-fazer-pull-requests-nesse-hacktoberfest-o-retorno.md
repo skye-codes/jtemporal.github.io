@@ -24,7 +24,7 @@ Então a pedidos aqui vai! Uma lista toda repleta de projetos pra você contribu
 Novamente temos regrinhas:
 
 1. Ser um projeto criado/desenvolvido/mantido por brasileiras(os);
-2. Ter pelo menos uma issue aberta.
+2. Ter pelo menos uma _issue_ aberta.
 
 ## Avisos para 2019
 
