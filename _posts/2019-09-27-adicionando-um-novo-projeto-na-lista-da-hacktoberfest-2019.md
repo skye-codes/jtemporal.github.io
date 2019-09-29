@@ -4,6 +4,12 @@ title: 'Adicionando um novo projeto na lista da #Hacktoberfest 2019'
 date: 2019-09-27T11:00:00.000+00:00
 image: "/images/tutorial.png"
 tags:
+- open source
+- contribuition
+- contribuição
+- hacktoberfest
+- git
+- github
 - tutorial
 comments: true
 description: Vou te mostrar o passo a passo pra colocar um repo na lista de 2019
