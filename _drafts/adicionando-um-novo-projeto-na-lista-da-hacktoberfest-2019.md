@@ -74,9 +74,9 @@ O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunt
 Agora você pode preencher os dados do projeto no nosso arquivo, só precisamos de quatro informções:
 
 1. O link do repositório (campo `repo`);
-1. O link pra imagem de perfil da pessoa dona do repositório (campo `image`);
-1. A descrição do repositório (campo `description`);
-1. E a linguagem principal do repositório (campo `principal_language`).
+2. O link pra imagem de perfil da pessoa dona do repositório (campo `image`);
+3. A descrição do repositório (campo `description`);
+4. E a linguagem principal do repositório (campo `principal_language`).
 
 Para tudo isso basta copiar essas informações na página do repositório e colar na linha de campo correspondente no nosso arquivo.
 
@@ -94,9 +94,11 @@ Depois de preencher todos os campos necessários presentes no nosso arquivo, bas
 
 ## Possíveis problemas
 
-Existem principalmente dois casos em que esse fluxo vai precisar de ajustes, mas não precisa se desesperar, eu explico eles abaixo.
+Existem principalmente dois casos em que esse fluxo que eu descrevi até agora vai precisar de ajustes, mas não precisa se desesperar, eu explico eles abaixo.
 
 ### Caso 1: quero adicionar uma linguagem nova
+
+Caso o projeto que você queira adicionar na lista tenha uma linguagem principal diferente daquelas já disponíveis, você deverá criar uma nova pasta. Para fazer isso pela interface do GitHub no navegador, basta você escrever o nome da pasta no campo onde escrevemos o nome do arquivo seguido de uma barra (/), ao digitar a barra, o GitHub se encarregará de criar a pasta, veja:
 
 ### Caso 2: o projeto que eu quero adicionar não tem descrição
 
