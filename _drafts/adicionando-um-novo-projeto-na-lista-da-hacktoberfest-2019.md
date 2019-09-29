@@ -98,9 +98,19 @@ Existem principalmente dois casos em que esse fluxo que eu descrevi até agora v
 
 ### Caso 1: quero adicionar uma linguagem nova
 
-Caso o projeto que você queira adicionar na lista tenha uma linguagem principal diferente daquelas já disponíveis, você deverá criar uma nova pasta. Para fazer isso pela interface do GitHub no navegador, basta você escrever o nome da pasta no campo onde escrevemos o nome do arquivo seguido de uma barra (/), ao digitar a barra, o GitHub se encarregará de criar a pasta, veja:
+Caso o projeto que você queira adicionar na lista tenha uma linguagem principal diferente daquelas já disponíveis, você deverá criar uma nova pasta. Para fazer isso pela interface do GitHub no navegador, basta você escrever o nome da pasta no campo onde escrevemos o nome do arquivo seguido de uma barra (`/`), ao digitar a barra, o GitHub se encarregará de criar a pasta, veja:
+
+<center>
+<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_criando_pasta.gif" alt="Gif mostrando o passo a passo descrito acima num repositorio de teste"/>
+</center>
+
+No gif, eu crio a pasta chamada `pasta2` e dentro dela crio o arquivo chamado `meu-arquivo.md`.
 
 ### Caso 2: o projeto que eu quero adicionar não tem descrição
+
+Nesse caso é mais fácil de resolver, basta colocar no campo `description` o conteudo `No description` assim como coloquei nesse projeto aqui:
+
+
 
 ## Revisão dos passos
 
