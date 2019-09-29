@@ -11,7 +11,6 @@ description: Vou te mostrar o passo a passo pra colocar um repo na lista de 2019
 ---
 A lista de projetos brasileiros para contribuir nesse Hacktoberfest de 2019 é gerada automáticamente usando algumas mágicas do Liquid <!--como eu explico nesse outro artigo-->. Então, vamos ver como podemos adicionar um novo projeto nessa lista por meio de um _pull request_?
 
-TK gif lets do this
 <center>
 <img src="https://i.giphy.com/media/pGac4wa4HHDMVZhFIa/giphy.webp" alt="Gif com o genio do alladin live action falando 'É hora do show!'"/>
 <br>
