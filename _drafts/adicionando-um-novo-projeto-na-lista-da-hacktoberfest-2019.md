@@ -92,6 +92,8 @@ Depois de preencher todos os campos necessários presentes no nosso arquivo, bas
 <img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_passo_7.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
 
+***
+
 ## Possíveis problemas
 
 Existem principalmente dois casos em que esse fluxo que eu descrevi até agora vai precisar de ajustes, mas não precisa se desesperar, eu explico eles abaixo.
@@ -110,9 +112,13 @@ No gif, eu crio a pasta chamada `pasta2` e dentro dela crio o arquivo chamado `m
 
 Nesse caso é mais fácil de resolver, basta colocar no campo `description` o conteudo `No description` assim como coloquei nesse projeto aqui:
 
+<center>
+<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_no_description.gif" alt="Gif mostrando o passo a passo descrito acima num repositorio de teste"/>
+</center>
 
+***
 
-## Revisão dos passos
+<h2 id="revisao">Revisão dos passos</h2>
 
 Então pra aquela galera que só precisa de uma explicação mais concisa aqui vai! São só três passos!
 
