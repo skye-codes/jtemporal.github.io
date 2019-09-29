@@ -28,7 +28,7 @@ Novamente temos regrinhas:
 
 ## Avisos para 2019
 
-Pra começar, diferentemente do ano passado, Essa lista agora não está mais no Medium! Isso quer dizer que para ajudar ela a crescer você pode mandar o link do repositório ali nos comentários que eu coloco o projeto na lista oooouuu você pode aproveitar o espírito de contribuição e mandar um PR para essa página! O artigo \[com as instruções de como adicionar projetos tá aqui\]. Todo mundo ganha <3.
+Pra começar, diferentemente do ano passado, Essa lista agora não está mais no Medium! Isso quer dizer que para ajudar ela a crescer você pode mandar o link do repositório ali nos comentários que eu coloco o projeto na lista oooouuu você pode aproveitar o espírito de contribuição e mandar um PR para essa página! O artigo \[com as instruções de como adicionar projetos tá aqui\]([https://jtemporal.com/adicionando-um-novo-projeto-na-lista-da-hacktoberfest-2019/](https://jtemporal.com/adicionando-um-novo-projeto-na-lista-da-hacktoberfest-2019/ "https://jtemporal.com/adicionando-um-novo-projeto-na-lista-da-hacktoberfest-2019/")). Todo mundo ganha <3.
 
 Os projetos continuam separados pela linguagem principal pra facilitar as buscas pra quem lê e também em ordem alfabética pela linguagem. 😉
 
