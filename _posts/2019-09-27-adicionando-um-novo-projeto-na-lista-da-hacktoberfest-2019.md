@@ -137,3 +137,7 @@ Então pra aquela galera que só precisa de uma explicação mais concisa aqui v
 3. Abra o PR.
 
 Aguarde a revisão e aprovação!
+
+***
+
+Se você quiser fazer um PR e não tem projeto em mente, [dá uma olhada nessa lista aqui](https://github.com/jtemporal/jtemporal.github.io/labels/hacktoberfest).
