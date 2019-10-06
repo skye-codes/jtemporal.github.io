@@ -41,7 +41,7 @@ Até agora eu não encontrei um aplicativo gratuito para isso. E considerando qu
 
 ### Pré-visualização do site
 
-Quando estou escrevendo no meu computador eu já tenho os processos prontos, eu consigo escrever os artigos num editor de texto como o [Remarkable](https://remarkableapp.github.io/) direto na pasta do meu site e fazer um _build_ do site na minha máquina para ver como ficará o artigo quando for publicado. No entanto, qualquer outro dispositivo que eu esteja usando como meu celular, torna impossível a tarefa de pré-visualização do site já que não tenho um ambiente de desenvolvimento nesse disposito.
+Quando estou escrevendo no meu computador eu já tenho os processos prontos, eu consigo escrever os artigos num editor de texto como o [Remarkable](https://remarkableapp.github.io/) direto na pasta do meu site e fazer um _build_ do site na minha máquina para ver como ficará o artigo quando for publicado. No entanto, qualquer outro dispositivo que eu esteja usando como meu celular, torna impossível a tarefa de pré-visualização do site já que não tenho um ambiente de desenvolvimento nesse dispositivo.
 
 Com as configurações que eu tinha até então, eu também não tinha um ambiente de _staging_, se você não sabe o que é isso, imagine que você tenha uma cópia do seu site no ar, essa cópia é separada do site real e serve para você fazer testes de alterações no seu site, desde alterações estruturais como mudanças de tema, até mesmo como um ambiente onde você pode ter uma pré-visualização online do seus posts.
 
