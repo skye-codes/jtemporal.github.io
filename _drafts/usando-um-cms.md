@@ -64,3 +64,5 @@ A funcionalidade de templates foi particularmente útil para criar os arquivos d
 Por fim, a propaganda do Forestry é que nem você nem sua equipe precisam saber fazer _commits_ ou saber como funciona o git para gerenciar o conteúdo de um blog ou site. Isso mesmo, os _commits_ acontecem atrás da ferramenta então, você pode desapegar das questões de desenvolvimento de focar em escrever. E sim, é possível ter equipes de até 4 pessoas para cada site, permitindo pequenos times a trabalhar colaborativamente no seu site.
 
 ***
+
+Se você gosta de escrever em sites como o medium.com ou tem costume de usar algo como o wordpress e quer sair dessas plataformas, unir um gerador de sites estáticos como o Jekyll ou Hugo (as opções vão muito além dessas), com uma plataforma como Forestry pode ser o caminho mais suave.
