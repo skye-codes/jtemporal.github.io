@@ -16,7 +16,7 @@ description: Com um gerenciador de conteúdo para sites estáticos tem me ajudad
   escrever mais
 
 ---
-Essa colinha é mais um dica pra você que tem um site estático!
+Essa colinha é mais um dica pra você que tem um site estático ou que está querendo migrar seu blog de ferramentas como medium.
 
 Há algum tempo dias eu descobri um negócio chamado CMS, a sigla para _Content Management System_ (_sistema de gerenciamento de conteúdo_ em português), era algo que eu estava procurando a muito tempo e não sabia.
 
