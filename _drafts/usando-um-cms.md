@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Estou usando um CMS e você deveria usar um também!
-date: 2019-03-15T03:00:00.000+00:00
+date: 2019-10-06 00:00:00 -0300
 img: "/colinha.png"
 comments: true
 tags:
