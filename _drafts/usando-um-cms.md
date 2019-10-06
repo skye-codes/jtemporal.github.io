@@ -18,17 +18,17 @@ description: Com um gerenciador de conteúdo para sites estáticos tem me ajudad
 ---
 Essa colinha é mais um dica pra você que tem um site estático ou que está querendo migrar seu blog de ferramentas como medium.
 
-Há algum tempo dias eu descobri um negócio chamado CMS, a sigla para _Content Management System_ (_sistema de gerenciamento de conteúdo_ em português), era algo que eu estava procurando a muito tempo e não sabia.
+Há alguns meses eu descobri um negócio chamado CMS, a sigla para _Content Management System_ (_sistema de gerenciamento de conteúdo_ em português), era algo que eu estava procurando a muito tempo e não sabia.
 
-Vamos lá, se você já me conhece sabe que eu passei um tempo postando coisas no medium.com e, hoje, só faço isso quando estou escrevendo para publicações como a do [Code Like a Girl](https://code.likeagirl.io/), [Data Bootcamp](https://medium.com/databootcamp) ou para a [revista do Pizza de Dados](https://medium.com/pizzadedados). Fora esses casos que envolvem publicações, meus artigos, tutoriais e colinhas sempre estão em blogs estáticos como esse aqui que você está acessando.
+Vamos lá, se você já me conhece sabe que eu passei um tempo postando coisas no medium.com e hoje só faço isso quando estou escrevendo para publicações como a do [Code Like a Girl](https://code.likeagirl.io/), [Data Bootcamp](https://medium.com/databootcamp) ou para a [revista do Pizza de Dados](https://medium.com/pizzadedados). Fora esses casos que envolvem publicações, meus artigos, tutoriais e colinhas sempre estão em blogs estáticos como esse aqui que você está acessando.
 
-Eu até ensinei como colocar sites como esse aqui [no ar usando o GitHub Pages e o Jekyll nesse tutorial](jtemporal.com/do-tema-ao-ar/). Mas confesso que, se como eu, você não está perto do seu computador 100% das vezes que começa a escrever um novo artigo, visualizar seu site pode ser complicado. Quando não estou no computador, acabo editando muitos dos meus textos no _tablet_ ou no celular e, por mais que eu adore editores de texto simples, ainda não dá pra fazer _build_ de site estático pelo Android ou iOS.
+Eu até ensinei como colocar sites [no ar usando o GitHub Pages e o Jekyll nesse tutorial](jtemporal.com/do-tema-ao-ar/). Mas confesso que, se como eu, você não está perto do seu computador 100% das vezes que começa a escrever um novo artigo, visualizar seu site pode ser complicado. Quando não estou no computador, acabo editando muitos dos meus textos no _tablet_ ou no celular e, por mais que eu adore editores de texto simples, ainda não dá pra fazer _build_ de site estático pelo Android ou iOS.
 
 E aí que entra o Forestry. É uma ferramenta para te ajudar a transpor essas barreiras mais técnicas. Então vamos ver isso com calma.
 
 ## Problemas de hoje
 
-Como falei existem uma série de fatores que atrapalham quando se tem um site estático, baseado em Markdown e que está hospedado no GitHub.
+Como falei existem uma série de fatores que atrapalham a publicação de novos artigos quando se tem um blog como o meu: um site estático, baseado em Markdown e que está hospedado no GitHub.
 
 ### Escrever textos em Markdown
 
