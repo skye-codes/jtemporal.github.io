@@ -57,11 +57,15 @@ Longe de ser uma bala de prata, a plataforma oferece um editor de textos amigáv
 
 O Forestry também te dá um ambiente de _staging_ tornando possível fazer a pré-visualização dos textos em tempo real. Você consegue configurar a ferramenta para fazer o _build_ do site com os textos em rascunho e também fazer a pré-visualização de cada texto individualmente.
 
-Uma funcionalidade que eu uso bastante é a criação de _templates_ para os tipos de artigo, onde você pode definir os campos do front-matter de cada tipo de texto que você normalmente escreve e assim evitar retrabalho. Essa funcionalidade me ajuda definindo campos obrigatórios como Título e subtítulo, assim eu não esqueço de nada importante e também definindo valores padrão para cada campo, como por exemplo a capa do artigo.
+Uma funcionalidade que eu uso bastante é a criação de _templates_ para os tipos de artigo, onde você pode definir os campos do front-matter de cada tipo de texto que você normalmente escreve e assim evitar retrabalho. Essa funcionalidade me ajuda definindo campos obrigatórios como Título e subtítulo, dessa forma, eu não esqueço de nada importante e também definindo valores padrão para cada campo, como por exemplo a capa do artigo.
 
 A funcionalidade de templates foi particularmente útil para criar os arquivos dos projetos da lista de hacktoberfest. Eu criei um _template_ com os campos que precisava preencher de cada projeto e era só uma questão de copiar e colar cada informação no campo correspondente e salvar o arquivo.
 
-Por fim, a propaganda do Forestry é que nem você nem sua equipe precisam saber fazer _commits_ ou saber como funciona o git para gerenciar o conteúdo de um blog ou site. Isso mesmo, os _commits_ acontecem atrás da ferramenta então, você pode desapegar das questões de desenvolvimento de focar em escrever. E sim, é possível ter equipes de até 4 pessoas para cada site, permitindo pequenos times a trabalhar colaborativamente no seu site.
+Por fim, a propaganda do Forestry é que nem você nem sua equipe precisam saber fazer _commits_ ou saber como funciona o git para gerenciar o conteúdo de um blog ou site. Isso mesmo, os _commits_ acontecem atrás da ferramenta então, você pode desapegar das questões de desenvolvimento de focar em escrever. E sim, é possível ter equipes de até 4 pessoas para cada site, permitindo que pequenos times trabalhem colaborativamente num seu site.
+
+## Nem tudo são flores
+
+Apesar de resolver meus problemas e me dar um lugar legal para trabalhar nos meus artigos, o Forestry ainda é uma ferramenta nova e em constante desenvolvimento. Por isso, algumas funcionalidades ainda possuem espaços para melhorias.
 
 ***
 
