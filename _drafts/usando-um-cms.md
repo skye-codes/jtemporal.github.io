@@ -24,7 +24,7 @@ Vamos lá, se você já me conhece sabe que eu passei um tempo postando coisas n
 
 Eu até ensinei como colocar sites [no ar usando o GitHub Pages e o Jekyll nesse tutorial](jtemporal.com/do-tema-ao-ar/). Mas confesso que, se como eu, você não está perto do seu computador 100% das vezes que começa a escrever um novo artigo, visualizar seu site pode ser complicado. Quando não estou no computador, acabo editando muitos dos meus textos no _tablet_ ou no celular e, por mais que eu adore editores de texto simples, ainda não dá pra fazer _build_ de site estático pelo Android ou iOS.
 
-E aí que entra o Forestry. É uma ferramenta para te ajudar a transpor essas barreiras mais técnicas. Então vamos ver isso com calma.
+E aí que entra [o Forestry](https://forestry.io/). É uma ferramenta para te ajudar a transpor essas barreiras mais técnicas. Então vamos ver isso com calma.
 
 ## Problemas de hoje
 
@@ -75,4 +75,4 @@ Fazer a integração com um site já existente pode ser um pouco assustador prin
 
 Se você gosta de escrever em sites como o medium.com ou tem costume de usar algo como o wordpress e quer sair dessas plataformas, unir um gerador de sites estáticos como o Jekyll ou Hugo (as opções vão muito além dessas), com uma plataforma como Forestry pode ser o caminho mais suave para fazer essa transição.
 
-Espero que esse relato te ajude a melhorar sua experiência de escrever. 
+Espero que esse relato te ajude a melhorar sua experiência de escrever.
