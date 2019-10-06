@@ -65,8 +65,14 @@ Por fim, a propaganda do Forestry é que nem você nem sua equipe precisam saber
 
 ## Nem tudo são flores
 
-Apesar de resolver meus problemas e me dar um lugar legal para trabalhar nos meus artigos, o Forestry ainda é uma ferramenta nova e em constante desenvolvimento. Por isso, algumas funcionalidades ainda possuem espaços para melhorias.
+Apesar de resolver meus problemas e me dar um lugar legal para trabalhar nos meus artigos, o Forestry ainda é uma ferramenta nova e em constante desenvolvimento. Por isso, algumas funcionalidades ainda possuem espaços para melhorias. Por exemplo, se você usa [_collections_](https://jekyllrb.com/docs/collections/) no Jekyll pode ter dificuldades de visualizar novas adições às suas coleções sem antes reiniciar o servidor de pré-visualizações.
+
+Fazer a integração com um site já existente pode ser um pouco assustador principalmente se você nunca se aventurou com algo similar antes. Todas as documentações são em inglês e o editor de texto não possui suporte a alguns tipos de arquivos como por exemplo .scss. Eu descobri isso pedindo ajuda ao suporte já que a plataforma não importava esses arquivos e não aparecia um notificação clara do motivo.
 
 ***
 
-Se você gosta de escrever em sites como o medium.com ou tem costume de usar algo como o wordpress e quer sair dessas plataformas, unir um gerador de sites estáticos como o Jekyll ou Hugo (as opções vão muito além dessas), com uma plataforma como Forestry pode ser o caminho mais suave.
+## Concluindo
+
+Se você gosta de escrever em sites como o medium.com ou tem costume de usar algo como o wordpress e quer sair dessas plataformas, unir um gerador de sites estáticos como o Jekyll ou Hugo (as opções vão muito além dessas), com uma plataforma como Forestry pode ser o caminho mais suave para fazer essa transição.
+
+Espero que esse relato te ajude a melhorar sua experiência de escrever. 
