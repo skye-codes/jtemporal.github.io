@@ -46,8 +46,8 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/criando-pastas-vazias-no-github-com-o-gitkeep.md
 - _posts/usando-um-cms.md
+- _posts/criando-pastas-vazias-no-github-com-o-gitkeep.md
 - _posts/2017-12-29-pyenv-inicio.md
 - _posts/2019-03-16-brincando-com-a-listagem-de-containers-docker.md
 - _posts/2017-12-30-venv-inicio.md
