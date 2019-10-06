@@ -49,6 +49,10 @@ A falta do ambiente de _staging_ me causa um trabalho a mais frequentemente. Dep
 
 ### Colocar novos textos no GitHub
 
-Além de uma dificuldade em pré-visualizar e também de compartilhar rascunhos. Por fim, chega a pior de todas: fazer _commits_ pelo celular. 
+Além de uma dificuldade em pré-visualizar e também de compartilhar rascunhos. Por fim, chega a pior de todas: fazer _commits_ pelo celular. Embora eu já tenha feito isso, é uma experiência bem desagradável, o que por sua vez me impede de publicar novos textos se eu só tiver acesso ao meu celular. Entende o dilema?
 
 ## Como o Forestry  resolve tudo isso
+
+Longe de ser uma bala de prata, a plataforma oferece um editor de textos amigável que mostra as formatações básicas elementares como títulos, hyperlinks, itálico e afins, ainda te permite criar listas, inserir blocos de códigos imagens.
+
+Uma funcionalidade que eu uso bastante também é a criação de _templates_ para os tipos de artigo, onde você pode definir os campos do front-matter de cada tipo de texto que você normalmente escreve.
