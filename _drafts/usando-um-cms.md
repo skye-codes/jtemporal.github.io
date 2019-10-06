@@ -53,6 +53,10 @@ Além de uma dificuldade em pré-visualizar e também de compartilhar rascunhos.
 
 ## Como o Forestry  resolve tudo isso
 
-Longe de ser uma bala de prata, a plataforma oferece um editor de textos amigável que mostra as formatações básicas elementares como títulos, hyperlinks, itálico e afins, ainda te permite criar listas, inserir blocos de códigos imagens.
+Longe de ser uma bala de prata, a plataforma oferece um editor de textos amigável que mostra as formatações básicas elementares como títulos, hyperlinks, itálico e afins. Ainda te permite criar listas, inserir blocos de códigos e imagens no seu texto. É amigável para pequenas telas e aceita colar textos com formatação, então eu consigo escrever meus textos offline em um aplicativo de notas e depois criar o arquivo pelo navegador do próprio celular e da mesma forma ainda é possível publicar o texto depois de pronto.
 
-Uma funcionalidade que eu uso bastante também é a criação de _templates_ para os tipos de artigo, onde você pode definir os campos do front-matter de cada tipo de texto que você normalmente escreve.
+O Forestry também te dá um ambiente de _staging_ tornando possível fazer a pré-visualização dos textos em tempo real. Você consegue configurar a ferramenta para fazer o _build_ do site com os textos em rascunho e também fazer a pré-visualização de cada texto individualmente.
+
+Uma funcionalidade que eu uso bastante também é a criação de _templates_ para os tipos de artigo, onde você pode definir os campos do front-matter de cada tipo de texto que você normalmente escreve e assim evitar retrabalho. Essa funcionalidade também me ajuda definindo campos obrigatórios como Título e subtítulo, assim eu não esqueço de nada importante.
+
+A funcionalidade de templates foi particularmente útil para criar os arquivos dos projetos da lista de hacktoberfest, eu criei um _template_ com os campos que precisava preencher de cada projeto e era só uma questão de copiar e colar e salvar o arquivo.
