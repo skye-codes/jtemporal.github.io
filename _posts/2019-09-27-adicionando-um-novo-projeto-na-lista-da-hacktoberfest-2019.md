@@ -29,7 +29,7 @@ A lista de projetos brasileiros para contribuir nesse Hacktoberfest de 2019 é g
 2. Uma conta no GitHub;
 3. Disposição.
 
-_TK Nota da autora_: existem inúmeras formas de fazer esse _pull request_ (PR), aqui eu vou ensinar um formato usando o navegador para que você possa fazer sua contribuição mesmo que você não tenha conhecimentos profundos de git. Se você já tem prática em contribuir com projetos no GitHub, pula direto para <a href="#revisao">essa seção</a> que tem uma lista de passos menos detalhada do PR que deve ser o suficiente pra você fazer a sua contribuição.
+_Nota da autora_: existem inúmeras formas de fazer esse _pull request_ (PR), aqui eu vou ensinar um formato usando o navegador para que você possa fazer sua contribuição mesmo que você não tenha conhecimentos profundos de git. Se você já tem prática em contribuir com projetos no GitHub, pula direto para <a href="#revisao">essa seção</a> que tem uma lista de passos menos detalhada do PR que deve ser o suficiente pra você fazer a sua contribuição.
 
 ## Abrindo o repositório do PR
 
