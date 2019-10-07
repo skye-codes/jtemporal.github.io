@@ -24,13 +24,15 @@ I had a few conversations where people share the following:
 
 To which my reply is always the same: _I'll tell you how we started doing Pizza de Dados, and maybe the process will help you get started_. 😉
 
-It's such a recurring subject that I decided to write about it and inspire you to make your podcast dream a reality \\ o /
+It's such a recurring subject that I decided to write about it and inspire you to make your podcast dream a reality \\o/
 
-***
-![](https://media.giphy.com/media/es4W3DeganNXa/source.gif)
-[Source](https://media.giphy.com/media/es4W3DeganNXa/source.gif)
-
-***
+<br>
+<center>
+  <img src="https://media.giphy.com/media/es4W3DeganNXa/source.gif">
+<br>
+  <a href="https://media.giphy.com/media/es4W3DeganNXa/source.gif">Source</a>
+</center>
+<br>
 
 ## The beginning
 
