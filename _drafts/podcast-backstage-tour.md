@@ -20,7 +20,7 @@ After a year of Data Pizza, I'll tell you what it's like to have a podcast.
 
 I had a few conversations where people share the following:
 
-_I've always wanted to create a podcast about insert-here-your-favorite-subject, but I don't even know where to start…_
+I've always wanted to create a podcast about insert-here-your-favorite-subject, but I don't even know where to start…
 
 To which my reply is always the same: _I'll tell you how we started doing Pizza de Dados, and maybe the process will help you get started_. 😉
 
