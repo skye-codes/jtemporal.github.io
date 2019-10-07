@@ -20,17 +20,17 @@ After a year of Data Pizza, I'll tell you what it's like to have a podcast.
 
 I had a few conversations where people share the following:
 
-I've always wanted to create a podcast about insert-here-your-favorite-subject, but I don't even know where to start…
+> I've always wanted to create a podcast about insert-here-your-favorite-subject, but I don't even know where to start…
 
 To which my reply is always the same: _I'll tell you how we started doing Pizza de Dados, and maybe the process will help you get started_. 😉
 
 It's such a recurring subject that I decided to write about it and inspire you to make your podcast dream a reality \\ o /
 
-________________
+***
+![](https://media.giphy.com/media/es4W3DeganNXa/source.gif)
+[Source](https://media.giphy.com/media/es4W3DeganNXa/source.gif)
 
-Source
-
-________________
+***
 
 ## The beginning
 
@@ -74,7 +74,6 @@ Google used to have a tool called Hangouts On Air, which is now part of YouTube.
 
 There are several types of calls on YouTube: public calls, which everyone subscribed to your channel will receive a notification when they start and can watch live; unlisted ones that people with a link can follow live if they wish, but channel subscribers will not receive notification (imagine a secret live conference); and private ones, which can be viewed by invitation only.
 
-  
 TK youtube call creation
 
 YouTube call creation screen
