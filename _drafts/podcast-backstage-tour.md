@@ -70,7 +70,7 @@ Source
 
 Google used to have a tool called Hangouts On Air, which is now part of YouTube. Basically, it allows you to make a Hangouts call and (amazingly!) record it! These calls are associated with your YouTube channel, so we kinda became YouTubers.
 
-![](/images/da-bum-tss.gif)
+<img src="/images/da-bum-tss.gif">
 
 There are several types of calls on YouTube: public calls, which everyone subscribed to your channel will receive a notification when they start and can watch live; unlisted ones that people with a link can follow live if they wish, but channel subscribers will not receive notification (imagine a secret live conference); and private ones, which can be viewed by invitation only.
 
