@@ -122,8 +122,10 @@ Of course, not every podcast is like this, and this is a dynamic that worked for
 
 Oh, and one last thing, during this natural evolution process, we also launched a recurrent funding campaign that helps us pay for Johnny's work, so if you like what we do, support our work (and Johnny's 😜).
 
+<center> <a href="http://apoia.se/pizzadedados"> <img src="/images/pizza-apoie-200.png" atl="botao com a logo do pizza e a palavra apoie escrita logo abaixo"/> </a> </center>
+
 I would also like to thank all the listeners and friends who have been following and supporting Pizza. And for you who want to start your own podcast: I hope this post helps to clarify some of the ideas and how-tos.
 
-Hugs and welcome to the podsphere.
+***
 
-<center> <a href="http://apoia.se/pizzadedados"> <img src="/images/pizza-apoie-200.png" atl="botao com a logo do pizza e a palavra apoie escrita logo abaixo"/> </a> </center>
+Hugs and welcome to the podsphere.
