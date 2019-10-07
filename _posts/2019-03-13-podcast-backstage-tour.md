@@ -5,6 +5,7 @@ date: 2019-03-13T12:00:00.000+00:00
 image: "/images/miscellaneous.png"
 comments: true
 tags:
+- tools
 - english
 - podcast
 - pizza de dados
