@@ -42,7 +42,7 @@ fields:
   hidden: false
   default: true
 pages:
-- _posts/um-passeio-pelo-backstage-de-um-podcast.md
+- _posts/podcast-backstage-tour.md
 - _posts/2019-04-10-kmeans-e-cotovelo.md
 - _posts/2019-03-13-um-passeio-pelo-backstage-de-um-podcast.md
 - _posts/2017-01-16-uma-semana-de-serenata.md
