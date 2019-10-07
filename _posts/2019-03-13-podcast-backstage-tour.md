@@ -28,9 +28,9 @@ It's such a recurring subject that I decided to write about it and inspire you t
 
 <br>
 <center>
-  <img src="https://media.giphy.com/media/es4W3DeganNXa/source.gif">
+<img src="https://media.giphy.com/media/es4W3DeganNXa/source.gif">
 <br>
-  <a href="https://media.giphy.com/media/es4W3DeganNXa/source.gif">Source</a>
+<a href="https://media.giphy.com/media/es4W3DeganNXa/source.gif">Source</a>
 </center>
 <br>
 
@@ -40,25 +40,25 @@ Assuming you already have an idea of ​​what you want to talk about, the firs
 
 If you're looking for something 100% free and without limitation - at least for the first few episodes, here's the pizza recipe (from bum tsss) we use:
 
-\* Archive.org: You'll need to **store your podcast audios** somewhere that generates a direct download link. In our case archive.org was chosen since there are no storage limitations;
+\* Archive.org: You'll need to **store your podcast audios** somewhere that generates a direct download link. In our case [archive.org](http://archive.org/) was chosen since there are no storage limitations;
 
-\* A _feed.xml_: You see, one thing you'll need to learn to have a podcast is that you need to have a file in XML format. This file is what we call the feed, and it will pose as a communication channel to let platforms and aggregators know that a new episode has come out, so you will need to host this file somewhere. In the case of Pizza, we created a site using a Jekyll template and hosted it on GitHub.
+\* A _feed.xml_: You see, one thing you'll need to learn to have a podcast is that you need to have a file in XML format. This file is what we call the feed, and it will pose as a communication channel to let platforms and aggregators know that a new episode has come out, so you will need to host this file somewhere. In the case of Pizza, we created a site using a [Jekyll template](http://jekyllthemes.org/) and hosted it on GitHub.
 
 ## A website
 
-We wanted to show the world what was being discussed and who was participating in each episode. To accomplish that, we made a site that would have a post for each episode and hosted it on GitHub. GitHub has a tool called GitHub Pages that is for anyone to put websites online (I made a post on how to do it that you can check out).
+We wanted to show the world what was being discussed and who was participating in each episode. To accomplish that, we made a site that would have a post for each episode and hosted it on GitHub. GitHub has a tool called GitHub Pages that is for anyone to put websites online ([I made a post - in portuguese - on how to do it that you can check out](https://jtemporal.com/do-tema-ao-ar/)).
 
 Basically, the most widely used way to distribute podcasts today is by using Apple. Other than showing information from each episode, our website also had a crucial role in serving our feed.xml. Most Jekyll templates come with a standard feed, but you may need to make some adjustments.
 
-For Apple to know that your podcast exists, you need to create an account on Podcasts Connect and submit the feed with the standards that Apple specifies. In our case, this submission process was a bit boring, as we need some interaction until the feed is 100% up to standard, but once the feed was ready and validated to Apple podcast specifications, we were prepared to distribute Pizza through there.
+For Apple to know that your podcast exists, you need to [create an account on Podcasts Connect](https://help.apple.com/itc/podcasts_connect/#/itc97d9d1513) and [submit the feed with the standards that Apple specifies](https://help.apple.com/itc/podcasts_connect/#/itc4f0f5ac7d). In our case, this submission process was a bit boring, as we need some interaction until the feed is 100% up to standard, but once the feed was ready and [validated to Apple podcast specifications](https://github.com/PizzaDeDados/pizzadedadosantigo/blob/master/feed.xml), we were prepared to distribute Pizza through there.
 
 ## Before recording
 
-Before we get to \~ put the pizza in the oven \~ we have to plan. Our podcast is mainly made of interviews in a friendly chat environment, but for that to happen, we prepare a lot.
+Before we get to \~put the pizza in the oven\~ we have to plan. Our podcast is mainly made of interviews in a friendly chat environment, but for that to happen, we prepare a lot.
 
 The first step then is to choose a guest or guests to chat with us. We have a giant spreadsheet with names of people we want to bring to Pizza on a wide range of subjects within data science. It is from this spreadsheet that we mainly chose the people who come to talk to us. Next to each person's name, we have a list of subjects that led to her/him being on the list.
 
-Based on the person chosen and the subject in which she or he specializes in Leticia Portella, Gustavo Coelho, and I share several posts and articles internally until the recording date. We use this as a way to prepare and write “the agenda” of the day. The agenda itself is a relatively simple file with topics and questions of interest to us. We send it to our guests at least a week in advance so that 1) he or she can contribute with issues to be discussed and 2) can prepare on what is coming and feel as comfortable as possible while recording.
+Based on the person chosen and the subject in which she or he specializes in [Leticia Portella](http://leportella.com/), [Gustavo Coelho](http://www.gusrabbit.com/), and I share several posts and articles internally until the recording date. We use this as a way to prepare and write “the agenda” of the day. The agenda itself is a relatively simple file with topics and questions of interest to us. We send it to our guests at least a week in advance so that 1) he or she can contribute with issues to be discussed and 2) can prepare on what is coming and feel as comfortable as possible while recording.
 
 The agenda is **not** a rigid set of topics, we will not talk precisely about what is written on it, but it serves to prevent us from getting caught in moments of "we have nothing to talk about". In most cases, the conversation flows naturally, and the agenda is hardly ever used.
 
@@ -68,17 +68,33 @@ An important point of preparation is also the alignment of schedules. Matching t
 
 In the beginning, we tested two ways to record, the first was using a video conferencing program called Zoom, but Zoom's free account limits conference time when you have more than 2 people in the room (one of the reasons for the first episode being one of the shortest). With time limitation being the screaming factor, we switched to YouTube. That's right, the Pizza episodes are recorded on YouTube.
 
-Source
+<br>
+<center>
+<img src="https://media.giphy.com/media/1yTcE7OlChz4qU0ehj/source.gif">
+<br>
+<a href="https://media.giphy.com/media/1yTcE7OlChz4qU0ehj/source.gif">Source</a>
+</center>
+<br>
+
 
 Google used to have a tool called Hangouts On Air, which is now part of YouTube. Basically, it allows you to make a Hangouts call and (amazingly!) record it! These calls are associated with your YouTube channel, so we kinda became YouTubers.
 
-<img src="https://jtemporal.com/images/da-bum-tss.gif">
+<br>
+<center>
+<img src="https://media.giphy.com/media/cD7PLGE1KWOhG/source.gif">
+<br>
+<a href="https://media.giphy.com/media/cD7PLGE1KWOhG/source.gif">Source</a>
+</center>
+<br>
 
 There are several types of calls on YouTube: public calls, which everyone subscribed to your channel will receive a notification when they start and can watch live; unlisted ones that people with a link can follow live if they wish, but channel subscribers will not receive notification (imagine a secret live conference); and private ones, which can be viewed by invitation only.
 
-TK youtube call creation
-
+![](/images/yt_call_creation.png)
+<br>
+<center><i><small>
 YouTube call creation screen
+</small></i></center>
+<br>
 
 Today is exactly what we do, we create the private call on YouTube and send the call link to the guests, so we can record without anyone watching. 😋
 
