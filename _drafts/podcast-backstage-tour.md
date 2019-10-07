@@ -70,9 +70,12 @@ Source
 
 Google used to have a tool called Hangouts On Air, which is now part of YouTube. Basically, it allows you to make a Hangouts call and (amazingly!) record it! These calls are associated with your YouTube channel, so we kinda became YouTubers.
 
-Source
+![](/images/da-bum-tss.gif)
 
 There are several types of calls on YouTube: public calls, which everyone subscribed to your channel will receive a notification when they start and can watch live; unlisted ones that people with a link can follow live if they wish, but channel subscribers will not receive notification (imagine a secret live conference); and private ones, which can be viewed by invitation only.
+
+  
+TK youtube call creation
 
 YouTube call creation screen
 
@@ -82,25 +85,24 @@ After we finish recording, we use youtube-dl to download only call audio with th
 
 ## Edition
 
-If you follow Pizza from the beginning, you know that we have evolved a lot in the last year, right? Today we have our own audio magician: Johnny (we love you Johnny ❤), but at first, it wasn't always like this…
+If you [follow Pizza from the beginning](https://podcast.pizzadedados.com/e/episodio-001-hello-world), you know that we have evolved a lot in the last year, right? Today we have our own audio magician: Johnny (we love you Johnny ❤), but at first, it wasn't always like this…
 
-In the beginning, we did the editing ourselves. That consisted of cutting silences and language vices using a program called Audacity. It caters to many audio things from recording to editing and supports all operating systems we use.
+In the beginning, we did the editing ourselves. That consisted of cutting silences and language vices using a program called [Audacity](https://www.audacityteam.org/). It caters to many audio things from recording to editing and supports all operating systems we use.
 
-Editing was by far the most massive task for us since we had zero knowledge of how to do it. This step took the time that we didn't have to give, it was the task that most prevented the episode from being released at regular intervals. But we made it work. Finally, a few months into the podcast, we partnered with Data Bootcamp, and that allowed us to pay Johnny and free up our time to focus on other activities.
+Editing was by far the most massive task for us since we had zero knowledge of how to do it. This step took the time that we didn't have to give, it was the task that most prevented the episode from being released at regular intervals. But we made it work. Finally, a few months into the podcast, we partnered with [Data Bootcamp](https://www.databootcamp.com.br/ "Data Bootcamp"), and that allowed us to pay Johnny and free up our time to focus on other activities.
 
 ## Making the post
 
 Apart from editing, we still have to write the episode post. This is the second most massive task. We listen to the audio and write down every technical term and concept we mention, then look for reference links on said subject to add to the post.
 
-After doing this task sometimes, we created a template that has the skeleton of a post, so we avoid rewriting the repeating sections like “Listen Now” and “People in this episode”, this template also helps us not to forget any parts that should appear on a typical post.
+After doing this task sometimes, we created a template that has the skeleton of a post, so we avoid rewriting the repeating sections like _“Listen Now”_ and _“People in this episode”_, this template also helps us not to forget any parts that should appear on a typical post. 😉
 
 ## YouTube episode
 
 Did you know that in addition to using YouTube for recording, we also release Pizza episodes on YouTube? Each one is also rendered as a video. To do that we use two tools:
 
-1\. kdenlive: The most straightforward video editor I've found for Linux;
-
-2\. Canva: An online platform for making designs. You may have noticed that the Pizza arts have the "same face", this happens because we use Canva to standardize our brand, there we save in our primary colors, the font we use, the Pizza icon and the images we use as templates for YouTube and other social networks.
+1. [kdenlive](https://kdenlive.org/en/): The most straightforward video editor I've found for Linux;
+2. [Canva](https://www.canva.com/): An online platform for making designs. You may have noticed that the Pizza arts have the "same face", this happens because we use Canva to standardize our brand, there we save in our primary colors, the font we use, the Pizza icon and the images we use as templates for YouTube and other social networks.
 
 Usually, the video rendering happens alongside posts write-ups since every post comes with an embed of the video uploaded to YouTube as an alternative platform for people to listen.
 
@@ -114,15 +116,15 @@ After all of this process is done, finally comes new episode release day. Rememb
 
 So on the agreed release date, one of the 3 pizzaiolos would go to GitHub and create a pull request on the website project to finally air the new chapter. Pull request accepted, GitHub takes care of updating the site and officializing the release of the latest episode.
 
-________________
+***
 
 ## Final considerations
 
 Of course, not every podcast is like this, and this is a dynamic that worked for us, recently we went through some changes, and you may have noticed that the new Pizza landing page no longer has the episodes posts. And that may also happen to you after the podcast takes flight, you will notice a natural evolution.
 
-Oh, and one last thing, during this natural evolution process, we also launched a recurrent funding campaign that helps us pay for Johnny's work, so if you like what we do, support our work (and Johnny's 😜).
+Oh, and one last thing, during this natural evolution process, we also launched a recurrent funding campaign that helps us pay for Johnny's work, so if you like what we do, [support our work](https://apoia.se/pizzadedados) (and Johnny's 😜).
 
-<center> <a href="http://apoia.se/pizzadedados"> <img src="/images/pizza-apoie-200.png" atl="botao com a logo do pizza e a palavra apoie escrita logo abaixo"/> </a> </center>
+<center> <a href="https://apoia.se/pizzadedados"> <img src="/images/pizza-apoie-200.png" atl="botao com a logo do pizza e a palavra apoie escrita logo abaixo"/> </a> </center>
 
 I would also like to thank all the listeners and friends who have been following and supporting Pizza. And for you who want to start your own podcast: I hope this post helps to clarify some of the ideas and how-tos.
 
