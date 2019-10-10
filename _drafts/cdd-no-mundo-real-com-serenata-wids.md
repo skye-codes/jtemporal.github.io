@@ -24,6 +24,5 @@ Você pode [assistir essa palestra aqui](https://videoh.infoq.com/presentations-
 
 <center>
 
-<iframe src="//slides.com/jtemporal/serenata-devconf/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+<iframe src="//slides.com/jtemporal/wids2019/embed" width="100%" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </center>
