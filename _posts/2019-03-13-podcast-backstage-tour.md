@@ -17,7 +17,7 @@ Nota da autora: Se preferir [leia esse artigo em português](https://medium.com/
 
 ***
 
-After a year of Data Pizza, I'll tell you what it's like to have a podcast.
+After a year of [Pizza de Dados](https://pizzadedados.com/en/), I'll tell you what it's like to have a podcast.
 
 I had a few conversations where people share the following:
 
@@ -76,7 +76,6 @@ In the beginning, we tested two ways to record, the first was using a video conf
 <a href="https://media.giphy.com/media/1yTcE7OlChz4qU0ehj/source.gif">Source</a>
 </center>
 <br>
-
 
 Google used to have a tool called Hangouts On Air, which is now part of YouTube. Basically, it allows you to make a Hangouts call and (amazingly!) record it! These calls are associated with your YouTube channel, so we kinda became YouTubers.
 
