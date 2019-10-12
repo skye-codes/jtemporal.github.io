@@ -46,6 +46,7 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/2018-01-07-temas-jekyll.md
 - _posts/2019-10-06-usando-um-cms.md
 - _posts/criando-pastas-vazias-no-github-com-o-gitkeep.md
 - _posts/2017-12-29-pyenv-inicio.md

@@ -1,7 +1,7 @@
 ---
-title: "Escolhendo um tema Jekyll"
+title: Escolhendo um tema Jekyll
 layout: post
-date: '2018-01-07 08:00:00'
+date: 2018-01-07 08:00:00
 image: "/images/colinha.png"
 tags:
 - colinha
@@ -10,9 +10,16 @@ tags:
 - ruby
 - português
 comments: true
----
+description: Escolhendo um tema para o seu blog e começando a postar sem demora
 
-Acho que a maioria dos desenvolvedores que decidem começar um blog encontra-se no dilema: _Agora eu sei HTML e CSS e vou fazer o meu blog, ele vai ser super leve e acessível..._ e por aí começa a descida pela toca do coelho. Passados três meses o blog pode até estar pronto mas nada ainda foi publicado. Então a colinha de hoje vai pra você que quer colocar conteudo na nuvem e não se apegar num primeiro momento nas decisões de código.
+---
+***
+
+[Read this post in English.](https://jtemporal.com/choosing-a-jekyll-theme/)
+
+***
+
+Acho que a maioria dos desenvolvedores que decidem começar um blog encontra-se no dilema: _Agora eu sei HTML e CSS e vou fazer o meu blog, ele vai ser super leve e acessível..._ e por aí começa a descida pela toca do coelho. Passados três meses o blog pode até estar pronto mas nada ainda foi publicado. Então a colinha de hoje vai pra você que quer colocar conteúdo na nuvem e não se apegar num primeiro momento nas decisões de código.
 
 Eu devo ter dado essa dica e defendido essa escolha para muitas pessoas que querem começar um blog e não querem se prender as grandes plataformas. Então aqui vai pra você também: Use [Jekyll](https://jekyllrb.com/).
 
@@ -24,4 +31,4 @@ Depois de ter colocado no ar você pode começar a fazer melhorias e/ou alterar 
 
 E aí, já escolheu o seu tema?
 
-----
+***
