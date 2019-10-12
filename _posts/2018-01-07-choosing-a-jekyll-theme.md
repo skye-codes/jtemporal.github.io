@@ -16,7 +16,7 @@ description: Chose a theme and start blog without fuss
 ---
 ***
 
-Author note: [Leia este artigo em Português.](https://jtemporal.com/temas-jekyll/)
+_Author note:_ [Leia este artigo em Português.](https://jtemporal.com/temas-jekyll/)
 
 ***
 
