@@ -4,7 +4,7 @@ date: 2019-09-27T13:00:00.000+00:00
 image: "/images/miscellaneous.png"
 comments: true
 title: From 0 to 17 thousand pageviews
-description: 'Como uma troca de temas impactou na quantidade de acessos do meu blog '
+description: How a theme exchange impacted the number of hits on my blog
 tags:
 - english
 - static site
