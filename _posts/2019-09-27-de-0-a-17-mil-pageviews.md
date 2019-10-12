@@ -20,6 +20,12 @@ tags:
 - jekyll
 
 ---
+***
+
+Nota da autora: Read [this post in English](https://jtemporal.com/from-0-to-17-thousand-pageviews/).
+
+***
+
 O primeiro website que eu coloquei no ar, era um site Django. Foi num tutorial da semana acadêmica do meu curso de graduação (Informática Biomédica) e foi ministrado pela comunidade Python de Ribeirão Preto. Foi a primeira vez que vi Python sendo usado de verdade e foi o meu primeiro deploy com direito a heroku e tudo, mas esse causo fica pra outro momento.
 
 Desde então, minhas habilidades de desenvolvimento evoluíram, eu conheci novas tecnologias, aprendi a contribuir avidamente com _open-source_ dá pra dizer que, de um modo geral, melhorei como desenvolvedora.
