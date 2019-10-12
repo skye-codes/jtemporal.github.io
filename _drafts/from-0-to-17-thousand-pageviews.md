@@ -85,11 +85,9 @@ Going through this process of changing focus is normal. As needs change, so do t
 
 And it was good to see the growth over these 3 years:
 
-TK something
+<center><img src="/images/IMG_3911.PNG" style="max-width:65%;"><br> <i>Image showing the number of hits to the site between December 2016 and September 2019. You can see the valley caused by forgetting the analytics _tag_ there between January and June of 2019.</i></center>
 
-Image showing the number of hits to the site between December 2016 and September 2019. You can see the valley caused by forgetting the analytics _tag_ there between January and June of 2019.
-
-I do not believe that these types of numbers can be used to measure people, yet I consider this evolution to be a visible picture of the same changes I have experienced over the years, an evolution composed of ups and downs. And then finally arriving at a reward. Gosh, 17 thousand pageviews! Who would've guessed it?
+I do not believe that these numbers can be used to measure people, yet I consider this evolution to be a visible picture of the same changes I have experienced over the years, an evolution composed of ups and downs. And then finally arriving at a reward. Gosh, 17 thousand pageviews! Who would've guessed it?
 
 ## Take away points
 
@@ -137,16 +135,3 @@ No entanto, essa é a primeira vez que o meu site é de fato um blog, onde a pri
 Passar por esse processo de mudança de foco é normal. Assim como a tecnologia se transforma, as necessidades também vão mudando. E é muito gostoso perceber e permitir que o ajuste necessário perante às mudanças ocorra. No meu caso elas aconteceram gradativamente. Passei de uma pessoa que não tinha interesse em escrever nada pra alguém que publica artigos constantemente. Escrevi em plataformas pagas e troquei para plataformas gratuitas procurando espalhar conteúdo sem proibições causadas por _paywalls_. Meu site deixou de ser um bloco de notas público para se tornar oficialmente um blog.
 
 E foi bom ver o crescimento ao longo desses 3 anos:
-
-<center><img src="/images/IMG_3911.PNG" style="max-width:65%;"><br> <i>Imagem mostrando a quantidade de acessos ao site entre Dezembro de 2016 e Setembro de 2019. Dá para notar o vale causado pelo esquecimento da _tag_ ali entre Janeiro e Junho de 2019.</i></center>
-
-Eu não acredito que esses tipos de número são uma régua de pessoas, mesmo assim considero que essa evolução é um retrato bem claro das mesmas mudanças que passei ao longo desses anos, uma evolução composta de altos e baixos. E finalmente chegando a uma recompensa. Puxa vida. 17 mil _pageviews_! Quem diria não é mesmo?
-
-### Principais pontos
-
-Então vamos recapitular bem os pontos de aprendizado:
-
-1. Escolher um tema que seja focado no que você quer apresentar, isso vai fazer toda diferença na interação entre os usuários e o seu conteúdo;
-2. Se você gosta de acompanhar o que acontece nos seu site não se esqueça da _tag_ de rastreio;
-3. Se você tem um site, aprenda um pouco de SEO e se você usar um _plugin_ para montar as _tags_ de SEO, aprenda como ele funciona;
-4. Se quiser ter certeza estatística do impacto que uma alteração tem no seu site faça testes A/B.
