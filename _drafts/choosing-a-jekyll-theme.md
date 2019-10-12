@@ -2,26 +2,34 @@
 title: Choosing a Jekyll theme
 layout: post
 date: 2018-01-07 08:00:00
-image: "/images/colinha.png"
+image: "/images/pro_tip.png"
 tags:
-- colinha
+- english
+- theme
+- pro-tip
+- protip
 - jekyll
-- temas
 - ruby
-- português
 comments: true
+description: Chose a theme and start blog without fuss
 
 ---
-Acho que a maioria dos desenvolvedores que decidem começar um blog encontra-se no dilema: _Agora eu sei HTML e CSS e vou fazer o meu blog, ele vai ser super leve e acessível..._ e por aí começa a descida pela toca do coelho. Passados três meses o blog pode até estar pronto mas nada ainda foi publicado. Então a colinha de hoje vai pra você que quer colocar conteudo na nuvem e não se apegar num primeiro momento nas decisões de código.
+***
 
-Eu devo ter dado essa dica e defendido essa escolha para muitas pessoas que querem começar um blog e não querem se prender as grandes plataformas. Então aqui vai pra você também: Use [Jekyll](https://jekyllrb.com/).
+Leia este artigo em Português.
 
-Isso mesmo, uma ferramenta open source escrita em [Ruby](http://ruby-lang.org/), Jekyll é capaz de transformar um monte de arquivos em um website estático pronto para publicação. Okay, okay a essa hora você já deve estar pensando que vai cair naquele dilema de novo de construir do zero mas não, vou te contar um dos motivos que gosto tanto do Jekyll: existe uma plataforma com uma coleção gigantesca de temas já prontos chamada [Jekyll Themes](http://jekyllthemes.org/).
+***
 
-Esse site aqui, saiu de um tema feito pelo Taylan Tatlı, o [Moon](http://jekyllthemes.org/themes/moon/). Existem temas para todos os gostos, a maioria deles com instruções passo-a-passo de como alterá-lo. Junte isso com o [GitHub Pages](https://pages.github.com/) e seu site estará no ar rapidinho.
+I think most developers who decide to start a blog find themselves in a dilemma: I know HTML and CSS, and I can make my blog, it is going to be super light and fast… And so begins the descent into the rabbit hole. Three months later, the blog may be ready, but nothing was published. So today's pro-tip goes to you who wants to put content out there and doesn't want to get caught up in code decisions at first.
 
-Depois de ter colocado no ar você pode começar a fazer melhorias e/ou alterar o seu tema aos pouquinhos. Isso me ajudou no começo pode ser que seja o que você precisa também ;)
+I must have given this tip and defended this choice to many people who want to start a blog and don't want to stick to the big platforms. So here it goes for you too: Use [Jekyll](https://translate.google.com/translate?hl=pt-BR&prev=_t&sl=auto&tl=en&u=https://jekyllrb.com/).
 
-E aí, já escolheu o seu tema?
+That's right, an open-source tool written in [Ruby](https://translate.google.com/translate?hl=pt-BR&prev=_t&sl=auto&tl=en&u=http://ruby-lang.org/), Jekyll can turn many text files into a static website ready for publication. Okay, okay by now, you might be thinking you're going to fall into that dilemma of building from scratch again, but that's not the case, one of the reasons I like Jekyll so much is that there's a platform with a vast collection of ready-made themes called [Jekyll themes](https://translate.google.com/translate?hl=pt-BR&prev=_t&sl=auto&tl=en&u=http://jekyllthemes.org/).
 
-----
+The first version of this site here came out of a theme made by Taylan Tatlı called [Moon](https://translate.google.com/translate?hl=pt-BR&prev=_t&sl=auto&tl=en&u=http://jekyllthemes.org/themes/moon/). There are so many themes to choose from, that I bet you can find one that suits your needs; most of them with step-by-step instructions on how to customize the theme itself. Put this together with [GitHub Pages](https://translate.google.com/translate?hl=pt-BR&prev=_t&sl=auto&tl=en&u=https://pages.github.com/), and your site will be up and running fast.
+
+Once you have released your site, you can start making improvements and modifying your theme little by little. Using Jekyll and GitHub Pages helped me, in the beginning, and it may be what you need too ;)
+
+So, have you chosen your theme?
+
+***
