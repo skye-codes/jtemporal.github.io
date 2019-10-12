@@ -59,12 +59,8 @@ Because both themes are Jekyll, based on markdown, and both have the same patter
 
 <table>
 <tr>
-<td><img src="/images/tutorial.png"></td>
 <td><img src="/images/miscellaneous.png"></td>
-</tr>
-<tr>
-<td><img src="/images/protip.png"></td>
-<td><img src="/images/palestra.png"></td>
+<td><img src="/images/pro_tip.png"></td>
 </tr>
 </table>
 <center><i>Some of the covers I made for the articles</i></center>
