@@ -22,7 +22,7 @@ tags:
 ---
 ***
 
-Nota da autora: Read [this post in English](https://jtemporal.com/from-0-to-17-thousand-pageviews/).
+_Nota da autora:_ Read [this post in English](https://jtemporal.com/from-0-to-17-thousand-pageviews/).
 
 ***
 
