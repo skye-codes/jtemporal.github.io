@@ -96,4 +96,4 @@ So let's recap the learning points:
 1. Choosing a theme that focuses on what you want to present makes all the difference in the interaction between users and your content;
 2. If you like to keep track of what happens on your site don't forget the analytics tag ;
 3. If you have a website, learn a little SEO and if you use a plugin to assemble the SEO tags, learn how it works;
-4. If you want to be statistically sure of the impact a change has on your site, do A / B testing.
+4. If you want to be statistically sure of the impact a change has on your site, do A/B testing.
