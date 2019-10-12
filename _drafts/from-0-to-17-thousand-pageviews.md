@@ -65,9 +65,7 @@ Finally, the time has come to put the new face of the site online. This step was
 
 After changing the theme, as a data addict, I continued to watch my analytics closely, a month passed by, and I finally realized I forgot to put the tracking tag on the new site hehe.
 
-TK something
-
-Source
+<center><img src="http://giphygifs.s3.amazonaws.com/media/GDnomdqpSHlIs/giphy.gif"><br><a href="http://giphygifs.s3.amazonaws.com/media/GDnomdqpSHlIs/giphy.gif">Source</a></center>
 
 After realizing that I was missing the tag and correcting this small mistake, we returned to the usual programmation of analytics watching. And in August 2019, I broke a record! I reached more than 17,000 hits!
 
@@ -117,5 +115,3 @@ Como ambos temas são Jekyll, baseados em markdown e como o mesmo padrão de cri
 Por fim, chegou a hora de colocar o site no ar. Esse passo também foi bem tranquilo já que a minha configuração é simples, bastava trocar no nome do repositório no GitHub, configurar o domínio e _pow_! Site novo no ar!
 
 Depois de trocar de tema, como uma pessoa viciada em dados, eu continuei a assistir meu _analytics_ de perto, isso é... menos no mês que esqueci de colocar a _tag_ de rastreamento no site novo hehe
-
-<center><img src="http://giphygifs.s3.amazonaws.com/media/GDnomdqpSHlIs/giphy.gif"><br><a href="http://giphygifs.s3.amazonaws.com/media/GDnomdqpSHlIs/giphy.gif">Fonte</a></center>
