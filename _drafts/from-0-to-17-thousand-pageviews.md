@@ -71,13 +71,11 @@ Source
 
 After realizing that I was missing the tag and correcting this small mistake, we returned to the usual programmation of analytics watching. And in August 2019, I broke a record! I reached more than 17,000 hits!
 
-TK something
+<center> <img src="/images/IMG_3901.PNG" style="max-width:65%;"><br> <i>Image showing amount of site hits in August 2019</i></center>
 
-Image showing amount of site hits in August 2019
+Of course, it wasn't just the change of theme that led to the growth in site hits. The increase in articles on various subjects, the growth of the [Pizza de Dados](https://pizzadedados.com/en/), the podcast I founded with my friends, and the improved SEO tags on the theme itself, may have contributed to the increase in hits.
 
-Of course, it wasn't just the change of theme that led to the growth in site hits. The increase in articles on various subjects, the growth of the Pizza de Dados, the podcast I founded with my friends, and the improved SEO tags on the theme itself, may have contributed to the increase in hits.
-
-However, this is the first time my site is a blog, where the first thing you see upon opening the page is my posts, they also have cover images, a missing detail in the previous theme. SEO is currently doing better on the theme itself, but Moon had a much more complete SEO (more tags implemented), which leads me to believe that the site format is, in fact, the most significant factor here. To be statistically sure of this feeling, I should have done an A / B testing for every change. But, I didn't, so there is learning for the next change.
+However, this is the first time my site is a blog, where the first thing you see upon opening the page is my posts, they also have cover images, a missing detail in the previous theme. SEO is currently doing better on the theme itself, but Moon had a much more complete SEO (more tags implemented), which leads me to believe that the site format is, in fact, the most significant factor here. To be statistically sure of this feeling, I should have done some [A/B testing](https://en.wikipedia.org/wiki/A/B_testing) for every change. But, I didn't, so there is learning for the next change.
 
 ## A reflection on this process
 
@@ -121,17 +119,3 @@ Por fim, chegou a hora de colocar o site no ar. Esse passo também foi bem tranq
 Depois de trocar de tema, como uma pessoa viciada em dados, eu continuei a assistir meu _analytics_ de perto, isso é... menos no mês que esqueci de colocar a _tag_ de rastreamento no site novo hehe
 
 <center><img src="http://giphygifs.s3.amazonaws.com/media/GDnomdqpSHlIs/giphy.gif"><br><a href="http://giphygifs.s3.amazonaws.com/media/GDnomdqpSHlIs/giphy.gif">Fonte</a></center>
-
-Depois de perceber que estava sem a _tag_ e corrigir esse pequeno erro, voltamos à programação normal de assistir o _analytics_. E no mês de Agosto bati um recorde! Cheguei a mais de 17mil acessos!
-
-<center> <img src="/images/IMG_3901.PNG" style="max-width:65%;"><br> <i>Imagem mostrando a quantidade de acessos ao site em Agosto de 2019</i></center>
-
-Claro que não foi só a alteração do tema que contribuiu para o crescimento nos acessos do site. O aumento de artigos de assuntos variados, o crescimento do [Pizza de Dados](http://pizzadedados.com/) podcast que fundei com meus amigos, e a melhoria nas _tags_ de SEO do tema, foram pontos que podem ter contribuído para o aumento de acessos.
-
-No entanto, essa é a primeira vez que o meu site é de fato um blog, onde a primeira coisa que você vê ao entrar são os meus textos, eles também tem imagens de capa, um detalhe faltante no tema anterior. O SEO atualmente está melhor em relação ao próprio tema, mas o Moon tinha um SEO muito mais completo (mais _tags_ implementadas). O que me leva a crer que o formato do site de fato é o fator mais importante aqui. Para ter certeza estatística desse sentimento, eu deveria ter feito um [teste A/B](https://pt.wikipedia.org/wiki/Teste_A/B) para cada alteração... Mas bem, não fiz então fica aí o aprendizado para a próxima.
-
-### Uma reflexão sobre esse processo
-
-Passar por esse processo de mudança de foco é normal. Assim como a tecnologia se transforma, as necessidades também vão mudando. E é muito gostoso perceber e permitir que o ajuste necessário perante às mudanças ocorra. No meu caso elas aconteceram gradativamente. Passei de uma pessoa que não tinha interesse em escrever nada pra alguém que publica artigos constantemente. Escrevi em plataformas pagas e troquei para plataformas gratuitas procurando espalhar conteúdo sem proibições causadas por _paywalls_. Meu site deixou de ser um bloco de notas público para se tornar oficialmente um blog.
-
-E foi bom ver o crescimento ao longo desses 3 anos:
