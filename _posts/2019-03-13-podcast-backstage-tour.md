@@ -13,7 +13,9 @@ tags:
 description: See how Pizza was born and get inspired to create your podcast
 
 ---
-Nota da autora: Se preferir [leia esse artigo em português](https://medium.com/pizzadedados/backstage-de-um-podcast-465f02c2a7e5).
+***
+
+Se preferir [leia esse artigo em português](https://medium.com/pizzadedados/backstage-de-um-podcast-465f02c2a7e5).
 
 ***
 
