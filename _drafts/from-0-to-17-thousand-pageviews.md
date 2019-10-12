@@ -39,7 +39,7 @@ I liked, and still really like Moon. I find it a well-built theme, and during th
 
 I developed a skill and discovered a willingness to write about technical content that I didn't know I had, after all, I never wanted to be a writer, writing was never my forte at school and despite being an applied student and trying hard to write decent texts when necessary, didn't find it easy.
 
-<center><img src="http://giphygifs.s3.amazonaws.com/media/5BI679ybkAhJm/giphy.gif"><br><a href="http://giphygifs.s3.amazonaws.com/media/5BI679ybkAhJm/giphy.gif">Fonte</a></center>
+<center><img src="http://giphygifs.s3.amazonaws.com/media/5BI679ybkAhJm/giphy.gif"><br><a href="http://giphygifs.s3.amazonaws.com/media/5BI679ybkAhJm/giphy.gif">Source</a></center>
 
 During the two years that I had Moon as my theme, I wrote a lot, studied further, and learned many new things. One of those things was how to place a tag to track hits on a site using [Google Analytics](https://marketingplatform.google.com/about/analytics/). If you've never heard of Google Analytics, that's fine, for now, just knowing it's a Google toolkit to track how your customers interact with web solutions. One of the things you can do is follow the behavior of those who use your site. After starting to follow ups and downs in pageviews, I watched my site get nearly 8,000 hits in a month. And that's ok. I didn't expect to have 8 hits would guess the 8,000 😂
 
