@@ -97,9 +97,3 @@ So let's recap the learning points:
 2. If you like to keep track of what happens on your site don't forget the analytics tag ;
 3. If you have a website, learn a little SEO and if you use a plugin to assemble the SEO tags, learn how it works;
 4. If you want to be statistically sure of the impact a change has on your site, do A / B testing.
-
-\++++++++++++++++++
-
-### Cartões pra lá, cartões pra cá
-
-Como ambos temas são Jekyll, baseados em markdown e como o mesmo padrão de criação de caminho para as postagens, a transição foi suave. Praticamente uma questão de copiar e colar os artigos de uma pasta para a outra. Também criei as artes para cada tipo de artigo para facilitar o trabalho, afinal não queria usar imagens aleatórias, por isso padronizei as imagens para corresponder ao tipo de artigo.
