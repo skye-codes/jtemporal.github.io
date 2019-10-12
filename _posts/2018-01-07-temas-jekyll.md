@@ -15,7 +15,7 @@ description: Escolhendo um tema para o seu blog e começando a postar sem demora
 ---
 ***
 
-[Read this post in English.](https://jtemporal.com/choosing-a-jekyll-theme/)
+_Nota da autora:_ [Read this post in English.](https://jtemporal.com/choosing-a-jekyll-theme/)
 
 ***
 
