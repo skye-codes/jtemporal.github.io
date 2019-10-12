@@ -57,7 +57,7 @@ Writing became routine and part of my learning process. Then, during late 2018, 
 
 Just as writing became part of my daily life, my site finally needed to change, after all, part of the rules that made me choose the first theme was no longer what I required. I needed a theme that focused **on content**.
 
-Then I set off in search of a new theme. You may have noticed, but the tendency content-focused sites are to have card format, dev.to is like this, Medium is like that too, and so on. Naturally, when looking for a new theme, I found one with cards. The new chosen one was [Cards by Webjeda](%22https://webjeda.com/cards/%22). I liked the theme, although I could see some points that needed modifications to make it the way I wanted. With the new theme at hand, at the beginning of 2019, I made the transition between Moon and Cards.
+Then I set off in search of a new theme. You may have noticed, but the tendency content-focused sites are to have card format, dev.to is like this, Medium is like that too, and so on. Naturally, when looking for a new theme, I found one with cards. The new chosen one was [Cards by Webjeda](https://webjeda.com/cards/). I liked the theme, although I could see some points that needed modifications to make it the way I wanted. With the new theme at hand, at the beginning of 2019, I made the transition between Moon and Cards.
 
 ## Cards, cards everywhere
 
