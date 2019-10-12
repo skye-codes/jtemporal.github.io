@@ -1,17 +1,16 @@
 ---
 layout: post
 date: 2019-09-27T13:00:00.000+00:00
-image: "/images/variados.png"
+image: "/images/miscellaneous.png"
 comments: true
 title: From 0 to 17 thousand pageviews
 description: 'Como uma troca de temas impactou na quantidade de acessos do meu blog '
 tags:
-- português
+- english
 - static site
 - google analytics
 - pageviews
 - seo
-- site estático
 - analytics
 - blog
 - site
@@ -24,29 +23,27 @@ The first website I got online was a Django based one. It was on a workshop of t
 
 Since then, my development skills have evolved. I've learned about new technologies, learned to contribute avidly to open-source. I can say that, overall, I've improved as a developer.
 
-Between the first site I launched, and today, I learned a lot, and among the knowledge I acquired, I learned alternative ways to publish sites. Among all the methods I know how to publish sites, my favorite way to get websites up and running is using GitHub Pages. I even wrote a tutorial on this method to help anyone who knows GitHub and a little bit of git have a website online without fuss.
+Between the first site I launched, and today, I learned a lot, and among the knowledge I acquired, I learned alternative ways to publish sites. Among all the methods I know how to publish sites, my favorite way to get websites up and running is using GitHub Pages. [I even wrote a tutorial on this method (in Portuguese)](https://jtemporal.com/do-tema-ao-ar/) to help anyone who knows GitHub and a little bit of git have a website online without fuss.
 
 ## My site, my rules
 
-The first version of jtemporal.com was never structured to be a blog, despite having a blog session where I wrote about technical content. Think of my site as a kind of online notepad, I wrote about techniques I was studying or applying at work. This little detail had a significant impact on access to the content I posted. When I decided to put this site up, I chose a theme by following these rules:
+The first version of [jtemporal.com](https://jtemporal.com) was never structured to be a blog, despite having a blog session where I wrote about technical content. Think of my site as a kind of online notepad, I wrote about techniques I was studying or applying at work. This little detail had a significant impact on access to the content I posted. When I decided to put this site up, I chose a theme by following these rules:
 
-1. Cannot be a single page ;
+1. Cannot be a single page;
 2. It cannot be primarily a blog;
 3. It has to be beautiful and mobile-friendly.
 
-After some hard searching, I found my first theme: Moon. It had all the features that I wanted. Cute, with some cool animations, wasn't primarily a blog, although, as I said earlier, it had a space for blogging. It wasn't single page, I don't know why, but I don't like single page sites ¯\\_(ツ)_/¯. Moon met all my needs.
+After some hard searching, I found my first theme: [Moon](http://taylantatli.github.io/Moon/). It had all the features that I wanted. Cute, with some cool animations, wasn't primarily a blog, although, as I said earlier, it had a space for blogging. It wasn't single page, I don't know why, but I don't like single page sites `¯\_(ツ)_/¯`. Moon met all my needs.
 
 I liked, and still really like Moon. I find it a well-built theme, and during the first two years of having a website and a place to put my texts, I considerably increased the number of articles I wrote.
 
 I developed a skill and discovered a willingness to write about technical content that I didn't know I had, after all, I never wanted to be a writer, writing was never my forte at school and despite being an applied student and trying hard to write decent texts when necessary, didn't find it easy.
 
-TK something
+<center><img src="http://giphygifs.s3.amazonaws.com/media/5BI679ybkAhJm/giphy.gif"><br><a href="http://giphygifs.s3.amazonaws.com/media/5BI679ybkAhJm/giphy.gif">Fonte</a></center>
 
-During the two years that I had Moon as my theme, I wrote a lot, studied further, and learned many new things. One of those things was how to place a tag to track hits on a site using Google Analytics. If you've never heard of Google Analytics, that's fine, for now, just knowing it's a Google toolkit to track how your customers interact with web solutions. One of the things you can do is follow the behavior of those who use your site. After starting to follow ups and downs in pageviews, I watched my site get nearly 8,000 hits in a month. And that's ok. I didn't expect to have 8 hits would guess the 8,000 😂
+During the two years that I had Moon as my theme, I wrote a lot, studied further, and learned many new things. One of those things was how to place a tag to track hits on a site using [Google Analytics](https://marketingplatform.google.com/about/analytics/). If you've never heard of Google Analytics, that's fine, for now, just knowing it's a Google toolkit to track how your customers interact with web solutions. One of the things you can do is follow the behavior of those who use your site. After starting to follow ups and downs in pageviews, I watched my site get nearly 8,000 hits in a month. And that's ok. I didn't expect to have 8 hits would guess the 8,000 😂
 
-TK something
-
-Image showing the number of website hits in October 2018
+<center> <img src="/images/IMG_3900.PNG" style="max-width:65%;"><br> <i>Image showing the number of website hits in October 2018</i></center>
 
 Writing became routine and part of my learning process. Then, during late 2018, I realized that my needs and focus for my site changed: instead of being a place I used as a notebook for the things I wrote, it became a place where I like to share content. Writing became my new usual.
 
@@ -54,7 +51,7 @@ Writing became routine and part of my learning process. Then, during late 2018, 
 
 Just as writing became part of my daily life, my site finally needed to change, after all, part of the rules that made me choose the first theme was no longer what I required. I needed a theme that focused **on content**.
 
-Then I set off in search of a new theme. You may have noticed, but the tendency content-focused sites are to have card format, dev.to is like this, Medium is like that too, and so on. Naturally, when looking for a new theme, I found one with cards. The new chosen one was Cards by Webjeda. I liked the theme, although I could see some points that needed modifications to make it the way I wanted. With the new theme at hand, at the beginning of 2019, I made the transition between Moon and Cards.
+Then I set off in search of a new theme. You may have noticed, but the tendency content-focused sites are to have card format, dev.to is like this, Medium is like that too, and so on. Naturally, when looking for a new theme, I found one with cards. The new chosen one was [Cards by Webjeda](%22https://webjeda.com/cards/%22). I liked the theme, although I could see some points that needed modifications to make it the way I wanted. With the new theme at hand, at the beginning of 2019, I made the transition between Moon and Cards.
 
 ## Cards, cards everywhere
 
@@ -103,39 +100,7 @@ So let's recap the learning points:
 3. If you have a website, learn a little SEO and if you use a plugin to assemble the SEO tags, learn how it works;
 4. If you want to be statistically sure of the impact a change has on your site, do A / B testing.
 
-O primeiro website que eu coloquei no ar, era um site Django. Foi num tutorial da semana acadêmica do meu curso de graduação (Informática Biomédica) e foi ministrado pela comunidade Python de Ribeirão Preto. Foi a primeira vez que vi Python sendo usado de verdade e foi o meu primeiro deploy com direito a heroku e tudo, mas esse causo fica pra outro momento.
-
-Desde então, minhas habilidades de desenvolvimento evoluíram, eu conheci novas tecnologias, aprendi a contribuir avidamente com _open-source_ dá pra dizer que, de um modo geral, melhorei como desenvolvedora.
-
-Entre o primeiro site que coloquei no ar e hoje, aprendi muitas coisas,  e, entre elas, conheci formas alternativas de publicar sites. Sendo que de todas formas que aprendi até hoje, a minha forma favorita de colocar sites no ar é usando o GitHub Pages. Inclusive, eu [até escrevi um tutorial sobre essa forma de colocar sites no ar](https://jtemporal.com/do-tema-ao-ar/) com intuito de ajudar qualquer pessoa conheça GitHub e um tiquinho de git a ter um site.
-
-### Meu site, minhas regras
-
-A primeira versão do [jtemporal.com](https://jtemporal.com) nunca foi estruturada para ser um blog, apesar de ter uma sessão para artigos e ser lá onde escrevia sobre conteúdos técnicos. Pense que meu site era uma espécie de bloco de notas público, eu escrevia sobre coisas que estudava ou estava aplicando no trabalho. Esse pequeno detalhe teve um impacto gigante no acesso aos conteúdos que publiquei. Quando eu decidi colocar o esse site no ar, escolhi um tema seguindo as seguintes regras:
-
-1. Não pode ser _single page_ (página única);
-2. Não pode ser primariamente um blog;
-3. Tem que ser bonito e amigável para plataformas mobile.
-
-Depois de procurar bastante achei o meu primeiro tema: [o Moon](http://taylantatli.github.io/Moon/). Era exatamente o que eu queria. Bonitinho, com umas animações legais, não era primariamente um blog, apesar de como disse anteriormente, ter um espaço para isso. Não era _single page_, não sei o motivo, mas não gosto de sites single page `¯\_(ツ)_/¯`. O Moon supria todas minhas necessidades.
-
-Eu gostei, e ainda gosto muito do Moon. Acho ele um tema bem feito e, durante os dois primeiros anos tendo um site e um lugar para colocar meus textos, eu aumentei consideravelmente a quantidade de artigos que escrevia.
-
-Eu desenvolvi uma habilidade e descobri uma vontade de escrever sobre conteúdos técnicos que eu não sabia que tinha, afinal de contas eu nunca quis ser escritora, redação nunca foi meu forte na escola e, apesar de ser uma aluna aplicada e me esforçar bastante para escrever textos descentes quando necessário, não achava aquilo ali fácil.
-
-<center><img src="http://giphygifs.s3.amazonaws.com/media/5BI679ybkAhJm/giphy.gif"><br><a href="http://giphygifs.s3.amazonaws.com/media/5BI679ybkAhJm/giphy.gif">Fonte</a></center>
-
-Bem, durante esses dois anos escrevi bastante, estudei mais ainda e aprendi inúmeras coisas. Uma dessas coisas foi como colocar uma _tag_ para acompanhar os acessos ao meu site usando o [Google Analytics](https://marketingplatform.google.com/about/analytics/). Se você nunca ouviu falar de Google Analytics, tudo bem, por agora basta saber que é um conjunto de ferramentas do Google para acompanhar como seus clientes fazem nas soluções web. E uma das coisas que dá pra fazer justamente é acompanhar o comportamento de quem usa o seu site. Depois de começar a seguir altos e baixos em acessos, assisti meu site ter cerca de 8 mil acessos no mês. E tudo bem... eu não esperava ter nem 8 acessos que dirá 8 mil 😂
-
-<center> <img src="/images/IMG_3900.PNG" style="max-width:65%;"><br> <i>Imagem mostrando a quantidade de acessos ao site em Outubro de 2018</i></center>
-
-Escrever se tornou algo normal e parte do meu processo de aprendizado. Então, durante o fim de 2018, percebi que minhas necessidades e foco para o meu site mudaram: ao invés de ser um lugar que eu usava como bloco de notas para as coisas que eu escrevia, se tornou um lugar onde eu gosto de compartilhar conteúdo. Escrever se tornou meu novo normal.
-
-### Novas regras, novo site
-
-Assim como escrever passou fazer parte do meu dia a dia, meu site precisava finalmente passar por uma mudança, afinal de contas, parte das regras que me fizeram escolher o primeiro tema já não valiam mais. Eu precisava de um tema que o **foco fosse o conteúdo**.
-
-Então parti em busca de um novo tema. Não sei se você já reparou, mas existe uma tendência de sites onde o foco é conteúdo terem formato de cartão, o dev.to é assim, o Medium é assim também e por aí vai... Nada mais natural que, ao procurar um tema, eu encontrasse um em formato de cartões. O escolhido da vez foi o [Cards por Webjeda](%22https://webjeda.com/cards/%22) . Eu gostei do tema apesar de enxergar alguns pontos que precisavam de alteração pra deixar ele do jeito que eu queria. Com o novo tema escolhido, no começo desse 2019 fiz a transição entre o Moon e o Cards.
+\++++++++++++++++++
 
 ### Cartões pra lá, cartões pra cá
 
