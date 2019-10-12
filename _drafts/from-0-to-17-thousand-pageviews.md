@@ -57,9 +57,17 @@ Then I set off in search of a new theme. You may have noticed, but the tendency 
 
 Because both themes are Jekyll, based on markdown, and both have the same pattern for creating paths for posts, the transition went smoothly. I also created the covers for each type of article to make the job easier; after all, I didn't want to use random images, so I standardized the images to match the type of article.
 
-TK something
-
-Some of the covers I made for the articles
+<table>
+<tr>
+<td><img src="/images/tutorial.png"></td>
+<td><img src="/images/miscellaneous.png"></td>
+</tr>
+<tr>
+<td><img src="/images/protip.png"></td>
+<td><img src="/images/palestra.png"></td>
+</tr>
+</table>
+<center><i>Some of the covers I made for the articles</i></center>
 
 Finally, the time has come to put the new face of the site online. This step was also straightforward since my configuration is simple, changing the name of the repository on GitHub, and configuring the domain did the trick. New site on the air!
 
@@ -99,19 +107,3 @@ So let's recap the learning points:
 ### Cartões pra lá, cartões pra cá
 
 Como ambos temas são Jekyll, baseados em markdown e como o mesmo padrão de criação de caminho para as postagens, a transição foi suave. Praticamente uma questão de copiar e colar os artigos de uma pasta para a outra. Também criei as artes para cada tipo de artigo para facilitar o trabalho, afinal não queria usar imagens aleatórias, por isso padronizei as imagens para corresponder ao tipo de artigo.
-
-<table>
-<tr>
-<td><img src="/images/tutorial.png"></td>
-<td><img src="/images/variados.png"></td>
-</tr>
-<tr>
-<td><img src="/images/colinha.png"></td>
-<td><img src="/images/palestra.png"></td>
-</tr>
-</table>
-<center><i>Algumas das capas que fiz para os artigos</i></center>
-
-Por fim, chegou a hora de colocar o site no ar. Esse passo também foi bem tranquilo já que a minha configuração é simples, bastava trocar no nome do repositório no GitHub, configurar o domínio e _pow_! Site novo no ar!
-
-Depois de trocar de tema, como uma pessoa viciada em dados, eu continuei a assistir meu _analytics_ de perto, isso é... menos no mês que esqueci de colocar a _tag_ de rastreamento no site novo hehe
