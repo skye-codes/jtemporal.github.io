@@ -1,7 +1,7 @@
 ---
 title: Post Mortem Python Sudeste 2018
 layout: post
-date: '2018-08-24 05:00:00'
+date: 2018-08-24 05:00:00
 tags:
 - python
 - comunidade
@@ -194,7 +194,7 @@ Resultado final:
 
 Basicamente a divulgação dos acontecimentos do evento foram feitas nas redes sociais Facebook, Twitter e Instagram com a ajuda da plataforma de postagem automática [Hootsuite](http://hootsuite.com/) que na sua conta gratuita permite o agendamento de 30 postagens ao mesmo tempo.
 
-Todas as artes foram feitas também numa plataforma gratuita chamada [Canva](http://canva.com/). Para facilitar o trabalho nessa frente foi criada uma [agenda de postagens](https://docs.google.com/spreadsheets/d/14Xqv2W_aJjTWOn8EXi85_IqIG1rj_1jD5-X2uYVIDFI/edit?usp=sharing) e um grupo apelidado de “XOXO media” no telegram.
+Todas as artes foram feitas também numa plataforma gratuita chamada [Canva](https://www.canva.com/pt_br/). Para facilitar o trabalho nessa frente foi criada uma [agenda de postagens](https://docs.google.com/spreadsheets/d/14Xqv2W_aJjTWOn8EXi85_IqIG1rj_1jD5-X2uYVIDFI/edit?usp=sharing) e um grupo apelidado de “XOXO media” no telegram.
 
 # Ingressos
 
