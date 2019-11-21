@@ -55,7 +55,11 @@ No dia 8 de setembro, um dia após o lançamento oficial do projeto, o [Irio Mus
 Todos esses achados começaram com **análises exploratórias** dos dados liberados pela CEAP e alguns cruzamentos iniciais feitos no início do projeto. É aqui que começa de fato a primeira parte de manipulação de dados.
 
 <center>
-<img src="https://i.giphy.com/media/DHqth0hVQoIzS/giphy.webp">
+  <img src="https://i.giphy.com/media/DHqth0hVQoIzS/giphy.webp">
+  <br>
+  <small><i>
+  <a href="https://i.giphy.com/media/DHqth0hVQoIzS/giphy.webp">Fonte</a>
+    </i></small>
 </center>
 
 Lembra que eu falei que era importante entender os dados? Pois bem, essas análises iniciais ajudam a sedimentar o conhecimento do domínio, mas além disso, essas análises ajudam a mostrar caminhos possíveis de análise. Por exemplo, foi a partir dessas análises que hipóteses como _“Velocidade viajada suspeita”_ e _“Gasto com bebidas alcoólicas”_ surgiram.
