@@ -124,6 +124,7 @@ E aí? Bora salvar o mundo? Eu já coloquei minhas braçadeiras!
 
 <center>
 <img src="https://giphy.com/gifs/hbo-wonder-woman-d3YIyzi534G5GRNe">
+  <br><small><i><a href="https://giphy.com/gifs/hbo-wonder-woman-d3YIyzi534G5GRNe">Fonte</a></i></small>
 </center>
 
 Um xêro!
