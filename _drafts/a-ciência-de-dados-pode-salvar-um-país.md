@@ -54,6 +54,10 @@ No dia 8 de setembro, um dia após o lançamento oficial do projeto, o [Irio Mus
 
 Todos esses achados começaram com **análises exploratórias** dos dados liberados pela CEAP e alguns cruzamentos iniciais feitos no início do projeto. É aqui que começa de fato a primeira parte de manipulação de dados.
 
+<center>
+<img src="https://i.giphy.com/media/DHqth0hVQoIzS/giphy.webp">
+</center>
+
 Lembra que eu falei que era importante entender os dados? Pois bem, essas análises iniciais ajudam a sedimentar o conhecimento do domínio, mas além disso, essas análises ajudam a mostrar caminhos possíveis de análise. Por exemplo, foi a partir dessas análises que hipóteses como _“Velocidade viajada suspeita”_ e _“Gasto com bebidas alcoólicas”_ surgiram.
 
 > Por exemplo, vocês sabiam que em 2015 um deputado pagou com dinheiro público algumas contas da sua própria campanha? Ou que em 2014 um deputado tomou uma cervejinha em Las Vegas, no restaurante do Gordon Ramsey, e colocou a cerveja na nossa conta? Ou ainda que em 2013 um deputado foi ressarcido depois de alugar um carro em uma empresa que, na verdade, era uma padaria? Isso sem falar que em 2011 um deputado almoçou 13 vezes no mesmo dia, pagando cada uma dessas refeições com dinheiro daquele mesmo bolso… o nosso.
