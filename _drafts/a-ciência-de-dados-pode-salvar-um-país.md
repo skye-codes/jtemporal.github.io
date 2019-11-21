@@ -11,12 +11,16 @@ tags:
 - ciencia de dados
 
 ---
+Mas só se você levantar o bumbum do sofá e começar a fazer sua parte
+
+---
+
 Usualmente cientistas de dados querem resolver problemas ou responder perguntas. Seja para encontrar a cura do câncer ou para combater a corrupção, dados passam por uma sequência parecida de passos antes de se tornarem parte da solução.
 
 A ideia desse texto é explicar mostrando um caso prático (e famosinho) do uso da ciência de dados. Então, se você já manja de ciência de dados e tá precisando de inspiração pra projetos de estimação, se prepare para aprender coisas novas que você pode não saber sobre leis e dados. Esse texto também é pra você que ainda tá aprendendo e quer conhecer a dinâmica de um projeto de ciência de dados.
 
 <center>
-  <img src="https://66.media.tumblr.com/tumblr_marfocdntZ1qcnyloo2_r2_500.gif"><a href="https://66.media.tumblr.com/tumblr_marfocdntZ1qcnyloo2_r2_500.gif">Fonte</a></center>
+  <img src="https://66.media.tumblr.com/tumblr_marfocdntZ1qcnyloo2_r2_500.gif"><br><a href="https://66.media.tumblr.com/tumblr_marfocdntZ1qcnyloo2_r2_500.gif">Fonte</a></center>
 
 #### O domínio
 
@@ -108,7 +112,9 @@ No caso da Rosie, o que fazemos é transformar todo o passo a passo feito no not
 
 Mas não é só isso, a Rosie também tem uma conta no Twitter, veja o que a Jout Jout fala sobre ela:
 
-Video da JoutJout sobre política onde ela apresenta um montão de ferramentas para acompanhar o trabalho dos nossos políticos
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/NmbSnopvDNY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<small><i>Video da JoutJout sobre política onde ela apresenta um montão de ferramentas para acompanhar o trabalho dos nossos políticos</i></small>
 
 Até a Rosie existir (e tuitar) muito dos nossos achados ficavam “presos” à pessoas que já estavam interessadas no assunto como jornalistas e pessoas que trabalham com dados abertos. Mas ao chegar no Twitter, a Rosie popularizou os achados que antes estavam nas mãos de poucos.
 
