@@ -48,7 +48,7 @@ Então, foi assim que o nosso time multidisciplinar escolheu as duas ferramentas
 
 #### Investigações preliminares
 
-No dia 8 de setembro, um dia após o lançamento oficial do projeto, o [Irio Musskopf](https://medium.com/u/e74ca8a4c2f4) escreveu [num blog post](https://medium.com/data-science-brigade/o-rob%C3%B4-capaz-de-combater-a-corrup%C3%A7%C3%A3o-8f1e70d2c1c1) para explicar a que se destinava a Operação:
+No dia 8 de setembro, um dia após o lançamento oficial do projeto, o [Irio Musskopf](https://medium.com/u/e74ca8a4c2f4) escreveu [num blog post](https://medium.com/serenata/o-rob%C3%B4-capaz-de-combater-a-corrup%C3%A7%C3%A3o-8f1e70d2c1c1) para explicar a que se destinava a Operação:
 
 > Em pouco tempo, trabalhando em horas vagas … descobrimos mais de 20 casos no mínimo interessantes ... tudo é aberto, tanto código quanto dados.
 
