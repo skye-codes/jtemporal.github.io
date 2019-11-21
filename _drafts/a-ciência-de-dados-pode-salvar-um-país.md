@@ -20,7 +20,10 @@ Usualmente cientistas de dados querem resolver problemas ou responder perguntas.
 A ideia desse texto é explicar mostrando um caso prático (e famosinho) do uso da ciência de dados. Então, se você já manja de ciência de dados e tá precisando de inspiração pra projetos de estimação, se prepare para aprender coisas novas que você pode não saber sobre leis e dados. Esse texto também é pra você que ainda tá aprendendo e quer conhecer a dinâmica de um projeto de ciência de dados.
 
 <center>
-  <img src="https://66.media.tumblr.com/tumblr_marfocdntZ1qcnyloo2_r2_500.gif"><br><a href="https://66.media.tumblr.com/tumblr_marfocdntZ1qcnyloo2_r2_500.gif">Fonte</a></center>
+  <img src="https://66.media.tumblr.com/tumblr_marfocdntZ1qcnyloo2_r2_500.gif"><br>
+  <small><a href="https://66.media.tumblr.com/tumblr_marfocdntZ1qcnyloo2_r2_500.gif">Fonte</a>
+    </small>
+</center>
 
 #### O domínio
 
