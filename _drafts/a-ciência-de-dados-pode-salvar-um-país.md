@@ -44,7 +44,7 @@ Dessa forma, apenas colocar código no GitHub não era o suficiente e aí que en
 
 Mas ainda precisamos de mais uma ferramenta para ajudar a preencher as páginas dos nossos _notebooks_, uma linguagem de programação e, nesse caso, a escolhida foi Python. Com uma comunidade cada dia maior, o Python científico vem sendo amplamente utilizado pelo mundo para ciência de dados, ela é também uma linguagem com uma baixa curva de aprendizado o que ajuda ainda mais na ideia de expor os achados.
 
-Então, foi assim que o nosso time multidisciplinar escolheu as duas ferramentas principais de trabalho. Com o Jupyter nosso jornalista [Pedro](https://medium.com/u/d263962d0d0f) conseguia acompanhar o que time técnico estava fazendo e onde queríamos chegar. E não só ele, outras tantas pessoas interessadas em entender o que estávamos construindo, mas não possuíam o conhecimento técnico, também podiam ficar de olho no nosso trabalho.
+Então, foi assim que o nosso time multidisciplinar escolheu as duas ferramentas principais de trabalho. Com o Jupyter nosso jornalista [Pedro](http://pedrovilanova.com/) conseguia acompanhar o que time técnico estava fazendo e onde queríamos chegar. E não só ele, outras tantas pessoas interessadas em entender o que estávamos construindo, mas não possuíam o conhecimento técnico, também podiam ficar de olho no nosso trabalho.
 
 #### Investigações preliminares
 
