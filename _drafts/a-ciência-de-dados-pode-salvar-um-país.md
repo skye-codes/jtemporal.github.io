@@ -28,7 +28,7 @@ O começo de toda investigação de dados é sempre entender o domínio. Conhece
 
 > Art. 5o É dever do Estado garantir o direito de acesso à informação, que será franqueada, mediante procedimentos objetivos e ágeis, de forma transparente, clara e em linguagem de fácil compreensão.
 
-Existe uma lei que define que todos órgãos públicos brasileiros devem disponibilizar seus dados desde que isso não interfira na segurança nacional (e outras regrinhas mais). Mas de um modo geral, a [_Lei de Acesso à Informação_](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/Decreto/D7724.htm)ou LAI como é conhecida, foi um marco para a disponibilização de dados da administração pública e aumento do controle social.
+Existe uma lei que define que todos órgãos públicos brasileiros devem disponibilizar seus dados desde que isso não interfira na segurança nacional (e outras regrinhas mais). Mas de um modo geral, a [_Lei de Acesso à Informação_](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/Decreto/D7724.htm) ou LAI como é conhecida, foi um marco para a disponibilização de dados da administração pública e aumento do controle social.
 
 Foi essa lei que ajudou por exemplo, os dados da [_Cota para exercício da atividade parlamentar_](http://www2.camara.leg.br/transparencia/acesso-a-informacao/copy_of_perguntas-frequentes/cota-para-o-exercicio-da-atividade-parlamentar) (CEAP) a serem disponibilizados. A CEAP, por sua vez, consiste em valor mensal que os nossos deputados dispõem para serem reembolsados com gastos com um conjunto de coisas como alimentação, hotel, combustível, locação de carro, passagem aérea e outras coisas.
 
