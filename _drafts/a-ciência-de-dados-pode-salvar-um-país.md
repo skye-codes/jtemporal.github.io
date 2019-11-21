@@ -134,7 +134,7 @@ Até a Rosie existir (e tuitar) muito dos nossos achados ficavam “presos” à
 E aí? Bora salvar o mundo? Eu já coloquei minhas braçadeiras!
 
 <center>
-<img src="https://giphy.com/gifs/hbo-wonder-woman-d3YIyzi534G5GRNe">
+<img src="https://media.giphy.com/media/d3YIyzi534G5GRNe/giphy.gif">
   <br><small><i><a href="https://giphy.com/gifs/hbo-wonder-woman-d3YIyzi534G5GRNe">Fonte</a></i></small>
 </center>
 
