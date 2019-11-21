@@ -57,9 +57,9 @@ Todos esses achados começaram com **análises exploratórias** dos dados libera
 <center>
   <img src="https://i.giphy.com/media/DHqth0hVQoIzS/giphy.webp">
   <br>
-  <small><i>
+  <small>
   <a href="https://i.giphy.com/media/DHqth0hVQoIzS/giphy.webp">Fonte</a>
-    </i></small>
+    </small>
 </center>
 
 Lembra que eu falei que era importante entender os dados? Pois bem, essas análises iniciais ajudam a sedimentar o conhecimento do domínio, mas além disso, essas análises ajudam a mostrar caminhos possíveis de análise. Por exemplo, foi a partir dessas análises que hipóteses como _“Velocidade viajada suspeita”_ e _“Gasto com bebidas alcoólicas”_ surgiram.
