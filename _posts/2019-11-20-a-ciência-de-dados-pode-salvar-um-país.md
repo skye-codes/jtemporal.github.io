@@ -13,16 +13,16 @@ tags:
 ---
 Mas só se você levantar o bumbum do sofá e começar a fazer sua parte
 
----
+***
 
 Usualmente cientistas de dados querem resolver problemas ou responder perguntas. Seja para encontrar a cura do câncer ou para combater a corrupção, dados passam por uma sequência parecida de passos antes de se tornarem parte da solução.
 
 A ideia desse texto é explicar mostrando um caso prático (e famosinho) do uso da ciência de dados. Então, se você já manja de ciência de dados e tá precisando de inspiração pra projetos de estimação, se prepare para aprender coisas novas que você pode não saber sobre leis e dados. Esse texto também é pra você que ainda tá aprendendo e quer conhecer a dinâmica de um projeto de ciência de dados.
 
 <center>
-  <img src="https://66.media.tumblr.com/tumblr_marfocdntZ1qcnyloo2_r2_500.gif"><br>
-  <small><a href="https://66.media.tumblr.com/tumblr_marfocdntZ1qcnyloo2_r2_500.gif">Fonte</a>
-    </small>
+<img src="https://66.media.tumblr.com/tumblr_marfocdntZ1qcnyloo2_r2_500.gif"><br>
+<small><a href="https://66.media.tumblr.com/tumblr_marfocdntZ1qcnyloo2_r2_500.gif">Fonte</a>
+</small>
 </center>
 
 #### O domínio
@@ -58,18 +58,18 @@ No dia 8 de setembro, um dia após o lançamento oficial do projeto, o [Irio Mus
 Todos esses achados começaram com **análises exploratórias** dos dados liberados pela CEAP e alguns cruzamentos iniciais feitos no início do projeto. É aqui que começa de fato a primeira parte de manipulação de dados.
 
 <center>
-  <img src="https://i.giphy.com/media/DHqth0hVQoIzS/giphy.webp">
-  <br>
-  <small>
-  <a href="https://i.giphy.com/media/DHqth0hVQoIzS/giphy.webp">Fonte</a>
-    </small>
+<img src="https://i.giphy.com/media/DHqth0hVQoIzS/giphy.webp">
+<br>
+<small>
+<a href="https://i.giphy.com/media/DHqth0hVQoIzS/giphy.webp">Fonte</a>
+</small>
 </center>
 
 Lembra que eu falei que era importante entender os dados? Pois bem, essas análises iniciais ajudam a sedimentar o conhecimento do domínio, mas além disso, essas análises ajudam a mostrar caminhos possíveis de análise. Por exemplo, foi a partir dessas análises que hipóteses como _“Velocidade viajada suspeita”_ e _“Gasto com bebidas alcoólicas”_ surgiram.
 
 > Por exemplo, vocês sabiam que em 2015 um deputado pagou com dinheiro público algumas contas da sua própria campanha? Ou que em 2014 um deputado tomou uma cervejinha em Las Vegas, no restaurante do Gordon Ramsey, e colocou a cerveja na nossa conta? Ou ainda que em 2013 um deputado foi ressarcido depois de alugar um carro em uma empresa que, na verdade, era uma padaria? Isso sem falar que em 2011 um deputado almoçou 13 vezes no mesmo dia, pagando cada uma dessas refeições com dinheiro daquele mesmo bolso… o nosso.
 
-Contou [Eduardo Cuducos](https://medium.com/u/f3796d9a42a9) [em um outro post](https://medium.com/data-science-brigade/tecnologia-transpar%C3%AAncia-e-pol%C3%ADtica-bb1096206af8) sobre o projeto.
+Contou [Eduardo Cuducos](https://medium.com/u/f3796d9a42a9) em um [outro post](https://medium.com/data-science-brigade/tecnologia-transpar%C3%AAncia-e-pol%C3%ADtica-bb1096206af8) sobre o projeto.
 
 #### Limpeza
 
@@ -99,7 +99,7 @@ Embora seja possível encontrar o endereço principal das empresas no conjunto d
 
 #### Teste de hipótese
 
-Não basta ter dados, eles serem limpos e ricos, é preciso levantar hipóteses e valida-las. E é como dizem, uma hipótese validada vale mais que mil palavras… tá, o ditado não é bem esse, mas o processo de validar (ou não) as hipóteses pinta a imagem.
+Não basta ter dados, eles serem limpos e ricos, é preciso levantar hipóteses e validá-las. E é como dizem, uma hipótese validada vale mais que mil palavras… tá, o ditado não é bem esse, mas o processo de validar (ou não) as hipóteses pinta a imagem.
 
 É importante lembrar que um dos muitos diferenciais da Serenata é que este foi um projeto feito num período de tempo bem curto se comparado com o tempo gasto em projetos mais “tradicionais”:
 
@@ -119,7 +119,7 @@ Ela basicamente condensa e automatiza todo esse processo de pegar os reembolsos 
 
 Mas para isso acontecer a gente precisa estruturar todas as análises que foram feitas nos notebooks num formato mais estruturado e é aí que entra o _scikit-learn_, ou pelo menos o padrão que eles seguem 😄
 
-No caso da Rosie, o que fazemos é transformar todo o passo a passo feito no notebook para a mesma estrutura que o scikit segue: implementando os métodos `fit`, `predict `e `transform` e, quando necessário, métodos auxiliares de acordo com a necessidade. A [Ana Schwendler](https://medium.com/u/a84fab589b6c) falou dessa parte mais técnica de [como a Rosie usa aprendizado de máquina aqui nesse post](https://medium.com/data-science-brigade/como-a-rosie-usa-machine-learning-na-serenata-de-amor-9168e0f1909d).
+No caso da Rosie, o que fazemos é transformar todo o passo a passo feito no notebook para a mesma estrutura que o scikit segue: implementando os métodos `fit`, `predict`e `transform` e, quando necessário, métodos auxiliares de acordo com a necessidade. A [Ana Schwendler](https://medium.com/u/a84fab589b6c) falou dessa parte mais técnica de [como a Rosie usa aprendizado de máquina aqui nesse post](https://medium.com/data-science-brigade/como-a-rosie-usa-machine-learning-na-serenata-de-amor-9168e0f1909d).
 
 Mas não é só isso, a Rosie também tem uma conta no Twitter, veja o que a Jout Jout fala sobre ela:
 
@@ -135,7 +135,7 @@ E aí? Bora salvar o mundo? Eu já coloquei minhas braçadeiras!
 
 <center>
 <img src="https://media.giphy.com/media/d3YIyzi534G5GRNe/giphy.gif">
-  <br><small><a href="https://giphy.com/gifs/hbo-wonder-woman-d3YIyzi534G5GRNe">Fonte</a></small>
+<br><small><a href="https://giphy.com/gifs/hbo-wonder-woman-d3YIyzi534G5GRNe">Fonte</a></small>
 </center>
 
 Um xêro!
