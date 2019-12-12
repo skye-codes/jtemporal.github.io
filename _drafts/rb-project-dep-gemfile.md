@@ -15,84 +15,74 @@ comments: true
 description: Understand what is a Gemfile and learn how to create one
 
 ---
-Depois de [ensinar a colocar um site no ar](http://jtemporal.com/do-tema-ao-ar/) usando o [Jekyll](https://jekyllrb.com/). Vou responder uma pergunta que me fizeram: _"Meu tema não tem uma Gemfile, e agora?"_ A colinha de hoje ensina o que fazer.
+\---
 
-## O que é uma Gemfile?
+Author note: [Leia este artigo em Português](https://jtemporal.com/gemfile/).
 
-Bem antes de explicar o que é esse arquivo você precisa entender um pouquinho sobre projetos Ruby. Cada projeto, idependente da linguagem que você está usando, geralmente tem uma lista de dependências que são necessárias para esse projeto rodar. No caso de projetos Ruby, essa lista o gerenciamento de dependências é feito usando um sistema conhecido como Gemfile.
+\---
 
-Cada pacote/biblioteca que você instala para ser usado pelo seu projeto é uma _gem_. Assim como o próprio Jekyll é uma gem, você pode precisar por exemplo de plugins Jekyll para fazer coisas coisas no seu site como paginar as postagens, incluir SEO e até construir automaticamente um feed XML. Para instalar e gerenciar tais plugins usa-se o Gemfile.
+After [teaching how to get your website online](https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.com&sl=auto&sp=nmt4&tl=en&u=http://jtemporal.com/do-tema-ao-ar/&xid=17259,1500000,15700002,15700021,15700186,15700190,15700256,15700259,15700262,15700265,15700271,15700283&usg=ALkJrhjY8BCFOb0VuCzIEDasyaE7ldKdZA) using [Jekyll](https://jekyllrb.com). I'm going to answer a question somebody asked me: _"My theme doesn't have a Gemfile, now what?"_ Today's pro-tip teaches you what to do when you don't have a Gemfile.
 
-## Meu tema não tem uma Gemfile
+## What is a Gemfile?
 
-No tutorial eu usei o tema [Fresh](http://jekyllthemes.org/themes/fresh/) que já vem com uma Gemfile pronta. Mas e se eu escolher um tema sem uma Gemfile? Como que funciona?
+Well before explaining what this file is, you need to understand a little bit about Ruby projects. Each project, independent of the language you are using, usually has a list of dependencies that are required for this project to run. For Ruby projects, this list of dependency management is made using a system known as Gemfile.
 
-Para começar, o comando `bundle install` não irá funcionar. Esse comando busca a Gemfile para instalar as gems do projeto. Da mesma forma também não funcionará o comando `bundle exec jekyll serve`.
+Each package/library you install for use by your project is a _gem_. Just as Jekyll itself is a gem, you may need, for example, Jekyll plugins to do things on your site such as paging posts, including SEO, and even automatically building an XML feed. To install and manage such plugins, Gemfile is used.
 
-Hoje eu vou ensinar como criar uma Gemfile, ou viver sem ela, para exemplificar os passos de hoje vou usar o tema [Wall-E](https://github.com/jtemporal/Wall-E) (linkei o meu fork do tema pois o original acabou de ganhar um PR com uma Gemfile hihi).
+## My theme does not have a Gemfile
 
-``` console
-$ git clone git@github.com:abhn/Wall-E.git
-$ cd Wall-E/
-```
+In the tutorial, I used the [Fresh](http://jekyllthemes.org/themes/fresh/) theme that comes with a Gemfile ready. But what if I choose a theme without a Gemfile? How does it work?
+
+For starters, the `bundle install` command will not work. This command asks Gemfile to install the project gems. Similarly, the `bundle exec jekyll serve` command will not work either.
+
+Today I am going to teach you how to create a Gemfile, or live without it, to exemplify today's steps I will use the [Wall-E](https://github.com/jtemporal/Wall-E) theme (I linked my theme fork because the original just won a PR with a Gemfile hihi).
+
+    $ git clone git@github.com:abhn/Wall-E.git
+    $ cd Wall-E/
 
 ![bundle install falhando](https://i.imgur.com/Efo1e1C.png)
 
-Se não da pra iniciar o servidor usando o bundle, a alternativa é fazê-lo usando o Jekyll purão mesmo:
+If you can not start the server using the bundle, the alternative is to do it using Jekyll same puree:
 
-``` console
-$ jekyll serve
-```
+    $ jekyll serve
 
-![jekyll serve falhando](https://i.imgur.com/RGYPVQu.png)
+![jekyll serve falhando](https://i.imgur.com/RGYPVQu.png)This is when you begin to realize how cool it would be to have a Gemfile. If you have it, it is much easier to start running the project. To resolve this error, just do the following steps:
 
-É nessa hora que você começa a perceber como seria legal ter uma Gemfile. Se você tem ela fica muito mais fácil começar a rodar o projeto. Pra resolver esse erro basta fazer os seguintes passos:
+    $ gem install jekyll-gist
+    $ jekyll serve
 
-``` console
-$ gem install jekyll-gist
-$ jekyll serve
-```
+And access  `localhost:4000`.
 
-E acessar `localhost:4000`.
+One way to know which gems to install before running the server is to check the necessary gem for the theme in the `_config.yml` file in the `plugins` tag:
 
-Uma forma de saber quais gems instalar antes de rodar o servidor é checar as gem necessárias para o tema no arquivo `_config.yml` na tag `plugins`:
+    plugins: [jekyll-gist]
 
-``` plaintext
-plugins: [jekyll-gist]
-```
+The plugins tag lists the gems needed for that Jekyll project.
 
-A tag plugins traz a lista de gems necessárias para aquele projeto Jekyll.
+## Creating Your Gemfile
 
-## Criando a sua Gemfile
+Okay, I already know how to run a project without Gemfile, and I can install gems by hand, but I don't want to be doing this, so how do I create a Gemfile?
 
-Tá eu já sei rodar um projeto sem Gemfile e sei instalar as gems na mão, mas não quero ficar fazendo isso, então como que eu crio uma Gemfile?
+Start by creating a file called `Gemfile` in the project root:
 
-Comece criando um arquivo chamado `Gemfile` no root do projeto:
+    $ touch Gemfile
 
-``` console
-$ touch Gemfile
-```
+In this file you will list all dependencies, including Jekyll himself:
 
-Nesse arquivo você vai listar todas as dependências, inclusive o próprio Jekyll:
+    source "https://rubygems.org"
+    
+    gem "jekyll"
+    gem "jekyll-gist"
 
-``` plaintext
-source "https://rubygems.org"
+Just do this:
 
-gem "jekyll"
-gem "jekyll-gist"
-```
+    $ bundle install
+    $ bundle exec jekyll serve
 
-Assim é só executar:
-
-``` console
-$ bundle install
-$ bundle exec jekyll serve
-```
-
-E seguir fazendo os posts ;)
+And keep doing the posts 😉
 
 ***
 
 ## Links
 
-* Tutorial sobre [Gems, Gemfiles and Bundler em inglês e com vídeos](https://learn.cloudcannon.com/jekyll/gemfiles-and-the-bundler/)
+* Tutorial about [Gems, Gemfiles and Bundler](https://learn.cloudcannon.com/jekyll/gemfiles-and-the-bundler/)
