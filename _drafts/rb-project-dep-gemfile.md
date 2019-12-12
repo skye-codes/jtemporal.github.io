@@ -1,20 +1,18 @@
 ---
-title: 'Dependências de projetos Ruby: Gemfile'
+title: 'Ruby Project Dependencies: Gemfile'
 layout: post
 date: 2018-01-13 08:00:00
-image: "/images/colinha.png"
+image: "/images/pro_tip.png"
 tags:
-- colinha
+- english
+- protip
+- pro tip
 - jekyll
 - ruby
 - gemfile
-- dependências
 - terminal
-- versões
-- versoes
-- português
 comments: true
-description: Entenda o que é uma Gemfile e como criar uma caso não exista.
+description: Understand what is a Gemfile and learn how to create one
 
 ---
 Depois de [ensinar a colocar um site no ar](http://jtemporal.com/do-tema-ao-ar/) usando o [Jekyll](https://jekyllrb.com/). Vou responder uma pergunta que me fizeram: _"Meu tema não tem uma Gemfile, e agora?"_ A colinha de hoje ensina o que fazer.
