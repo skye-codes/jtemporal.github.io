@@ -13,5 +13,5 @@ fields:
   label: image
   default: "/images/profilepicgh.jpeg"
 pages:
-- index.html
 - _includes/read-time.html
+- index.html
