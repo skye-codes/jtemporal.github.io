@@ -73,9 +73,7 @@ The plugins tag lists the gems needed for that Jekyll project.
 
 ## Creating Your Gemfile
 
-Okay, I already know how to run a project without Gemfile, and I can install gems by hand, but I don't want to be doing this, so how do I create a Gemfile?
-
-Start by creating a file called `Gemfile` in the project root:
+Now you know how to run a project without Gemfile, and you know how to install gems by hand, but doing this every time is annoying, so let's create a Gemfile. Start by creating a file called `Gemfile` in the project root:
 
     $ touch Gemfile
 
@@ -86,12 +84,12 @@ In this file you will list all dependencies, including Jekyll himself:
     gem "jekyll"
     gem "jekyll-gist"
 
-Just do this:
+Then you can do the following:
 
     $ bundle install
     $ bundle exec jekyll serve
 
-And keep doing the posts 😉
+All is set, and you enjoy your project 😉
 
 ***
 
