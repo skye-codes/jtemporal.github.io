@@ -47,7 +47,7 @@ Let's see how to create a Gemfile, or live without it, to exemplify today's step
 <small><i>bundle install failing</i></small>
 </center>
 
-If you can not start the server using the bundle, the alternative is to do it using Jekyll same puree:
+If you can't start the server using bundle, the alternative is to do it using pure Jekyll:
 
     $ jekyll serve
 
