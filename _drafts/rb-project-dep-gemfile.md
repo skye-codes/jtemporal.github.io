@@ -37,7 +37,7 @@ For starters, the `bundle install` command would not work. This command uses the
 
 Let's see how to create a Gemfile, or live without it, to exemplify today's steps I will use the [Wall-E](https://github.com/jtemporal/Wall-E) theme (I linked the fork I made because after this post I made a pull request adding a Gemfile to the theme `¯\_(ツ)_/¯`).
 
-    $ git clone git@github.com:abhn/Wall-E.git
+    $ git clone git@github.com:jtemporal/Wall-E.git
     $ cd Wall-E/
 
 ![bundle install falhando](https://i.imgur.com/Efo1e1C.png)
