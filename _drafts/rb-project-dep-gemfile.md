@@ -58,14 +58,14 @@ If you can't start the server using bundle, the alternative is to do it using pu
 <small><i>jekyll serve failing</i></small>
 </center>
 
-This is when you begin to realize how cool it would be to have a Gemfile. If you have it, it is much easier to start running the project. To resolve this error, just do the following steps:
+This is when you begin to realize how cool it would be to have a Gemfile.  It is much easier to run the project when you have a dependency file.  To fix this error, do the following steps:
 
     $ gem install jekyll-gist
     $ jekyll serve
 
-And access  `localhost:4000`.
+Now you can access  `localhost:4000`.
 
-One way to know which gems to install before running the server is to check the necessary gem for the theme in the `_config.yml` file in the `plugins` tag:
+One way to know which gems are needed before running the server is to check the necessary gems for the theme in the `_config.yml` file in the `plugins` tag:
 
     plugins: [jekyll-gist]
 
