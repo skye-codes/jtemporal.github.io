@@ -31,11 +31,11 @@ Each package/library you need install to run your project is called a _gem_. Jus
 
 ## My theme does not have a Gemfile
 
-In the tutorial, I used the [Fresh](http://jekyllthemes.org/themes/fresh/) theme that comes with a Gemfile ready. But what if I choose a theme without a Gemfile? How does it work?
+For the tutorial linked at the beginning of this post, I used [the Fresh](http://jekyllthemes.org/themes/fresh/) theme. It already comes with a Gemfile. But what if I had chosen a theme without a Gemfile?
 
-For starters, the `bundle install` command will not work. This command asks Gemfile to install the project gems. Similarly, the `bundle exec jekyll serve` command will not work either.
+For starters, the `bundle install` command would not work. This command uses the Gemfile to install the project required gems. Similarly, the `bundle exec jekyll serve` command won't work either.
 
-Today I am going to teach you how to create a Gemfile, or live without it, to exemplify today's steps I will use the [Wall-E](https://github.com/jtemporal/Wall-E) theme (I linked my theme fork because the original just won a PR with a Gemfile hihi).
+Let's see how to create a Gemfile, or live without it, to exemplify today's steps I will use the [Wall-E](https://github.com/jtemporal/Wall-E) theme (I linked the fork I made because after this post I made a pull request adding a Gemfile to the theme `¯\_(ツ)_/¯`).
 
     $ git clone git@github.com:abhn/Wall-E.git
     $ cd Wall-E/
