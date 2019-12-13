@@ -1,7 +1,7 @@
 ---
 title: 'Ruby Project Dependencies: Gemfile'
 layout: post
-date: 2018-01-13 06:01:00 -0200
+date: 2018-01-13 05:59:00 -0200
 image: "/images/pro_tip.png"
 tags:
 - english
@@ -15,7 +15,6 @@ comments: true
 description: Today's pro-tip teaches you what to do when you don't have a Gemfile
 
 ---
-
 ***
 
 Author note: [Leia este artigo em Português](https://jtemporal.com/gemfile/).
