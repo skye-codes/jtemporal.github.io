@@ -27,7 +27,7 @@ After [teaching how to get your website online](https://translate.googleusercont
 
 Before explaining what this file is, you need to understand a little bit about Ruby projects. Usually, each project, independent of the language you are using, has a list of dependencies that are required for the said project to run. For Ruby projects, this dependency management list is made using a system known as Gemfile.
 
-Each package/library you need install to run your project is called a _gem_. Just as Jekyll itself is a gem, you may need, for example, Jekyll plugins to do things on your site such as paginating post lists, including SEO and even automatically building an XML feed. To install and manage such plugins, we use a Gemfile.
+Each package/library you need install to run your project is called a _gem_. Just as Jekyll itself is a gem, you may need, for example, some plugins to add some features on your site such as paginating post lists, including SEO, and even automatically building an XML feed. To install and manage such plugins, we use a Gemfile.
 
 ## My theme does not have a Gemfile
 
