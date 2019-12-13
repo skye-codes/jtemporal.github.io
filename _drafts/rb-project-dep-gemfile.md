@@ -42,9 +42,9 @@ Let's see how to create a Gemfile, or live without it, to exemplify today's step
 
 <center>
 <br>
-<img src="https://i.imgur.com/Efo1e1C.png" alt="bundle install falhando">
+<img src="https://i.imgur.com/Efo1e1C.png" alt="bundle install failing">
 <br>
-<small><i>bundle install falhando</i></small>
+<small><i>bundle install failing</i></small>
 </center>
 
 If you can not start the server using the bundle, the alternative is to do it using Jekyll same puree:
@@ -53,9 +53,9 @@ If you can not start the server using the bundle, the alternative is to do it us
 
 <center>
 <br>
-<img src="https://i.imgur.com/RGYPVQu.png" alt="jekyll serve falhando">
+<img src="https://i.imgur.com/RGYPVQu.png" alt="jekyll serve failing">
 <br>
-<small><i>jekyll serve falhando</i></small>
+<small><i>jekyll serve failing</i></small>
 </center>
 
 This is when you begin to realize how cool it would be to have a Gemfile. If you have it, it is much easier to start running the project. To resolve this error, just do the following steps:
