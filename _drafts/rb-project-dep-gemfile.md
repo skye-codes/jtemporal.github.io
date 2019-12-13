@@ -1,7 +1,7 @@
 ---
 title: 'Ruby Project Dependencies: Gemfile'
 layout: post
-date: 2018-01-13 08:00:00
+date: 2018-01-13T08:00:00.000+00:00
 image: "/images/pro_tip.png"
 tags:
 - english
@@ -12,7 +12,7 @@ tags:
 - gemfile
 - terminal
 comments: true
-description: Understand what is a Gemfile and learn how to create one
+description: Today's pro-tip teaches you what to do when you don't have a Gemfile
 
 ---
 \---
@@ -21,7 +21,7 @@ Author note: [Leia este artigo em Português](https://jtemporal.com/gemfile/).
 
 \---
 
-After [teaching how to get your website online](https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.com&sl=auto&sp=nmt4&tl=en&u=http://jtemporal.com/do-tema-ao-ar/&xid=17259,1500000,15700002,15700021,15700186,15700190,15700256,15700259,15700262,15700265,15700271,15700283&usg=ALkJrhjY8BCFOb0VuCzIEDasyaE7ldKdZA) using [Jekyll](https://jekyllrb.com). I'm going to answer a question somebody asked me: _"My theme doesn't have a Gemfile, now what?"_ Today's pro-tip teaches you what to do when you don't have a Gemfile.
+After [teaching how to get your website online](https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.com&sl=auto&sp=nmt4&tl=en&u=http://jtemporal.com/do-tema-ao-ar/&xid=17259,1500000,15700002,15700021,15700186,15700190,15700256,15700259,15700262,15700265,15700271,15700283&usg=ALkJrhjY8BCFOb0VuCzIEDasyaE7ldKdZA) using [Jekyll](https://jekyllrb.com). I'm going to use today's pro-tip to answer a question somebody asked me: _"My theme doesn't have a Gemfile, now what?"_
 
 ## What is a Gemfile?
 
