@@ -35,6 +35,6 @@ fields:
 pages:
 - _posts/2017-12-30-python-virtual-environments-venv.md
 - _posts/2018-01-07-choosing-a-jekyll-theme.md
+- _posts/2018-01-13-rb-project-dep-gemfile.md
 - _posts/2019-03-16-playing-with-dockers-container-listing.md
 - _posts/2019-04-03-copying-files-into-a-container.md
-- _posts/rb-project-dep-gemfile.md
