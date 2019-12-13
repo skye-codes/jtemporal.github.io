@@ -40,13 +40,25 @@ Let's see how to create a Gemfile, or live without it, to exemplify today's step
     $ git clone git@github.com:jtemporal/Wall-E.git
     $ cd Wall-E/
 
-![bundle install falhando](https://i.imgur.com/Efo1e1C.png)
+<center>
+<br>
+<img src="https://i.imgur.com/Efo1e1C.png" alt="bundle install falhando">
+<br>
+<small><i>bundle install falhando</i></small>
+</center>
 
 If you can not start the server using the bundle, the alternative is to do it using Jekyll same puree:
 
     $ jekyll serve
 
-![jekyll serve falhando](https://i.imgur.com/RGYPVQu.png)This is when you begin to realize how cool it would be to have a Gemfile. If you have it, it is much easier to start running the project. To resolve this error, just do the following steps:
+<center>
+<br>
+<img src="https://i.imgur.com/RGYPVQu.png" alt="jekyll serve falhando">
+<br>
+<small><i>jekyll serve falhando</i></small>
+</center>
+
+This is when you begin to realize how cool it would be to have a Gemfile. If you have it, it is much easier to start running the project. To resolve this error, just do the following steps:
 
     $ gem install jekyll-gist
     $ jekyll serve
