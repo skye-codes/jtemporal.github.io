@@ -1,28 +1,47 @@
 ---
 layout: post
-title: Em quem você pensa quando te pedem uma indicação?
-date: 2017-09-21T03:00:00.000+00:00
-image: "/images/click-2.png"
+title: Who do you think of when asked for a referral?
+date: 2019-12-18 05:00:00 -0200
+image: "/images/miscellaneous.png"
 comments: true
 tags:
-- medium
+- pyladies
+- women in stem
+- women in tech
 - 'Python '
-- pessoal
-- carreira
+- career
+description: You know qualified women. Why not appoint them?
 
 ---
-Você conhece mulheres qualificadas. Por que não indicá-las?
+## You know qualified women. Why not appoint them?
 
-Dei várias palestras ao longo deste ano e se tornou comum as pessoas me chamarem para combinar outras palestras, ser mentora em hackathons, organizar eventos e afins. Algumas vezes minha agenda não me permite aceitar os convites como eu gostaria e então essas pessoas me fazem a fatídica pergunta: _Me indica alguém?_
+\***
 
-***
+Author note: [Leia este artigo em Português](https://code.likeagirl.io/em-quem-voc%C3%AA-pensa-quando-te-pedem-uma-indica%C3%A7%C3%A3o-b15e047b7759).
 
-Pra continuar lendo esse artigo corre lá para a revista do Code Like a Girl 👇
+This article was originally posted in Portuguese at the Code Like a Girl blog linked above.
 
-<center>
-<a href="https://code.likeagirl.io/em-quem-voc%C3%AA-pensa-quando-te-pedem-uma-indica%C3%A7%C3%A3o-b15e047b7759">
+\***
 
-<img src="/images/clique-aqui-para-ler.png" />
+TK cover image: PyLadies at PythonBrasil \[12\]
 
-</a>
-</center>
+I've given several lectures during 2017, and it has become common for people to call me to and invite me to lecture on other events, to be a hackathon mentor, to organize events, and other things in the like. Sometimes my schedule doesn't allow me to accept the invitations as I would like, and then these people ask me the crucial question: _Could you appoint someone we could invite?_
+
+And then, I find myself scrolling through my contact list to find people who can fit the event proposal. Most of the time, the people I indicate are close to me. And that's fine. The problem comes when ALL the indications I want to make _are men_. And look, there are plenty of extremely qualified women on my contact list (and Telegram groups).
+
+I hadn't given a second thought about this matter for a long time, and maybe you too may not have thought about it. After reading a lot, watching videos, and talking to people about inclusiveness, sexism, and diversity, the penny finally dropped: It's not enough to indicate a woman, it's also necessary to show that she is the one that has to be there.
+
+TK Video
+
+[Source](https://translate.google.com/translate?hl=pt-BR&prev=_t&sl=auto&tl=en&u=https://www.facebook.com/MicMedia/videos/1651080888248028/)
+
+In this video posted by Mic on their Facebook page, [Karen Sandler](https://twitter.com/o0karen0o) talks about sexism in the tech industry. In addition to mentioning the situations women that are attending IT events often encounter, she reports how women find it hard to consider themselves experts in their fields of work. Including herself. She was named for being a patent expert for an interview for the documentary [Patent Absurdity](http://patentabsurdity.com/watch.html). Instead of accepting to being interviewed, she wanted to pass the opportunity to "people who were, in fact, experts."
+
+Realizing this problem we women face, because yes I also go through this, I started doing two things:
+
+1. I only recommend men if I spend two days non-stop looking for a qualified woman to indicate and not finding one (rare but happens `¯\_(ツ)_/¯`);
+2. Talk to the women I mentioned and prepare them: I appointed you because _you are_ the best choice for this.
+
+I used to tell the nominee I had appointed her, and just like Karen Sandler did when she was supposed to be interviewed for the first time, my nominees always wanted to pass along the opportunity along. Saying they "weren't an expert" or "still having a lot to learn" or "having people more qualified for the job."
+
+Helping women who want to play a prominent role goes beyond appointing them. It involves helping them realize that they must be on that stage or in front of that camera to show what they have to offer. Refer a woman and help her see how capable she is.
