@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Em quem você pensa quando te pedem uma indicação?
-date: 2017-09-21 00:00:00 -0300
+date: 2017-09-21T03:00:00.000+00:00
 image: "/images/click-2.png"
 comments: true
 tags:
@@ -9,8 +9,15 @@ tags:
 - 'Python '
 - pessoal
 - carreira
+description: Você conhece mulheres qualificadas. Por que não indicá-las?
 
 ---
+***
+
+Nota da autora: [Read this post in English](https://jtemporal.com/who-do-you-think-of-when-asked-for-a-referral/).
+
+***
+
 Você conhece mulheres qualificadas. Por que não indicá-las?
 
 Dei várias palestras ao longo deste ano e se tornou comum as pessoas me chamarem para combinar outras palestras, ser mentora em hackathons, organizar eventos e afins. Algumas vezes minha agenda não me permite aceitar os convites como eu gostaria e então essas pessoas me fazem a fatídica pergunta: _Me indica alguém?_
