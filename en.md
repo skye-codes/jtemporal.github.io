@@ -8,8 +8,8 @@ permalink: "/en/"
 
 
 {% for post in site.posts %}
-{% if "english" in post.tags %}
-{{ post.date | date: "%b %-d, %Y" }} - <a href="{{ post.url | prepend: site.url}}">{{ post.title }}</a>
+{% if "colinha" in post.tags %}
+<p>hell yeah</p>
 {% endif %}
 {% endfor %}
 
