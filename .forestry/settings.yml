@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _drafts
   label: rascunhos
-  match: "**/*"
 - type: heading
   label: JTemporal
 - type: jekyll-posts
