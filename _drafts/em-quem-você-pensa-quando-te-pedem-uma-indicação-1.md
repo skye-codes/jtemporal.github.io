@@ -13,17 +13,20 @@ tags:
 description: You know qualified women. Why not appoint them?
 
 ---
-## You know qualified women. Why not appoint them?
+#### You know qualified women. Why not appoint them?
 
-\***
+***
 
 Author note: [Leia este artigo em Português](https://code.likeagirl.io/em-quem-voc%C3%AA-pensa-quando-te-pedem-uma-indica%C3%A7%C3%A3o-b15e047b7759).
 
 This article was originally posted in Portuguese at the Code Like a Girl blog linked above.
 
-\***
-
-TK cover image: PyLadies at PythonBrasil \[12\]
+***
+<center>
+<img src="https://miro.medium.com/max/3000/1*hPWHuOBEBoxpvAfqqo0bLw.jpeg" alt="PyLadies at PythonBrasil 12">
+  <br>
+  <small><i>PyLadies at PythonBrasil [12]</i></small>
+</center>
 
 I've given several lectures during 2017, and it has become common for people to call me to and invite me to lecture on other events, to be a hackathon mentor, to organize events, and other things in the like. Sometimes my schedule doesn't allow me to accept the invitations as I would like, and then these people ask me the crucial question: _Could you appoint someone we could invite?_
 
@@ -31,9 +34,7 @@ And then, I find myself scrolling through my contact list to find people who can
 
 I hadn't given a second thought about this matter for a long time, and maybe you too may not have thought about it. After reading a lot, watching videos, and talking to people about inclusiveness, sexism, and diversity, the penny finally dropped: It's not enough to indicate a woman, it's also necessary to show that she is the one that has to be there.
 
-TK Video
-
-[Source](https://translate.google.com/translate?hl=pt-BR&prev=_t&sl=auto&tl=en&u=https://www.facebook.com/MicMedia/videos/1651080888248028/)
+<center><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMicMedia%2Fvideos%2F1651080888248028%2F&amp;show_text=0&amp;width=476" style="border:none;overflow:hidden" scrolling="no" allowtransparency="true" allowfullscreen="true" width="476" height="476" frameborder="0"></iframe><br><small><a href="https://www.facebook.com/MicMedia/videos/1651080888248028">Source</a><i></i></small></center>
 
 In this video posted by Mic on their Facebook page, [Karen Sandler](https://twitter.com/o0karen0o) talks about sexism in the tech industry. In addition to mentioning the situations women that are attending IT events often encounter, she reports how women find it hard to consider themselves experts in their fields of work. Including herself. She was named for being a patent expert for an interview for the documentary [Patent Absurdity](http://patentabsurdity.com/watch.html). Instead of accepting to being interviewed, she wanted to pass the opportunity to "people who were, in fact, experts."
 
