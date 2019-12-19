@@ -1,11 +1,12 @@
 ---
 layout: post
 title: A ciência de dados pode salvar um país
-date: 2019-11-23 11:11:42 -0200
+date: 2019-11-23T13:11:42.000+00:00
 image: "/images/tutorial.png"
 comments: true
 description: Mas só se você levantar o bumbum do sofá e começar a fazer sua parte
 tags:
+- português
 - serenata
 - data science
 - ciencia de dados
