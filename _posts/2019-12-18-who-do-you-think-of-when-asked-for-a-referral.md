@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Who do you think of when asked for a referral?
-date: 2019-12-18 05:00:00 -0200
+date: 2019-12-18T07:00:00.000+00:00
 image: "/images/miscellaneous.png"
 comments: true
 tags:
+- english
 - pyladies
 - women in stem
 - women in tech
