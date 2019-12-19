@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Copying files into a container
-date: 2019-04-03 11:00:00 -0300
+date: 2019-04-03T14:00:00.000+00:00
 image: "/images/pro_tip.png"
 comments: true
 tags:
+- english
 - pro tip
 - docker
 - container
