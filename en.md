@@ -7,6 +7,7 @@ permalink: "/en/"
 ---
 
 
+<div class="row pack">
 {% for post in site.posts %}
 {% if post.tags contains "english" or post.tags contains "English" %}
 <div class="col-md-4 card">
@@ -35,4 +36,4 @@ permalink: "/en/"
 </div>
 {% endif %}
 {% endfor %}
-
+</div>
