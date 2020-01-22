@@ -11,7 +11,6 @@ tags:
 - português
 comments: true
 description: Aprenda a instalar e gerenciar versões do Python usando pyenv
-description: Aprenda a instalar e gerenciar versões do Python usando pyenv
 
 ---
 ***
@@ -51,6 +50,18 @@ $ pyenv install -l
 ```
 
 Massa né? Agora é só sair instalando versão adoidado 😂
+
+E agora o momento da verdade, para configurar a versão global do Python, isto é, definir que versão do Python você vai usar quando colocar o Python pra rodar, use o seguinte comando:
+
+    $ pyenv global 3.6.4
+
+Assim independente de qual lugar você navegar no seu terminal o Python que estará rodando será o `3.6.4`. Isso é muito útil se todos os seus projetos estiverem na mesma versão. Outra funcionalidade legal do _pyenv_ é definir um Python local, vamos supor que um determinado projeto só rode no Python `3.5.3` então basta você instalar essa versão (como você aprendeu ali em cima) e em seguida ir até a pasta desse projeto e usar este comando:
+
+    $ pyenv local 3.5.3
+
+Assim sempre que você entrar nessa pasta o pyenv vai "ativar" o Python correto para o seu projeto.  
+  
+Chega de sofrer com versões do Python! 🎉
 
 ***
 
