@@ -56,3 +56,4 @@ pages:
 - _posts/como-dar-nome-a-pontos-nos-gráficos-do-matplotlib.md
 - _posts/criando-pastas-vazias-no-github-com-o-gitkeep.md
 - _posts/pyspark-como-renomear-o-nome-de-uma-coluna.md
+- _posts/pyspark-usando-window.md
