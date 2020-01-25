@@ -53,6 +53,22 @@ When in doubt of which version you can install, just use the install flag `-l` t
 $ pyenv install -l
 ```
 
-Cool huh? Now you can install version like crazy 😂
+Cool huh? Now you can install Python versions like crazy 😂
+
+And now, for the moment of truth, to configure the global version of Python, that is, to define which version of Python you will use when running Python, run the following command:
+
+```
+ $ pyenv global 3.6.4
+```
+
+So regardless of where you navigate on your terminal, the Python version running will be `3.6.4`. This command is handy if all of your projects are in the same version. Another nice feature of pyenv is to define a local Python, let's say for instance that a given project only runs on Python `3.5.3`, so you need to install that version (as you learned previously) and then go to that project's folder and use this command:
+
+```
+ $ pyenv local 3.5.3
+```
+
+So whenever you enter the said project folder, pyenv will “activate” the correct Python for your project.
+
+No more pain when dealing with Python versions! 🎉
 
 ***
