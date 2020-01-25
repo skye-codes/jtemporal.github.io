@@ -15,7 +15,7 @@ description: Aprenda a instalar e gerenciar versões do Python usando pyenv
 ---
 ***
 
-Author note: You can [read this post in English here](https://jtemporal.com/python-and-it-s-versions/).
+Author note: You can [read this post in English here](https://jtemporal.com/python-and-its-versions/).
 
 ***
 
