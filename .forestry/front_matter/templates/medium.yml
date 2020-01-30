@@ -5,7 +5,7 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: post
 - name: title
   label: Título
@@ -30,17 +30,18 @@ fields:
   type: file
   hidden: false
   default: "/images/click-2.png"
-- name: tags
-  label: Tags
-  type: tag_list
-  hidden: false
-  default:
-  - medium
 - name: comments
   label: Comments
   type: boolean
   hidden: false
   default: true
+- name: tags
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Tags
 pages:
 - _posts/2017-01-16-uma-semana-de-serenata.md
 - _posts/2017-04-10-serenata-pelo-brasil-a-fora.md
