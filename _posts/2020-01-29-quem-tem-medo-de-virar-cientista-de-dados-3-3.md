@@ -11,7 +11,7 @@ tags:
 - português
 comments: true
 description: Esse texto é a parte final da trilogia “Quem tem medo de virar cientista
-  de dados?
+  de dados?"
 
 ---
 Esse texto é a parte final da trilogia “Quem tem medo de virar cientista de dados?”
