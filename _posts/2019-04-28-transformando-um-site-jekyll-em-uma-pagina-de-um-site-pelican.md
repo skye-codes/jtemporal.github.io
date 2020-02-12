@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transformando um site feito em Jekyll em uma página de um site feito em Pelican
-date: 2019-04-28 00:00:00 -0300
+date: 2019-04-28T03:00:00.000+00:00
 image: "/images/tutorial.png"
 tags:
 - tutorial
@@ -18,7 +18,7 @@ comments: true
 description: Comandos para colocar uma página dentro de um site Pelican
 
 ---
-No post [_“Movendo um site construído com Jekyll para dentro de um site construído com Pelican”_](https://jtemporal.com/movendo-um-site-constru%C3%ADdo-com-jekyll-para-dentro-de-um-site-constru%C3%ADdo-com-pelican/) eu contei a jornada que foi mover o site do PyLadies BR Conf para dentro do site do PyLadies Brasil. Aqui vai o passo a passo final com comandos que usei tudo isso.
+No post [_“Movendo um site construído com Jekyll para dentro de um site construído com Pelican”_](https://jtemporal.com/movendo-um-site-construido-com-jekyll-para-dentro-de-um-site-construido-com-pelican/) eu contei a jornada que foi mover o site do PyLadies BR Conf para dentro do site do PyLadies Brasil. Aqui vai o passo a passo final com comandos que usei tudo isso.
 
 ***
 
