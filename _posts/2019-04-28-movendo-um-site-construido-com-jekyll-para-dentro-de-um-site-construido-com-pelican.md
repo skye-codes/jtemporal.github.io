@@ -14,8 +14,8 @@ tags:
 - pyladies
 - pyladies br conf
 comments: true
-description: Como foi ajustar um site Pelican para servir uma página pronta feita em
-  Jekyll
+description: Como foi ajustar um site Pelican para servir uma página pronta feita
+  em Jekyll
 
 ---
 Ano passado aconteceu a primeira edição do PyLadies BR Conf lá em Natal no Rio Grande do Norte. A edição desse ano vai acontecer na cidade de São Paulo e, com o início dos preparativos para a segunda edição, precisamos mover o site da edição passada para um novo lugar. Aqui vou contar a história de como isso aconteceu.
@@ -70,7 +70,8 @@ Então para termos os site _buildado_ e colocar ele como uma página no site ofi
 
 Pra começar eu já tinha o repositório do site da conferência clonado no meu computador e também já tinha instalado todas as bibliotecas que precisava pra construir o site, então eu alterei o arquivo `_config.yml` trocando os valores das chaves `base_url` e `url` assim:
 
-    baseurl: "/conf-1"url: "https://brasil.pyladies.com"
+    baseurl: "/conf-1"
+    url: "https://brasil.pyladies.com"
 
 Com essa alteração o site _buildado_ vai estar configurado para ser servido a partir de `https://brasil.pyladies.com/conf-1`. Então, para fazer o build é só seguir o tradicional:
 
