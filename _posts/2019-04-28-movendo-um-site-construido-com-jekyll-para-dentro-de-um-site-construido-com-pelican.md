@@ -107,7 +107,7 @@ E também alterando o arquivo `pelicanconf.py` da seguinte forma:
 
 <script src="https://gist.github.com/jtemporal/6cd27e0682ca98f8a3b197450d8c49b0.js"></script>
 
-Agora ao fazer o _build_ do site oficial do PyLadies Brasil conseguimos ver a página da conferência como esperado. 🎉 🎉 EBAAA!!
+Agora ao fazer o _build_ do site oficial do [PyLadies Brasil conseguimos ver a página da conferência](http://brasil.pyladies.com/conf-1/) como esperado. 🎉 🎉 EBAAA!!
 
 ## Moral da história
 
