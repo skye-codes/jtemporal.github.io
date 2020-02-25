@@ -108,9 +108,9 @@ Open the `_config.yml` file in your favorite editor, and let's update it. To see
 In this part goes the initial information:
 
 * The title (`title`): The name that appears when you open a tab in the browser;
-* Name (`name`): usually something descriptive of what your blog is about;      
-* The description (`description`): which goes inside the HTML and when someone shares your blog is this description that appears, it also helps to put your site in search results like Google and DuckDuckGo;      
-* The page (`baseurl`): From which link your site is served, the path to your home      
+* Name (`name`): usually something descriptive of what your blog is about;
+* The description (`description`): which goes inside the HTML and when someone shares your blog is this description that appears, it also helps to put your site in search results like Google and DuckDuckGo;
+* The page (`baseurl`): From which link your site is served, the path to your home
 * The URL (`url`): This is where the domain goes, may it be the one that GitHub Pages makes available (username.github.io) or one that you will buy (as is my case here).
 
 Edit this first block for something like this:
@@ -167,12 +167,12 @@ After restarting the server for the configuration file changes to take effect, y
 
 ![area de comentarios disqus](https://i.imgur.com/3Lc0O9q.png)
 
-### Paginação
+### Pagination
 
-É nessa seção que você define quantos posts aparecem por página no seu site:
+This is where you define how many posts appear per page on your site:
 
-* Posts por página (`paginate`): quantos blog posts aparecem em cada página;
-* URL de uma página (`paginate_path`): essa variável define como vão ser geradas as URLs de uma página específica, por exemplo, `blog/page2/index.html`.
+* Posts per page (`paginate`): how many blog posts appear on each page;
+* Page URL (`paginate_path`): This variable defines how the URLs of a specific page will be generated, for example, `blog/page2/index.html`.
 
 ``` yml
 # Paginate
@@ -180,14 +180,14 @@ paginate: 5
 paginate_path: /page:num/
 ```
 
-### Configurações de build
+### Build settings
 
-Aqui você não vai precisar mudar nada, mas é bom entender o que tá rolando né?!
+Here you will not need to change anything, but it is good to understand what each of these things means, right?!
 
-* Renderizador de markdown (`markdown`): aqui você pode escolher que renderizador de Markdown usar. O padrão é o `kramdown`;
-* Gems necessárias para esse tema (`gems`): aqui vai uma lista de gems que precisam ser instaladas;
-* Diretórios e arquivos para exclusão (`exclude`): esses são arquivos e diretórios para serem desconsiderados na hora de gerar as páginas do site;
-* Diretórios e arquivos para inclusão (`include`): esses são arquivos e diretórios para serem considerados na hora de gerar as páginas do site, se você quiser servir algum arquivo a partir do seu site você deve incluir ele nessa lista.
+* Markdown Renderer (`markdown`): Here, you can choose which Markdown renderer to use. The default is `kramdown`;      
+* Gems needed for this theme (`gems`): here is a list of gems that need to be installed;      
+* Exclude directories and files (`exclude`): These are files and directories to be disregarded when generating site pages;      
+* Include files and directories (`include`): These are files and directories to consider when building site pages; if you want to serve a file, let's say a PDF file, you must include it in this list.
 
 ``` yml
 # Build settings
