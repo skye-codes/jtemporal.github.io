@@ -18,4 +18,4 @@ If you were following the "[Publishing your own website with Jekyll](https://jte
 
 ![](images/invalid_date_macos_catalina.png)
 
-The solution is quite simple although it may not be trivial if it is your first time doing this. In this pro-tip I'll show you how to fix this error so you can continue blogging 😉
+The solution is quite simple although it may not be trivial if it is your first time doing this. In this pro-tip, I'll show you how to fix this error so you can continue blogging 😉
