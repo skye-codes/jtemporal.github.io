@@ -16,13 +16,13 @@ tags:
 ---
 If you were following the "[Publishing your own website with Jekyll](https://jtemporal.com/publishing-a-website-with-jekyll/)" on macOS Catalina, after running `bundle install` and `bundle exec jekyll serve` you may have run into this error:
 
-![](images/invalid_date_macos_catalina.png)
+![](/images/invalid_date_macos_catalina.png)
 
 The solution is quite simple although it may not be trivial if it is your first time doing this. In this pro-tip, I'll show you how to fix this error so you can continue blogging 😉
 
-If you run into this error it probably means that the Jekyll version you are using on your project may be incompatible with the ruby version in your machine, to fix that we will need to upgrade your project version.
+If you run into this error it probably means that the Jekyll version you are using on your project may be incompatible with the ruby version in your machine, to fix that we will need to upgrade your project's jekyll version.
 
-First things first, remove the vendor generate in the previous bundle install, remember to adjust your vendor path accordingly:
+First things first, remove the vendor generated in the previous bundle install, remember to adjust your vendor path accordingly:
 
     $ rm -rf vendor/
 
@@ -41,6 +41,6 @@ Now all you have to do is reinstall everything and run the Jekyll server:
 
 And you should see something like this:
 
-![](images/Screen Shot 2020-02-25 at 13.21.24.png)
+![](/images/Screen Shot 2020-02-25 at 13.21.24.png)
 
 And now you are good to go! Happy blogging 🎉
