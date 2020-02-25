@@ -4,7 +4,6 @@ layout: post
 image: "/images/tutorial.png"
 date: 2018-01-07T10:00:00.000+00:00
 tags:
-- english
 - tutorial
 - jekyll
 - ruby
@@ -12,12 +11,13 @@ tags:
 - site
 - github pages
 - github
-- github
+- english
 comments: true
 description: Learn to get your website up and running using the terminal, jekyll and
   other tools.
 
 ---
+
 ***
 
 _Author note:_ [Siga esse tutorial em Português.](https://jtemporal.com/do-tema-ao-ar/)
