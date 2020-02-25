@@ -1,5 +1,5 @@
 ---
-title: 'Colocando um site no ar com Jekyll: usando o terminal'
+title: Colocando um site no ar com Jekyll
 layout: post
 image: "/images/tutorial.png"
 date: 2018-01-07T10:00:00.000+00:00
@@ -14,6 +14,7 @@ tags:
 - github
 - português
 comments: true
+description: Aprenda a colocar o seu site no ar de graça usando o GitHub
 
 ---
 ***

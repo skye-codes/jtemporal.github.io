@@ -45,6 +45,7 @@ fields:
   hidden: true
   default: true
 pages:
+- _posts/2018-01-07-do-tema-ao-ar.md
 - _posts/2018-01-07-publishing-a-website-with-jekyll.md
 - _posts/2019-04-13-kmeans-and-elbow-method.md
 - _posts/2019-06-03-como-ser-cientista-de-dados-usando-um-computador-da-xuxa.md
