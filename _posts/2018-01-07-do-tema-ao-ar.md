@@ -232,7 +232,7 @@ Commite esse arquivo.
 
 ## Publicando o site
 
-Bom, como lá no começo fizemos um `git clone` todas as ligações desse repositório estão com o repositório inicial. Como assim? Os repositrórios Git fazem comunicação com o GitHub (ou qualquer outra rede) por meio do que chamamos de `remote`. Não vou entrar em detalhes do funcionamento disso nesse post mas você pode ler mais sobre isso [na documentação oficial do Git](https://git-scm.com/docs/git-remote).
+Bom, como lá no começo fizemos um `git clone` todas as ligações desse repositório estão com o repositório inicial. Como assim? Os repositórios Git fazem comunicação com o GitHub (ou qualquer outra rede) por meio do que chamamos de `remote`. Não vou entrar em detalhes do funcionamento disso nesse post mas você pode ler mais sobre isso [na documentação oficial do Git](https://git-scm.com/docs/git-remote).
 
 Aqui nós vamos fazer alguns passos, alguns deles pelo site do GitHub, outros no terminal mesmo.
 
