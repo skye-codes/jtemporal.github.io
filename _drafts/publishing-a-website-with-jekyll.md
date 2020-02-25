@@ -95,32 +95,33 @@ All right, let's understand what we just did:
 1. **bundle install**: This command will look in your Gemfile and Gemfile.lock for package names and versions to install the necessary dependencies to run the project, that's why if you don't have a Gemfile this step doesn't work;
 2. **bundle exec jekyll serve**: This is the command runs the Jekyll server allowing you to see your site on your browser. Every time you run this command, the site is built.
 
-Para parar o servidor basta apertar `Ctrl + c`, você vai precisar disso para os próximos passos.
+To stop the server just hit `Ctrl + c`, you will need the server offline for the configuration steps.
 
-## Arquivo de configuração
+## Configuration file
 
-Vamos começar pela configuração pois, é no arquivo `_config.yml` que moram as informações como título do site, autor e por aí vai.
+Let's start with the configuration. Most themes rely on the configuration file to "fill the blanks" on the site. This makes the templates easily adaptable; you just have to change the `_config.yml` to change things such as the site title, author, and so on.
 
-Abra o arquivo `_config.yml` no seu editor favorito e vamos alterar e entender ele aos pouquinhos. Para ver as alterações no site, sempre que você mudar o `_config.yml` você precisará parar e reiniciar o servidor do Jekyll.
+Open the `_config.yml` file in your favorite editor, and let's update it. To see changes to the site, whenever you change `_config.yml`, you'll need to stop and restart the Jekyll server. Since the server relies on the configuration file to build everything, this is the only file that you need to restart the server every time you want to see the changes you made take place.
 
-### Informações de perfil
+### Profile Info
 
-Nessa parte vão as informações iniciais:
+In this part goes the initial information:
 
-* O título (`title`): que o nome que aparece quando você abre uma aba no navegador;
-* O nome (`name`): geralmente algo descritivo do que o seu blog vai abordar;
-* A descrição (`description`): que vai dentro do HTML e quando alguém compartilhar o seu blog é essa descrição que aparece, isso também ajuda a colocar o seu site nos resultados de buscas como Google e o DuckDuckGo;
-* A URL de base (`baseurl`): a partir de que link o seu site é servido, o caminho para a sua "home"
-* A URL (`url`): aqui é onde vai o domínio seja ele aquele que o GitHub Pages disponibiliza (username.github.io) ou um que você venha a comprar (como é o meu caso aqui).
+* The title (`title`): The name that appears when you open a tab in the browser;
+* Name (`name`): usually something descriptive of what your blog is about;      
+* The description (`description`): which goes inside the HTML and when someone shares your blog is this description that appears, it also helps to put your site in search results like Google and DuckDuckGo;      
+* The page (`baseurl`): From which link your site is served, the path to your home      
+* The URL (`url`): This is where the domain goes, may it be the one that GitHub Pages makes available (username.github.io) or one that you will buy (as is my case here).
 
-Edite esse primeiro bloco para algo parecido com isso:
+Edit this first block for something like this:
 
 ``` yml
 # Profile information
-name: Contos
-title: Um blog com Jekyll
+name: Contos # Tales
+title: Um blog com Jekyll # a jekyll blog
 description: >
     Uma coleção de contos
+    # A collection of tales
 permalink: ':title/'
 baseurl: "/blogfresh" # the subpath of your site, e.g. /blog
 url: "http://jtemporal.com" # the base hostname & protocol for your site, e.g. http://example.com
