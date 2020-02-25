@@ -1,7 +1,7 @@
 ---
 title: 'Ruby Project Dependencies: Gemfile'
 layout: post
-date: 2018-01-13 05:59:00 -0200
+date: 2018-01-13T07:59:00.000+00:00
 image: "/images/pro_tip.png"
 tags:
 - english
