@@ -81,7 +81,9 @@ $ bundle install
 $ bundle exec jekyll serve
 ```
 
-![Foto do terminal servindo o fresh](https://i.imgur.com/Cxh1nNO.png)
+<center>
+<img src="https://i.imgur.com/Cxh1nNO.png" alt="Terminal running fresh locally">
+</center>
 
 _Observação_: se por acaso você não possui uma Gemfile no seu tema, os passos acima não vão funcionar, [da uma lida aqui nessa colinha sobre a Gemfile](http://jtemporal.com/gemfile/) pra entender um pouquinho mais sobre isso ;)
 
