@@ -17,7 +17,6 @@ description: Learn to get your website up and running using the terminal, jekyll
   other tools.
 
 ---
-
 ***
 
 _Author note:_ [Siga esse tutorial em Português.](https://jtemporal.com/do-tema-ao-ar/)
@@ -87,6 +86,8 @@ $ bundle exec jekyll serve
 </center>
 
 _Note:_ if by any chance you don't have a Gemfile in the theme you picked, the `bundle install` step won't work, I recommend you read [this Gemfile pro-tip](https://jtemporal.com/rb-project-dep-gemfile/) to understand a little bit more about Gemfiles and how to create your own.
+
+_Note 2:_ If you following this tutorial on macOS Catalina you may run into a `Invalid date` error, [this pro-tip explains how to fix it](https://jtemporal.com/fixing-date-error-while-running-jekyll-on-macos-catalina/).
 
 Now go to your favorite browser and go to `http://localhost:4000/fresh/`. Cool, huh?! 🎉
 
@@ -274,7 +275,7 @@ I'm considering you already have a GitHub account, [if you don't have an account
 
 For those who already have a website on GitHub, this new repository will be one page of your current site. For example, I have this site here `http://jtemporal.com`, and this new blog will become this page `http://jtemporal.com/blogfresh`. The same pattern repeats if you don't have a custom domain, your site will look something like `https://jtemporal/github.io/blogfresh`. The steps:
 
-1. [Create a new repository](https://github.com/new): follow the image below, you do not need to configure anything else, and remember that here I gave the same name that is in my `baseurl` there in `_config.yml`: 
+1. [Create a new repository](https://github.com/new): follow the image below, you do not need to configure anything else, and remember that here I gave the same name that is in my `baseurl` there in `_config.yml`:
    ![criando novo repo no gihub](https://i.imgur.com/EX0HGFq.png)
 2. Copy the instructions that come in the `...or push an existing repository from the command line` area:
    ![instruçoes de remote](https://i.imgur.com/kcFTVrk.png)
