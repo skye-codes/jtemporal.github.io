@@ -267,10 +267,10 @@ I'm considering you already have a GitHub account, [if you don't have an account
 
 1. [Creating a new repository](https://github.com/new) because this is your first site on GitHub, this repository needs to have a unique name following the pattern `my-username.github.io`:
    ![foto do repo username.github.io](https://i.imgur.com/2vOk9OJ.png)
-2. Copiar as instruções que vem na área `...or push an existing repository from the command line`:
+2. Copy the instructions that come in the `...or push an existing repository from the command line`:
    ![instruçoes de remote primeiro site](https://i.imgur.com/me5fQgM.png)
 
-#### Já tenho um site
+#### I already have a website
 
 Pra quem já tem um site no GitHub, esse novo site vai ser uma do seu site atual. Por exemplo, eu tenho esse site aqui `http://jtemporal.com` e esse blog novo vai virar `http://jtemporal.com/blog`. O mesmo padrão se repete se você não tiver um domínio personalizado, seu site ficará algo tipo `https://jtemporal/github.io/blogfresh`. Vamos lá:
 
