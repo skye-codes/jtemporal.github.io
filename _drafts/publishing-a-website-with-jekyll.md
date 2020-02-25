@@ -201,7 +201,7 @@ exclude:
 include: [_pages]
 ```
 
-Ao terminar de arrumar o `_config.yml` lembre-se de commitar as mudanças! Vou assumir que você fez isso a cada passo daqui pra frente ;)
+When you finish fixing `_config.yml`, remember to commit the changes! Committing everything is a necessary step to guarantee that what you see on your computer is what everyone accessing your site on the internet is seeing. I will assume you'll commit every step from now on 😉
 
 ## Posts
 
