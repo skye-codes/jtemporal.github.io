@@ -11,7 +11,6 @@ tags:
 - site
 - github pages
 - github
-- github
 - português
 comments: true
 description: Aprenda a colocar o seu site no ar de graça usando o GitHub
