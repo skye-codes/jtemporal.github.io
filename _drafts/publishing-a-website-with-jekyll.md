@@ -80,7 +80,7 @@ $ cd fresh
 $ bundle install
 $ bundle exec jekyll serve
 ```
-
+<br>
 <center>
 <img src="https://i.imgur.com/Cxh1nNO.png" alt="Terminal running fresh locally">
 </center>
