@@ -4,6 +4,7 @@ layout: post
 image: "/images/tutorial.png"
 date: 2018-01-07T10:00:00.000+00:00
 tags:
+- english
 - tutorial
 - jekyll
 - ruby
@@ -12,7 +13,6 @@ tags:
 - github pages
 - github
 - github
-- português
 comments: true
 description: Learn to get your website up and running using the terminal, jekyll and
   other tools.
@@ -31,18 +31,20 @@ In a [pro tip, I talked about how using Jekyll](https://jtemporal.com/choosing-a
 The first step is to go to [Jekyll Themes](http://jekyllthemes.org/) and choose a theme you like. For this tutorial, I choose [Fresh](http://jekyllthemes.org/themes/fresh/), a blog theme, with not only the posts listing but also some extra pages like "About" and "Contact". It's responsive, which is a significant feature if you take into account that much content today is consumed via mobile devices. Take a look at Fresh's Demo:
 ![fresh demo](https://github.com/artemsheludko/fresh/blob/master/assets/img/fresh.gif?raw=true)
 
-## Preparando o ambiente
+## Preparing the environment
 
-Precisaremos instalar (caso ainda não tenha) a seguinte listinha:
+You'll need to install (if you haven't already) the following list of requirements:
 
 * Ruby
 * Jekyll
 * Git
 * Gem
 
-Os passos a seguir são para o meu sistema operacional (Elementary OS), tenha isso em mente quando for reproduzir os passos aqui, pois pode ser que tenha variações para o seu OS.
+Keep in mind that the next steps are tailored for my operating system (Elementary OS), so you may need to adapt those steps for your OS.
 
-Vamos as intalações.
+_Edit:_ If you are following this tutorial on macOS Catalina, feel free to skip the installation steps below.
+
+Installing our requirements:
 
 ``` console
 $ sudo apt install git
@@ -51,15 +53,15 @@ $ sudo apt install rubygems       # ou rubygems-integration
 $ gem install jekyll bundler
 ```
 
-Pra que tudo isso?
+Why do we need all this?
 
-1. **git**: vamos precisar colocar o site no [GitHub](http://github.com/) para servi-lo;
-2. **ruby-full**: uma versão antiga mais estável do Ruby. Como Jekyll foi feita nessa lingaguem precisamos dela instalada no seu computador;
-3. **rubygems**: Assim como o pip para Python e o npm para o mundo Node, existe o gem para ruby. Ele é um gerenciador de pacotes e ele que precisaremos para instalar jekyll e os demais pacotes para o Fresh;
-4. **jekyll**: O pacote do momento;
-5. **bundler**: No melhor esquema Inception o bundler é um pacote que controla outros pacotes, ele controla versões dos pacotes e suas dependências nos projetos.
+1. **git**: We'll use [GitHub](http://github.com/) to host our site, and we need git to do that;
+2. **ruby-full**: A more stable old version of Ruby. Since Jekyll is a Ruby-built tool, we need it installed on your computer for Jekyll to work;
+3. **rubygems**: Just like Python's pip and Node's npm, there is gem for Ruby dependencies. It's a package manager, and a necessary requirement it to install Jekyll and the other packages for Fresh to run;
+4. **jekyll**: The static site generator;
+5. **bundler**: Is the "inception" of packages, it is a package that controls other packages, it controls versions of packages and their dependencies on projects.
 
-## Baixando o tema
+## Downloading the theme
 
 Pra quem já tá acostumado com Git acho que essa parte vai ser tranquila. O [link para o repositório é esse aqui](https://github.com/artemsheludko/fresh). Pra quem não está acostumado os passos são esses:
 
