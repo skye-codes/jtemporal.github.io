@@ -272,18 +272,16 @@ I'm considering you already have a GitHub account, [if you don't have an account
 
 #### I already have a website
 
-`http://jtemporal.com`
+For those who already have a website on GitHub, this new repository will be one page of your current site. For example, I have this site here `http://jtemporal.com`, and this new blog will become this page `http://jtemporal.com/blogfresh`. The same pattern repeats if you don't have a custom domain, your site will look something like `https://jtemporal/github.io/blogfresh`. The steps:
 
-Pra quem já tem um site no GitHub, esse novo site vai ser uma do seu site atual. Por exemplo, eu tenho esse site aqui `http://jtemporal.com` e esse blog novo vai virar `http://jtemporal.com/blog`. O mesmo padrão se repete se você não tiver um domínio personalizado, seu site ficará algo tipo `https://jtemporal/github.io/blogfresh`. Vamos lá:
-
-1. [Criar um repositório novo](https://github.com/new): só seguir a imagem abaixo, você não precisa configurar mais nada, e lembrete que aqui eu dei o mesmo nome que está no meu `url` lá no `_config.yml`:
+1. [Create a new repository](https://github.com/new): follow the image below, you do not need to configure anything else, and remember that here I gave the same name that is in my `baseurl` there in `_config.yml`: 
    ![criando novo repo no gihub](https://i.imgur.com/EX0HGFq.png)
-2. Copiar as instruções que vem na área `...or push an existing repository from the command line`:
+2. Copy the instructions that come in the `...or push an existing repository from the command line` area:
    ![instruçoes de remote](https://i.imgur.com/kcFTVrk.png)
 
-### Terminal: segunda fase
+### Terminal: Second stage
 
-A segunda fase do terminal consiste em mandar o nosso código para o GitHub e colocar o site no ar de fato. Vamos lá que tá quase:
+Now that we have a place to send the code, we go back to the terminal to complete the second stage of the terminal commands and send our code to GitHub to actually get the site online. Paste the commands you copied from the GitHub interface:
 
 ``` console
 $ git remote add origin git@github.com:jtemporal/blogfresh.git
@@ -291,33 +289,30 @@ $ git remote add origin git@github.com:jtemporal/blogfresh.git
 $ git push -u origin master
 ```
 
-### GitHub: o retorno
+### GitHub: The Return
 
-Depois de mandar o código para o GitHub agora precisamos configurar o site, simbora!
-Vamos começar indo para aba de `Settings` do repositório:
+After sending the code to GitHub, we need to configure the site through the GitHub interface! Let's start by going to the repository `Settings` tab:
 ![aba de configurações](https://i.imgur.com/f3rxngC.png)
 
-Descendo nessa página de configurações encontramos a seção referente ao GitHub Pages. É essa seção que acaba publicando o site:
+Scrolling down on the settings page, you'll see the GitHub Pages section. It is this section that we use to publish the site:
 ![seção GitHub Pages](https://i.imgur.com/7brruPu.png)
 
-Quando selecionado `None` na área de Source, o GitHub Pages está desativado. Então vamos selecionar um ramo para publicar nosso site a partir dele, nesse caso o ramo será o `master` mesmo:
+When `None` is selected in the Source area, GitHub Pages is disabled. So let's choose a branch to publish our website from, in this case, the branch will be the `master` itself:
 ![selecionando o ramo de publicacao](https://i.imgur.com/fFh4CN0.png)
 
-E agora clicar em `Save`:
+And now click on `Save`:
 ![clique em save](https://i.imgur.com/60Li2Ww.png)
 
-E o resultado será algo parecido com:
-![site publicado](https://i.imgur.com/BRM01sH.png)
+And the result will look something like this:![site publicado](https://i.imgur.com/BRM01sH.png)
 
-É só acessar o link do site agora que deve estar lá bonitão ;)
+Just access the site link in the blue notification, and that should take you to your site 😉
 
-E agora? Bem agora você pode começar a escrever outros posts e ir commitando eles. Todo commit/pull request para a master vai automagicamente executar os passos de build do site e deploy. Happy blogging!
+_And now what?_ Well, now you can start writing other posts and committing them. Every commit/pull request to master will _automagically_ execute the site build and deploy steps. Happy blogging! 🎉
 
 ***
 
-## Links e considerações
+## Links and Considerations
 
-* Existem outras formas de instalar o Ruby na sua máquina, encontre elas estão listadas na [documentação do Ruby em português](https://www.ruby-lang.org/pt/documentation/installation/).
+* There are other ways to install Ruby on your machine, find them listed in [the Ruby documentation](https://www.ruby-lang.org/en/documentation/installation/).
 * [Bundler](http://bundler.io/).
-* Eu usei os comandos do Git para chaves SSH, escolha pessoal minha, se preferir use os mesmos comandos utilizando o acesso via HTTPS. Caso queira utilizar o SSH assim como eu você vai precisar de chaves, [esses tutoriais do GitHub em inglês ensina como gerá-las e utilizá-las](https://help.github.com/articles/connecting-to-github-with-ssh/).
-* Prometo fazer um post explicando como alterar o layout e outras coisas no tema em breve.
+* I used Git commands for SSH keys if you prefer you can use the same commands using HTTPS access, adjust accordingly. If you want to use SSH just like me you will need keys, [these GitHub tutorials teach you how to generate and use them](https://help.github.com/articles/connecting-to-github-with-ssh/).
