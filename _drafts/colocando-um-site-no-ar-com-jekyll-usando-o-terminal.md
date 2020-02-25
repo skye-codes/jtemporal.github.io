@@ -26,13 +26,10 @@ _Author note:_ [Siga esse tutorial em Português.](https://jtemporal.com/do-tema
 
 In a [pro tip, I talked about how using Jekyll](https://jtemporal.com/choosing-a-jekyll-theme/) is an excellent idea to get your site online. In this tutorial, we will deploy a website using GitHub, Jekyll, and the terminal.
 
-## Escolhendo um tema
+## Choosing a theme
 
-Vá até o [Jekyll Themes](http://jekyllthemes.org/) e escolha um tema. Eu escolhi pra hoje o [Fresh](http://jekyllthemes.org/themes/fresh/).
-![fresh no jekyll themes](https://i.imgur.com/P7Yq4hP.png)
-
-Fresh é tema de um blog, com algumas páginas extras como "Sobre" e "Contato". Além disso ele é responsivo, considerando que muito conteudo hoje é consumido pelos smartphones e tablets por aí essa é uma capacidade que queremos. Dá uma olhada na Demo do Fresh:
-![fresh demo](http://artemsheludko.pw/fresh/assets/img/fresh.gif)
+The first step is to go to [Jekyll Themes](http://jekyllthemes.org/) and choose a theme you like. For this tutorial, I choose [Fresh](http://jekyllthemes.org/themes/fresh/), a blog theme, with not only the posts listing but also some extra pages like "About" and "Contact". It's responsive, which is a significant feature if you take into account that much content today is consumed via mobile devices. Take a look at Fresh's Demo:
+![fresh demo](https://github.com/artemsheludko/fresh/blob/master/assets/img/fresh.gif?raw=true)
 
 ## Preparando o ambiente
 
