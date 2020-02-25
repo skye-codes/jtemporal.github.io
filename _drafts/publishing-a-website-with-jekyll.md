@@ -229,43 +229,43 @@ Open the file we just created, paste the following Front Matter and content:
 ``` plaintext
 ---
 layout: post
-title:  "Hello World"
+title:  "Olá mundo"
 date:   2018-01-07 00:00:00
-description: First blogpost
+description: Primeiro blogpost
 ---
 
-Hello World!
+Olá mundo!
 ```
 
-Se o servidor Jekyll não estiver rodando, inicie ele. Se já estiver rodando ao criar e salvar o arquivo dê um tempinho para que ele possa gerar o HTML desse novo post. Vá até o navegador e recarregue a página. Et voilà!
+If the Jekyll server is not running, start it. If you already got the server running after you create and save the file, Jekyll will automatically generate the HTML of this new post. Go to the browser and reload the page. Et voilà!
 
 ![Primeiro blogpost](https://i.imgur.com/z528dqZ.png)
 
-Commite esse arquivo.
+Remember to commit this file.
 
-## Publicando o site
+## Publishing the site
 
-Bom, como lá no começo fizemos um `git clone` todas as ligações desse repositório estão com o repositório inicial. Como assim? Os repositrórios Git fazem comunicação com o GitHub (ou qualquer outra rede) por meio do que chamamos de `remote`. Não vou entrar em detalhes do funcionamento disso nesse post mas você pode ler mais sobre isso [na documentação oficial do Git](https://git-scm.com/docs/git-remote).
+Well, since at the beginning of this tutorial, we did a `git clone`, all links from this repository are with the parent repository. What does that mean? Git repositories communicate with GitHub (or any other provider) through what we call a `remote`. I will not go into details of how remotes work in this post, but you can read more about it [in the official Git documentation](https://git-scm.com/docs/git-remote).
 
-Aqui nós vamos fazer alguns passos, alguns deles pelo site do GitHub, outros no terminal mesmo.
+Here we will do some steps through the GitHub site, others in the terminal to make sure you can publish your code to the correct repository.
 
-### Terminal: segunda fase
+### Terminal: First stage
 
-Os comandos do terminal acontecem em duas fases, a primeira é essa aqui que consiste em renomear o `remote` do repositório original para `upstream` isso é útil pois você pode utilizar o `upstream` para atualizar o código do seu tema.
+The terminal commands happen in two phases, the first one here is to rename the `remote` from the original repository to `upstream` this is useful as you can use `upstream` to update your theme code.
 
 ``` console
 $ git remote rename origin upstream
 ```
 
-Depois disso vamos ao GitHub.
+After that, we should open the GitHub interface on the browser.
 
 ### GitHub
 
-Aqui, assumindo que você já possui uma conta no GitHub, [caso não tenha é só criar, é rapidinho](https://github.com/join?source=header-home). Para os passos a seguir eu vou mostrar duas versões, uma para quem **já tem um site** publicado (como eu) e uma para quem está publicando um site pela **primeira vez**.
+I'm considering you already have a GitHub account, [if you don't have an account, create one, it's quick](https://github.com/join%3Fsource%3Dheader-home). For the following steps, I will show you two versions, one for those who **already have a website** published (like me) and one for those who are publishing a website **for the first time**. Follow the steps which best describe your setup.
 
-#### Meu primeiro site
+#### My first website
 
-1. [Criar um repositório novo](https://github.com/new) como esse é o seu primeiro site, esse repositório precisa ter um nome especial seguindo o padrão `meu-nome-de-usuario.github.io`:
+1. [Creating a new repository](https://github.com/new) because this is your first site on GitHub, this repository needs to have a unique name following the pattern `my-username.github.io`:
    ![foto do repo username.github.io](https://i.imgur.com/2vOk9OJ.png)
 2. Copiar as instruções que vem na área `...or push an existing repository from the command line`:
    ![instruçoes de remote primeiro site](https://i.imgur.com/me5fQgM.png)
