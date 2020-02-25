@@ -205,22 +205,26 @@ When you finish fixing `_config.yml`, remember to commit the changes! Committing
 
 ## Posts
 
-O Fresh, assim como todos os outros temas disponíveis trazem exemplos de posts. A primeira coisa eu você vai notar ao abrir um deles no editor de texto é que ele tem uma espécie de cabeçalho conhecido como [Front Matter](https://jekyllrb.com/docs/frontmatter/). Lá são definidos coisas como o layout do post, o título, a data de publicação e por aí vai...
+Fresh, as well as all other themes available, provide examples of posts. The first thing you'll notice when opening one of them in the text editor is that it has a kind of header known as [Front Matter](https://jekyllrb.com/docs/frontmatter/). We use the Front Matter to set values to things like the post title, date of publication, and so on.
 
-### Entendendo o Front Matter
+### Understanding the Front Matter
 
-* `layout`: O Jekyll enxerga todas as páginas do blog como um blog post que ele precisa renderizar, inclusive as páginas _About_, _Contact_ e _Home_ então a tag layout é utilizada para diferenciar a renderização, as opções são: post ou default;
-* `title`: O título da postagem;
-* `date`: A data e hora da publicação no formato `AAAA-MM-DD HH:MM:SS` ainda é possível passar o fuso horário da publicação caso queira usando esse campo;
-* `description`: Cada blogpost pode ter um paragrafo de sinopse na listagem de posts. É aqui que essa sinopse vai.
+* `layout`: Jekyll sees all blog pages as a blog post that it needs to render, including About, Contact and Home pages, so the layout tag is used to differentiate rendering, the options for fresh are: post or default;      
+* `title`:  The title of the post;      
+* `date`: The date and time of publication following `YYYY-MM-DD HH:MM:SS` format. You can still set the time zone of the article using this field;
+* `description`: Each blog post can have a synopsis paragraph in the post listing. This is where this synopsis goes.
 
-#### Primeiro post
+#### First post
 
-Vamos criar um post novo do zero e colocar no site. Crie um arquivo dentro do diretório `_posts`:
+Let's create a new post from scratch and put it on the site. Create a file inside the `_posts` directory:
 
 ``` console
-$ touch _posts/2018-01-07-ola-mundo.md
+$ touch _posts/2018-01-07-hello-world.md
 ```
+
+It is customary to use the pattern AAAA-MM-DD-post-name.md in file names. Remember that it is from the filename that the URLs will be generated for each post, so choose your file names carefully.
+
+Open the file we just created, paste the following Front Matter and content:
 
 É costumeiro usar o padrão `AAAA-MM-DD-nome-do-post.md` nos nomes dos arquivos. Lembre-se que é apartir do nome do arquivo que vão ser geradas as URLs para cada post.
 
