@@ -39,7 +39,7 @@ Now all you have to do is reinstall everything and run the Jekyll server:
     $ bundle install
     $ bundle exec jekyll serve
 
-And you should see something like this:
+And you should see something like this on your terminal:
 
 ![](/images/Screen Shot 2020-02-25 at 13.21.24.png)
 
