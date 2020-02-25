@@ -2,7 +2,7 @@
 title: 'Colocando um site no ar com Jekyll: usando o terminal'
 layout: post
 image: "/images/tutorial.png"
-date: 2018-01-07 10:00:00
+date: 2018-01-07T10:00:00.000+00:00
 tags:
 - tutorial
 - jekyll
@@ -16,6 +16,12 @@ tags:
 comments: true
 
 ---
+***
+
+Nota da autora: [Read this tutorial in English](https://jtemporal.com/publishing-a-website-with-jekyll/).
+
+***
+
 Numa [colinha eu falei sobre como usar Jekyll](http://jtemporal.com/temas-jekyll/) é uma boa ideia para ter o seu site no ar vamos ao exemplo prático usando o terminal. O objetivo aqui é ter um site no ar, então vamos lá.
 
 ## Escolhendo um tema
