@@ -11,6 +11,7 @@ tags:
 - Catalina
 - macOS Catalina
 - jekyll
+- bundle
 - english
 
 ---
