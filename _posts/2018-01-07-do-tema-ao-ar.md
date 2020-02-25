@@ -1,8 +1,8 @@
 ---
-title: "Colocando um site no ar com Jekyll: usando o terminal"
+title: 'Colocando um site no ar com Jekyll: usando o terminal'
 layout: post
 image: "/images/tutorial.png"
-date: '2018-01-07 10:00:00'
+date: 2018-01-07 10:00:00
 tags:
 - tutorial
 - jekyll
@@ -14,8 +14,8 @@ tags:
 - github
 - português
 comments: true
----
 
+---
 Numa [colinha eu falei sobre como usar Jekyll](http://jtemporal.com/temas-jekyll/) é uma boa ideia para ter o seu site no ar vamos ao exemplo prático usando o terminal. O objetivo aqui é ter um site no ar, então vamos lá.
 
 ## Escolhendo um tema
@@ -24,7 +24,8 @@ Vá até o [Jekyll Themes](http://jekyllthemes.org/) e escolha um tema. Eu escol
 ![fresh no jekyll themes](https://i.imgur.com/P7Yq4hP.png)
 
 Fresh é tema de um blog, com algumas páginas extras como "Sobre" e "Contato". Além disso ele é responsivo, considerando que muito conteudo hoje é consumido pelos smartphones e tablets por aí essa é uma capacidade que queremos. Dá uma olhada na Demo do Fresh:
-![fresh demo](http://artemsheludko.pw/fresh/assets/img/fresh.gif)
+
+![fresh demo](http://github.com/artemsheludko/fresh/blob/master/assets/img/fresh.gif?raw=true)
 
 ## Preparando o ambiente
 
