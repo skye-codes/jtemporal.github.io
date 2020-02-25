@@ -63,17 +63,17 @@ Why do we need all this?
 
 ## Downloading the theme
 
-Pra quem já tá acostumado com Git acho que essa parte vai ser tranquila. O [link para o repositório é esse aqui](https://github.com/artemsheludko/fresh). Pra quem não está acostumado os passos são esses:
+For those who are already used to Git, I think this part will be quite straightforward. The [link to the repository is this one](https://github.com/artemsheludko/fresh). For those who are not used the steps are these:
 
 ``` console
 $ git clone https://github.com/artemsheludko/fresh.git
 ```
 
-Nota: Aqui eu preferi fazer um _clone_ propositalmente, porém para aqueles mais íntimos do Git e de seus processos pode fazer um _fork_ mesmo. Nesse caso escolhi o clone pois já vi (e já aconteceu comigo também) que ao tentar usar os bons hábitos de abrir _pull requests_ na sua própria rotina de publicação, mandar o PR para o repositório original ao invés de fazer no seu mesmo.
+_Note_: Here, I prefer to clone on purpose, but for those who are more intimate with Git and its processes, you can go ahead and fork it. In this tutorial, I'm cloning it because sometimes, when opening a pull request, you might end up opening one to the original repository instead of your own copy. To avoid that, and make things easier for git beginners, let's go with cloning.
 
-## Rodando o projeto
+## Running the project
 
-Depois de clonar é hora de colocar isso pra rodar né mesmo?! Então vamos lá, os passos abaixo vão deixar o seu site sendo servido localmente. Vamos a eles:
+After cloning is time to run this, right?! The steps below will serve your site locally:
 
 ``` console
 $ cd fresh
