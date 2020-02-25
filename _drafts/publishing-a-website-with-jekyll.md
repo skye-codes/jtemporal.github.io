@@ -272,6 +272,8 @@ I'm considering you already have a GitHub account, [if you don't have an account
 
 #### I already have a website
 
+`http://jtemporal.com`
+
 Pra quem já tem um site no GitHub, esse novo site vai ser uma do seu site atual. Por exemplo, eu tenho esse site aqui `http://jtemporal.com` e esse blog novo vai virar `http://jtemporal.com/blog`. O mesmo padrão se repete se você não tiver um domínio personalizado, seu site ficará algo tipo `https://jtemporal/github.io/blogfresh`. Vamos lá:
 
 1. [Criar um repositório novo](https://github.com/new): só seguir a imagem abaixo, você não precisa configurar mais nada, e lembrete que aqui eu dei o mesmo nome que está no meu `url` lá no `_config.yml`:
