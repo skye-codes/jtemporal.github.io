@@ -222,13 +222,10 @@ Let's create a new post from scratch and put it on the site. Create a file insid
 $ touch _posts/2018-01-07-hello-world.md
 ```
 
-It is customary to use the pattern AAAA-MM-DD-post-name.md in file names. Remember that it is from the filename that the URLs will be generated for each post, so choose your file names carefully.
+It is customary to use the pattern `YYYY-MM-DD-post-name.md` in file names. Remember that it is from the filename that the URLs will be generated for each post, so choose your file names carefully.
 
 Open the file we just created, paste the following Front Matter and content:
 
-É costumeiro usar o padrão `AAAA-MM-DD-nome-do-post.md` nos nomes dos arquivos. Lembre-se que é apartir do nome do arquivo que vão ser geradas as URLs para cada post.
-
-Abra o arquivo que acabamos de criar, cole o seguinte Front Matter e conteudo:
 
 ``` plaintext
 ---
