@@ -127,13 +127,13 @@ baseurl: "/blogfresh" # the subpath of your site, e.g. /blog
 url: "http://jtemporal.com" # the base hostname & protocol for your site, e.g. http://example.com
 ```
 
-Execute novamente o comando do servidor `bundle exec jekyll serve`. Dessa vez o site que você precisa acessar mudou pois mudamos o `baseurl` para `/blogfresh`. Agora acesse `http://localhost:4000/blogfresh/` para ver as mudanças. Com essas alterações no `_config.yml` o site deve estar parecido com isso:
+Rerun the `bundle exec jekyll serve` command. This time the site you need to access changed because we changed `baseurl` to `/blogfresh`. Now go to `http://localhost:4000/blogfresh/` to see the changes. With these changes in `_config.yml`, the site should look something like this:
 
 ![blog alterado profile info](https://i.imgur.com/kut6tWL.png)
 
 ### Social
 
-É aqui que vem os links para suas redes sociais. As que você não quiser deixar disponível basta não preencher. Eu vou ensinar como esconder os botões para as redes sociais que não tiverem um valor aqui em outro blog post, por enquanto vamos colocar apenas uma delas:
+This is where the links to your social networks come from. The ones you don't want to make available just don't fill out. Let's fill the values for the ones I want:
 
 ``` yml
 # Social
@@ -143,27 +143,27 @@ google-plus: #Add your Google+
 github: @jtemporal
 ```
 
-Infelizmente esse tema não "esconde" os botões para as redes sociais que não possuem um usuário/link válido.
+Unfortunately, this theme does not "hide" the buttons for social networks that do not have a valid username/link. I'll write a post on how to do that soon.
 
-### Formulário de contato
+### Contact Form
 
-Se você quiser que as pessoas entrem em contato com você pelo formulário de contato do site é só remover o comentário e colocar o seu e-mail no lugar de `your-email@domain.com`. Como eu não curto receber e-mail deixei comentado mesmo `¯\_(ツ)_/¯`.
+If you want people to contact you through the site contact form, just uncomment them and put your email address in place of `your-email@domain.com`. Since I do not like receiving emails, I left it commented `¯\_(ツ)_/¯`.
 
 ``` yml
 # Contact form
 email: #your-email@domain.com
 ```
 
-### Comentários
+### Comments
 
-Essa uma parte legal, comentários nos seus posts! Se você não conhece o [Disqus](http://disqus.com/) ainda, ele nada mais é do que uma plataforma que ajuda a aumentar o envolvimento nos seus sites. Ele permite de forma relativamente fácil que pessoas comentem no seu blog. Crie uma conta e coloque o seu identficador aqui:
+That's a fun part, comments on your posts! If you don't know [Disqus](http://disqus.com/) yet, it's a platform that helps increase engagement on your site. It allows people to comment on your blog in a relatively easy way. Create an account and place your identifier here:
 
 ``` yml
 # Comments
 discus-identifier: jtemporal
 ```
 
-Após reiniciar o servidor para que as mudanças do arquivo de configuração façam efeito, você deve ter uma área paracida com a da imagem abaixo no fim de um post:
+After restarting the server for the configuration file changes to take effect, you should have an area that looks like the image below at the end of each post:
 
 ![area de comentarios disqus](https://i.imgur.com/3Lc0O9q.png)
 
