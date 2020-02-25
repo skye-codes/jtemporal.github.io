@@ -80,16 +80,17 @@ $ cd fresh
 $ bundle install
 $ bundle exec jekyll serve
 ```
+
 <br>
 <center>
 <img src="https://i.imgur.com/Cxh1nNO.png" alt="Terminal running fresh locally">
 </center>
 
-_Observação_: se por acaso você não possui uma Gemfile no seu tema, os passos acima não vão funcionar, [da uma lida aqui nessa colinha sobre a Gemfile](http://jtemporal.com/gemfile/) pra entender um pouquinho mais sobre isso ;)
+_Note:_ if by any chance you don't have a Gemfile in the theme you picked, the bundle install step won't work, I recommend you read [this Gemfile pro-tip](https://jtemporal.com/rb-project-dep-gemfile/) to understand a little bit more about Gemfiles and how to create your own.
 
-Agora vá até o seu navegador favorito e acesse `http://localhost:4000/fresh/`. Massa né?!
+Now go to your favorite browser and go to `http://localhost:4000/fresh/`. Cool, huh?! 🎉
 
-Muito bem, vamos entender o que acabamos de fazer:
+All right, let's understand what we just did:
 
 1. **bundle install**: O bundle é um comando que vai procurar na sua Gemfile e a Gemfile.lock os nomes e versões dos pacotes para instalar as dependências necessárias para rodar projeto;
 2. **bundle exec jekyll serve**: Esse aqui é o que faz o trabalho de ajustar o ambiente para rodar o servidor Jekyll. Além disso, toda vez que você roda esse comando é feito o build do site.
