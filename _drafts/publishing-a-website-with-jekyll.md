@@ -184,9 +184,9 @@ paginate_path: /page:num/
 
 Here you will not need to change anything, but it is good to understand what each of these things means, right?!
 
-* Markdown Renderer (`markdown`): Here, you can choose which Markdown renderer to use. The default is `kramdown`;      
-* Gems needed for this theme (`gems`): here is a list of gems that need to be installed;      
-* Exclude directories and files (`exclude`): These are files and directories to be disregarded when generating site pages;      
+* Markdown Renderer (`markdown`): Here, you can choose which Markdown renderer to use. The default is `kramdown`;
+* Gems needed for this theme (`gems`): here is a list of gems that need to be installed;
+* Exclude directories and files (`exclude`): These are files and directories to be disregarded when generating site pages;
 * Include files and directories (`include`): These are files and directories to consider when building site pages; if you want to serve a file, let's say a PDF file, you must include it in this list.
 
 ``` yml
@@ -209,8 +209,8 @@ Fresh, as well as all other themes available, provide examples of posts. The fir
 
 ### Understanding the Front Matter
 
-* `layout`: Jekyll sees all blog pages as a blog post that it needs to render, including About, Contact and Home pages, so the layout tag is used to differentiate rendering, the options for fresh are: post or default;      
-* `title`:  The title of the post;      
+* `layout`: Jekyll sees all blog pages as a blog post that it needs to render, including About, Contact and Home pages, so the layout tag is used to differentiate rendering, the options for fresh are: post or default;
+* `title`:  The title of the post;
 * `date`: The date and time of publication following `YYYY-MM-DD HH:MM:SS` format. You can still set the time zone of the article using this field;
 * `description`: Each blog post can have a synopsis paragraph in the post listing. This is where this synopsis goes.
 
@@ -226,16 +226,15 @@ It is customary to use the pattern `YYYY-MM-DD-post-name.md` in file names. Reme
 
 Open the file we just created, paste the following Front Matter and content:
 
-
 ``` plaintext
 ---
 layout: post
-title:  "Olá mundo"
+title:  "Hello World"
 date:   2018-01-07 00:00:00
-description: Primeiro blogpost
+description: First blogpost
 ---
 
-Olá mundo!
+Hello World!
 ```
 
 Se o servidor Jekyll não estiver rodando, inicie ele. Se já estiver rodando ao criar e salvar o arquivo dê um tempinho para que ele possa gerar o HTML desse novo post. Vá até o navegador e recarregue a página. Et voilà!
