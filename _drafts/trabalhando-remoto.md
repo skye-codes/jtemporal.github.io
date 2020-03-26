@@ -38,7 +38,7 @@ Levantar para um xixi, tomar um café, comer um biscoito ou até mesmo tomar ág
 
 Sabemos que não está fácil esquecer tudo que está acontecendo a nossa volta e focar no trabalho. Muitos de nós estão trabalhando de casa em lugares com cadeiras ruins, mesas pequenas, em ambientes não silenciosos, com nossos filhos e filhas confinados em espaços pequenos e tendo que cuidar de nossos familiares, essas condições são bem menos do que ideais para trabalhar. E apenas falar “elimine distrações” não é o suficiente para magicamente fazer todas essas coisas desaparecerem.
 
-Nesse momento, é importante lembrar que você não precisa estar focada todas as horas do dia, talvez você consiga terminar a sua tarefa em menos tempo do que imagina. Nesses dias, onde o foco está ruim, eu me apego no método Pomodoro, para tentar ter alguns momentos de foco. Esse método consiste em períodos curtos de trabalho focado com intervalos curtos pré-definidos e quando eu não consigo concentrar em nada, geralmente o Pomodoro me salva.
+Nesse momento, é importante lembrar que você não precisa estar focada todas as horas do dia, talvez você consiga terminar a sua tarefa em menos tempo do que imagina. Nesses dias, onde o foco está ruim, eu me apego no [método Pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro), para tentar ter alguns momentos de foco. Esse método consiste em períodos curtos de trabalho focado com intervalos curtos pré-definidos e quando eu não consigo concentrar em nada, geralmente o Pomodoro me salva.
 
 ### Use e abuse de vídeo-conferências
 
@@ -46,7 +46,7 @@ Sabemos que ter uma comunicação efetiva entre pessoas e times já é uma taref
 
 Uma coisa nesses anos notei é que temos, em geral, uma comunicação por texto muito mais falha do que quando conversamos pessoalmente. Não damos contexto do que estamos falando, escrevemos sem pensar, enviamos mensagens sem revisar o que escrevemos antes de enviar, lemos o que nos foi enviado com pouca atenção e assumimos um tom geralmente errado no que a pessoa disse.
 
-Por isso nesse momento, é uma ótima oportunidade para usar as ferramentas de video-conferência que existem por aí. A maioria das empresas já possuem ferramentas padrão para isso, mas vou deixar aqui algumas dicas caso esse seja um mundo totalmente novo para você:
+Por isso nesse momento, é uma ótima oportunidade para usar as ferramentas de vídeo-conferência que existem por aí. A maioria das empresas já possuem ferramentas padrão para isso, mas vou deixar aqui algumas dicas caso esse seja um mundo totalmente novo para você:
 
 * [Zoom.us](zoom.us): Aplicativo de vídeo-conferência, na versão gratuita suporta chamadas com mais de duas pessoas durante 40 minutos, na versão paga a duração das chamadas é ilimitada;
 * [hangouts.google.com](hangouts.google.com): aplicativo web de vídeo-conferência do Google, basta ter uma conta do Google para gerar as salas de vídeo-conferência e enviar o link de convite para qualquer pessoa com limitação de 10 participantes por chamada;
@@ -59,5 +59,6 @@ Agora você não tem mais que ir para o escritório e isso vai ter dar um tempin
 
 ### Dicas e leituras extras
 
-* [O post feito Coxa do JusBrasil, uma empresa que tem trabalho remoto e escritório silencioso com várias dicas e ideias.](https://danielmurta.jusbrasil.com.br/artigos/824228394/voce-nao-precisa-ter-medo-de-trabalhar-de-casa-ou-a-distancia)
+* [O post feito Coxa do JusBrasil, uma empresa que tem trabalho remoto e escritório silencioso com várias dicas e ideias](https://danielmurta.jusbrasil.com.br/artigos/824228394/voce-nao-precisa-ter-medo-de-trabalhar-de-casa-ou-a-distancia);
+* [Toggl](https://toggl.com/): Ferramenta gratuita de contagem de tempo com cronometro para Pomodoro incluído;
 * 
