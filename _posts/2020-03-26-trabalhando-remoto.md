@@ -76,6 +76,7 @@ Por fim lembre-se de manter a segurança, evitar aglomerações e lavar bem as m
 ### Dicas e leituras extras
 
 * [O post feito Coxa do JusBrasil, uma empresa que tem trabalho remoto e escritório silencioso com várias dicas e ideias](https://danielmurta.jusbrasil.com.br/artigos/824228394/voce-nao-precisa-ter-medo-de-trabalhar-de-casa-ou-a-distancia);
-* [Toggl: Ferramenta gratuita de contagem de tempo com cronometro para Pomodoro incluído](toggl.com/).
+* [Toggl: Ferramenta gratuita de contagem de tempo com cronometro para Pomodoro incluído](toggl.com/);
+* [Materiais da Officeless sobre trabalho remoto](https://www.officeless.cc/materiais).
 
 PS.: se souber algum material legal em Português manda que eu adiciono aqui 🙂
