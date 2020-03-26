@@ -59,9 +59,9 @@ Por isso, e especialmente nesse momento, é uma ótima oportunidade para usar as
 
 Mas lembre-se de registrar o que foi conversado por texto para as demais pessoas interessadas. Nesses momentos de formalização de conversas eu tento seguir três passos:
 
-1. **Contexto**: o que foi discutido e qual a necessidade dessa conversa;
-2. **O que foi decidido**: vamos agir de forma A, B ou C;
-3. **Responsabilidades**: o que eu vou fazer e o que outras pessoas vão fazer.
+1. **Contexto:** o que foi discutido e qual a necessidade dessa conversa;
+2. **O que foi decidido:** vamos agir de forma A, B ou C;
+3. **Responsabilidades:** o que eu vou fazer e o que outras pessoas vão fazer.
 
 Assim fica claro o que foi conversado, e os papeis de todas as pessoas na conversa.
 
