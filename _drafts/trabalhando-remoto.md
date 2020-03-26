@@ -34,13 +34,13 @@ Ter essa separação também vai te ajudar a parar de trabalhar no fim do seu di
 
 ### Faça pausas
 
-Para mim é bem comum esquecer do tempo e ficar horas grudada no computador ajustando ETL e disparando treinos de modelos, principalmente se eu estiver bem focada. No fim do dia, eu me sinto exausta quando faço isso por muitas horas seguidas. Uma coisa que aprendi para ajudar é me forçar a fazer pausas algumas vezes no dia.
+Para mim é bem comum esquecer do tempo e ficar horas grudada no computador ajustando ETL e disparando treinos de modelos, principalmente se eu estiver bem focada. No fim do dia, quando faço isso por muitas horas seguidas, eu me sinto exausta e sem energias para curtir o mozão ou a minha série do momento. Uma coisa que aprendi para ajudar nesse ponto e evitar a exaustão é me forçar a fazer pausas algumas vezes no dia.
 
-Levantar para um xixi, tomar um café, comer um biscoito ou até mesmo tomar água. Se você estivesse no escritório já faria tudo isso e ainda conversaria com colegas, então lembre-se  de praticar pausas no seu dia. Quem sabe até aproveite para tomar um banho rápido depois daquela longa e tensa reunião. Lembre-se, você está trabalhando e o objetivo é fazer o dia render, fazer pausas ajuda o cérebro a descansar e ainda a trabalhar no plano de fundo naquele bug que você ta tentando resolver há horas.
+Levantar para um xixi, tomar um café, comer um biscoito ou até mesmo tomar água. Se você estivesse no escritório já faria tudo isso e ainda conversaria com colegas, então lembre-se de praticar pausas no seu dia. Quem sabe até aproveite para tomar um banho rápido depois daquela longa e tensa reunião. Lembre-se, você está trabalhando e o objetivo é fazer o dia render, fazer pausas ajuda o cérebro a descansar e ainda a trabalhar no plano de fundo naquele bug que você está tentando resolver há horas.
 
 ### Elimine distrações
 
-Sabemos que não está fácil esquecer tudo que está acontecendo a nossa volta e focar no trabalho. Muitos de nós estão trabalhando de casa em lugares com cadeiras ruins, mesas pequenas, em ambientes não silenciosos, com nossos filhos e filhas confinados em espaços pequenos e tendo que cuidar de nossos familiares, essas condições são bem menos do que ideais para trabalhar. E apenas falar “elimine distrações” não é o suficiente para magicamente fazer todas essas coisas desaparecerem.
+Sabemos que não está fácil esquecer tudo que está acontecendo a nossa volta e focar no trabalho. Muitos de nós estão trabalhando de casa, em lugares com cadeiras ruins, mesas pequenas, em ambientes não silenciosos, com nossos filhos e filhas confinados em espaços pequenos e tendo que cuidar de nossos familiares, essas condições são bem menos do que ideais para trabalhar. E apenas falar “elimine distrações” não é o suficiente para magicamente fazer todas essas coisas desaparecerem.
 
 Nesse momento, é importante lembrar que você não precisa estar focada todas as horas do dia, talvez você consiga terminar a sua tarefa em menos tempo do que imagina. Nesses dias, onde o foco está ruim, eu me apego no [método Pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro), para tentar ter alguns momentos de foco. Esse método consiste em períodos curtos de trabalho focado com intervalos curtos pré-definidos e quando eu não consigo concentrar em nada, geralmente o Pomodoro me salva.
 
@@ -63,7 +63,7 @@ Agora você não tem mais que ir para o escritório e isso vai ter dar um tempin
 
 ***
 
-Por fim lembre-se de manter a segurança, evitar aglomerações e lavar bem as mãos com frequência. Vamos tentar manter a sanidade nessa época difícil... E se você estiver precisando de companhia pra um cafézinho virtual manda um alô que a gente faz uma _vídeoconf_ 😉
+Por fim lembre-se de manter a segurança, evitar aglomerações e lavar bem as mãos com frequência. Vamos tentar manter o mínimo de sanidade nessa época difícil... E se você estiver precisando de companhia pra um cafézinho virtual manda um alô que a gente faz uma _videoconf_ 😉
 
 ### Dicas e leituras extras
 
