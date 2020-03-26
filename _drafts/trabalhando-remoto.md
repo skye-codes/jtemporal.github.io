@@ -22,7 +22,7 @@ Não vou te dizer que existe uma receita mágica para montar o seu home office e
 
 Essa palavra é a chave para um home office bem aproveitado. Principalmente para pessoas que trabalham fora de casa, é comum quando estão em casa quererem curtir o sofá ou cama _largadonas_ de pijama. Esse hábito é o que te faz mais lenta e tira sua mente do foco, seja ele trabalhar ou estudar ou até praticar um instrumento.
 
-Eu não sou uma dessas pessoas que acorda pulando de alegria pelas manhãs, mas tento seguir a regra de acordar, tomar café e sair do pijama. Esse formato de início de dia me ajuda a colocar o meu corpo e cérebro na mentalidade correta para o trabalho.
+Eu não sou uma dessas pessoas que acorda pulando de alegria pelas manhãs, mas tento seguir a regra de acordar, tomar café e sair do pijama. Esse formato de início de dia me ajuda a colocar o meu corpo e cérebro na mentalidade correta para o trabalho. Talvez pra você o ritual matutino seja um pouco diferente e tudo bem, faça o que você preferir desde que você consiga estabelecer uma rotina e lembrando sempre que novos hábitos não se criam da noite pro dia.
 
 ### Divisão de espaços
 
