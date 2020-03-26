@@ -61,6 +61,10 @@ Por isso nesse momento, é uma ótima oportunidade para usar as ferramentas de v
 
 Agora você não tem mais que ir para o escritório e isso vai ter dar um tempinho “de sobra” no seu dia e para mim essa é uma das maiores vantagens de trabalhar remotamente. Então se puder, aproveite esse tempo disponível para fazer coisas novas, esse é um período muito bom para tirar a poeira daquele violão que você comprou e nunca aprendeu a tocar, de terminar aquele projeto de tricô, brincar mais com seus filhos e filhas e até mesmo de praticar yoga na sala. Mas o importante é lembrar de ter tempo de lazer mesmo que seja limitado às paredes de casa.
 
+***
+
+Por fim lembre-se de manter a segurança, evitar aglomerações e lavar bem as mãos com frequência. Vamos tentar manter a sanidade nessa época díficil... E se você estiver precisando de companhia pra um cafézinho virtual manda um alô que a gente faz uma call no Discord 😉
+
 ### Dicas e leituras extras
 
 * [O post feito Coxa do JusBrasil, uma empresa que tem trabalho remoto e escritório silencioso com várias dicas e ideias](https://danielmurta.jusbrasil.com.br/artigos/824228394/voce-nao-precisa-ter-medo-de-trabalhar-de-casa-ou-a-distancia);
