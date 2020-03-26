@@ -48,13 +48,10 @@ Uma coisa nesses anos notei é que temos, em geral, uma comunicação por texto 
 
 Por isso nesse momento, é uma ótima oportunidade para usar as ferramentas de video-conferência que existem por aí. A maioria das empresas já possuem ferramentas padrão para isso, mas vou deixar aqui algumas dicas caso esse seja um mundo totalmente novo para você:
 
-\- [Zoom.us](zoom.us): Aplicativo de vídeo-conferência, na versão gratuita suporta chamadas com mais de duas pessoas durante 40 minutos, na versão paga a duração das chamadas é ilimitada;
-
-\- [hangouts.google.com](hangouts.google.com): aplicativo web de vídeo-conferência do Google, basta ter uma conta do Google para gerar as salas de vídeo-conferência e enviar o link de convite para qualquer pessoa com limitação de 10 participantes por chamada;
-
-\- [Whereby.com](Whereby.com) (antigo appear.in): aplicativo web de vídeo-conferência você pode criar a sua própria sala e bloquear ou permitir a entrada de novas pessoas, limitado a 4 pessoas por chamada na versão gratuita;
-
-\-[ Discordapp.com](Discordapp.com): aplicativo de conferência por voz, você pode criar o seu canal e permitir a entrada de quantas pessoas quiser, muito usado para jogos, consome pouca banda e não possui limitações de pessoas nos canais de voz.
+* [Zoom.us](zoom.us): Aplicativo de vídeo-conferência, na versão gratuita suporta chamadas com mais de duas pessoas durante 40 minutos, na versão paga a duração das chamadas é ilimitada;
+* [hangouts.google.com](hangouts.google.com): aplicativo web de vídeo-conferência do Google, basta ter uma conta do Google para gerar as salas de vídeo-conferência e enviar o link de convite para qualquer pessoa com limitação de 10 participantes por chamada;
+* [Whereby.com](Whereby.com) (antigo appear.in): aplicativo web de vídeo-conferência você pode criar a sua própria sala e bloquear ou permitir a entrada de novas pessoas, limitado a 4 pessoas por chamada na versão gratuita;
+* [Discordapp.com](Discordapp.com): aplicativo de conferência por voz, você pode criar o seu canal e permitir a entrada de quantas pessoas quiser, muito usado para jogos, consome pouca banda e não possui limitações de pessoas nos canais de voz.
 
 ### Tempo “livre”
 
@@ -62,6 +59,5 @@ Agora você não tem mais que ir para o escritório e isso vai ter dar um tempin
 
 ### Dicas e leituras extras
 
-\- [O post feito Coxa do JusBrasil, uma empresa que tem trabalho remoto e escritório silencioso com várias dicas e ideias.](https://danielmurta.jusbrasil.com.br/artigos/824228394/voce-nao-precisa-ter-medo-de-trabalhar-de-casa-ou-a-distancia)
-
-\-
+* [O post feito Coxa do JusBrasil, uma empresa que tem trabalho remoto e escritório silencioso com várias dicas e ideias.](https://danielmurta.jusbrasil.com.br/artigos/824228394/voce-nao-precisa-ter-medo-de-trabalhar-de-casa-ou-a-distancia)
+* 
