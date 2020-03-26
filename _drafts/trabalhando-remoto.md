@@ -26,17 +26,17 @@ Eu não sou uma dessas pessoas que acorda pulando de alegria pelas manhãs, mas 
 
 ### Divisão de espaços
 
-Antigamente, quanto eu trabalhava e dormia no mesmo quarto, eu tinha uma mesa onde eu trabalhava e cama onde dormia, e essa, somada a rotina de sair do pijama, era a minha divisão espacial entre trabalho e lazer.
+Antigamente, quanto eu trabalhava e dormia no mesmo quarto, eu tinha uma mesa onde eu trabalhava e cama onde dormia, e essa divisão, somada a rotina de sair do pijama, era a minha divisão espacial entre trabalho e lazer.
 
-Hoje eu tenho a sorte de morar num apartamento com dois quartos onde um deles é o escritório e o outro o o quarto em que durmo. Essa mudança de espaço também ajuda a colocar o cérebro no lugar, por mais incrível que pareça, ter uma divisão de ambientes entre trabalho e lazer dentro de casa ajuda imensamente o seu corpo a se comportar como se estivesse no trabalho. Mesmo que você não tenha dois cômodos como é o meu caso, faça a divisão da melhor forma possível.
+Hoje eu tenho a sorte de morar num apartamento com dois quartos onde um deles é o escritório e o outro o quarto em que durmo. Essa mudança de espaço também ajuda a colocar o cérebro no lugar, por mais incrível que pareça, ter uma divisão de ambientes entre trabalho e lazer dentro de casa ajuda imensamente o seu corpo a se comportar como se estivesse no trabalho. Mesmo que você não tenha dois cômodos como é o meu caso, faça a divisão da melhor forma possível. E dica de ergonomia: evite trabalhar do sofá, isso vai prejudicar a sua coluna e o seu pescoço.
 
-Isso também vai te ajudar a parar de trabalhar no fim do seu dia. Quando se vai ao escritório, é fácil encerrar o trabalho, basta sair do escritório e ir pra casa, mas quando se trabalha de casa essa separação é mais difícil então é importante definir os limites tanto de horários para começar a trabalhar quanto para terminar o seu dia.
+Ter essa separação também vai te ajudar a parar de trabalhar no fim do seu dia. Quando se vai ao escritório, é fácil encerrar o trabalho, basta sair do escritório e ir pra casa, mas quando se trabalha de casa essa separação é mais difícil então é importante definir os limites tanto de horários para começar a trabalhar quanto para terminar o seu dia.
 
 ### Faça pausas
 
 Para mim é bem comum esquecer do tempo e ficar horas grudada no computador ajustando ETL e disparando treinos de modelos, principalmente se eu estiver bem focada. No fim do dia, eu me sinto exausta quando faço isso por muitas horas seguidas. Uma coisa que aprendi para ajudar é me forçar a fazer pausas algumas vezes no dia.
 
-Levantar para um xixi, tomar um café, comer um biscoito ou até mesmo tomar água. Se você	 estivesse no escritório já faria tudo isso e ainda conversaria com colegas, então lembre-se  de praticar pausas no seu dia. Quem sabe até aproveite para tomar um banho rápido depois daquela longa e tensa reunião. Lembre-se, você está trabalhando e o objetivo é fazer o dia render, fazer pausas ajuda o cérebro a descansar e ainda a trabalhar no plano de fundo naquele bug que você ta tentando resolver há horas.
+Levantar para um xixi, tomar um café, comer um biscoito ou até mesmo tomar água. Se você estivesse no escritório já faria tudo isso e ainda conversaria com colegas, então lembre-se  de praticar pausas no seu dia. Quem sabe até aproveite para tomar um banho rápido depois daquela longa e tensa reunião. Lembre-se, você está trabalhando e o objetivo é fazer o dia render, fazer pausas ajuda o cérebro a descansar e ainda a trabalhar no plano de fundo naquele bug que você ta tentando resolver há horas.
 
 ### Elimine distrações
 
