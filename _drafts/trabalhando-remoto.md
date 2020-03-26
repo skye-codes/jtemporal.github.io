@@ -16,7 +16,7 @@ tags:
 ---
 Eu já trabalhei remotamente e presencialmente durante anos e posso dizer que criar novos hábitos e deixar para trás os antigos é a parte mais difícil de qualquer processo de adaptação. Infelizmente períodos de crise, como a pandemia que estamos vivendo agora, pedem que façamos mais esforços para continuarmos sendo pessoas producentes na medida do possível.
 
-Não vou te dizer que existe uma receita mágica para montar o seu home office e trabalhar no modo de fúria de todos os dias, mas existem processos que podem te ajudar a cada dia que passa se encontrar mais confortável numa rotina nova.
+Não vou te dizer que existe uma receita mágica para montar o seu home office e trabalhar no modo de fúria de todos os dias, mas existem processos que podem te ajudar a cada dia que passa se encontrar mais confortável numa rotina nova. Então vou compartilhar aqui as dicas que sigo e me ajudam a trabalhar remotamente.
 
 ### Rotina
 
