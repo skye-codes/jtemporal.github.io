@@ -44,17 +44,17 @@ Sabemos que não está fácil esquecer tudo que está acontecendo a nossa volta 
 
 Nesse momento, é importante lembrar que você não precisa estar focada todas as horas do dia, talvez você consiga terminar a sua tarefa em menos tempo do que imagina. Nesses dias, onde o foco está ruim, eu me apego no [método Pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro), para tentar ter alguns momentos de foco. Esse método consiste em períodos curtos de trabalho focado com intervalos curtos pré-definidos e quando eu não consigo concentrar em nada, geralmente o Pomodoro me salva.
 
-### Use e abuse de vídeo-conferências
+### Use e abuse de videoconferências
 
 Sabemos que ter uma comunicação efetiva entre pessoas e times já é uma tarefa difícil normalmente mesmo estando todas as pessoas trabalhando ao mesmo tempo uma do ladinho das outras, agora imagina mover essa conversa para ferramentas de texto?
 
 Uma coisa nesses anos notei é que temos, em geral, uma comunicação por texto muito mais falha do que quando conversamos pessoalmente. Não damos contexto do que estamos falando, escrevemos sem pensar, enviamos mensagens sem revisar o que escrevemos antes de enviar, lemos o que nos foi enviado com pouca atenção e assumimos um tom geralmente errado no que a pessoa disse.
 
-Por isso nesse momento, é uma ótima oportunidade para usar as ferramentas de vídeo-conferência que existem por aí. A maioria das empresas já possuem ferramentas padrão para isso, mas vou deixar aqui algumas dicas caso esse seja um mundo totalmente novo para você:
+Por isso nesse momento, é uma ótima oportunidade para usar as ferramentas de videoconferência que existem por aí. A maioria das empresas já possuem ferramentas padrão para isso, mas vou deixar aqui algumas dicas caso esse seja um mundo totalmente novo para você:
 
-* [Zoom.us](zoom.us): Aplicativo de vídeo-conferência, na versão gratuita suporta chamadas com mais de duas pessoas durante 40 minutos, na versão paga a duração das chamadas é ilimitada;
-* [hangouts.google.com](hangouts.google.com): aplicativo web de vídeo-conferência do Google, basta ter uma conta do Google para gerar as salas de vídeo-conferência e enviar o link de convite para qualquer pessoa com limitação de 10 participantes por chamada;
-* [Whereby.com](Whereby.com) (antigo appear.in): aplicativo web de vídeo-conferência você pode criar a sua própria sala e bloquear ou permitir a entrada de novas pessoas, limitado a 4 pessoas por chamada na versão gratuita;
+* [Zoom.us](zoom.us): Aplicativo de videoconferência, na versão gratuita suporta chamadas com mais de duas pessoas durante 40 minutos, na versão paga a duração das chamadas é ilimitada;
+* [hangouts.google.com](hangouts.google.com): aplicativo web de videoconferência do Google, basta ter uma conta do Google para gerar as salas de videoconferência e enviar o link de convite para qualquer pessoa com limitação de 10 participantes por chamada;
+* [Whereby.com](Whereby.com) (antigo appear.in): aplicativo web de videoconferência você pode criar a sua própria sala e bloquear ou permitir a entrada de novas pessoas, limitado a 4 pessoas por chamada na versão gratuita;
 * [Discordapp.com](Discordapp.com): aplicativo de conferência por voz, você pode criar o seu canal e permitir a entrada de quantas pessoas quiser, muito usado para jogos, consome pouca banda e não possui limitações de pessoas nos canais de voz.
 
 ### Tempo “livre”
@@ -63,7 +63,7 @@ Agora você não tem mais que ir para o escritório e isso vai ter dar um tempin
 
 ***
 
-Por fim lembre-se de manter a segurança, evitar aglomerações e lavar bem as mãos com frequência. Vamos tentar manter a sanidade nessa época díficil... E se você estiver precisando de companhia pra um cafézinho virtual manda um alô que a gente faz uma call no Discord 😉
+Por fim lembre-se de manter a segurança, evitar aglomerações e lavar bem as mãos com frequência. Vamos tentar manter a sanidade nessa época difícil... E se você estiver precisando de companhia pra um cafézinho virtual manda um alô que a gente faz uma _vídeoconf_ 😉
 
 ### Dicas e leituras extras
 
