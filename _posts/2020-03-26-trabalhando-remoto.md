@@ -16,6 +16,10 @@ tags:
 ---
 Eu já trabalhei remotamente e presencialmente durante anos e posso dizer que criar novos hábitos e deixar para trás os antigos é a parte mais difícil de qualquer processo de adaptação. Infelizmente períodos de crise, como a pandemia que estamos vivendo agora, pedem que façamos mais esforços para continuarmos sendo pessoas producentes na medida do possível.
 
+<center>
+<iframe src="https://giphy.com/embed/ZdU3bTTc1WWStZM5lm" width="50%" height="340" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</center>
+  
 Não vou te dizer que existe uma receita mágica para montar o seu home office e trabalhar no modo de fúria de todos os dias, mas existem processos que podem te ajudar a cada dia que passa se encontrar mais confortável numa rotina nova. Então vou compartilhar aqui as dicas que sigo e me ajudam a trabalhar remotamente.
 
 ### Rotina
@@ -36,13 +40,10 @@ Ter essa separação também vai te ajudar a parar de trabalhar no fim do seu di
 
 Para mim é bem comum esquecer do tempo e ficar horas grudada no computador ajustando ETL e disparando treinos de modelos, principalmente se eu estiver bem focada. No fim do dia, quando faço isso por muitas horas seguidas, eu me sinto exausta e sem energias para curtir o mozão ou a minha série do momento. Uma coisa que aprendi para ajudar nesse ponto e evitar a exaustão é me forçar a fazer pausas algumas vezes no dia.
 
+<center>
+<iframe src="https://giphy.com/embed/cvmugq5cuJ4nC" width="50%" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
+
 Levantar para um xixi, tomar um café, comer um biscoito ou até mesmo tomar água. Se você estivesse no escritório já faria tudo isso e ainda conversaria com colegas, então lembre-se de praticar pausas no seu dia. Quem sabe até aproveite para tomar um banho rápido depois daquela longa e tensa reunião. Lembre-se, você está trabalhando e o objetivo é fazer o dia render, fazer pausas ajuda o cérebro a descansar e ainda a trabalhar no plano de fundo naquele bug que você está tentando resolver há horas.
-
-### Elimine distrações
-
-Sabemos que não está fácil esquecer tudo que está acontecendo a nossa volta e focar no trabalho. Muitos de nós estão trabalhando de casa, em lugares com cadeiras ruins, mesas pequenas, em ambientes não silenciosos, com nossos filhos e filhas confinados em espaços pequenos e tendo que cuidar de nossos familiares, essas condições são bem menos do que ideais para trabalhar. E apenas falar “elimine distrações” não é o suficiente para magicamente fazer todas essas coisas desaparecerem.
-
-Nesse momento, é importante lembrar que você não precisa estar focada e rendendo durante todas as horas do dia, talvez você consiga terminar a sua tarefa em menos tempo do que imagina. Nesses dias, onde o foco está ruim, eu me apego no [método Pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro), para tentar ter alguns momentos de foco. Esse método consiste em períodos curtos de trabalho focado com intervalos curtos pré-definidos e quando eu não consigo concentrar em nada, geralmente o Pomodoro me salva e eu consigo terminar o dia com a sensação de fiz algo mesmo que esse algo seja um Pomodoro.
 
 ### Use e abuse de videoconferências
 
@@ -65,13 +66,26 @@ Mas lembre-se de registrar o que foi conversado por texto para as demais pessoas
 
 Assim fica claro o que foi conversado, e os papeis de todas as pessoas na conversa.
 
+### Elimine distrações
+
+Sabemos que não está fácil esquecer tudo que está acontecendo a nossa volta e focar no trabalho. Muitos de nós estão trabalhando de casa, em lugares com cadeiras ruins, mesas pequenas, em ambientes não silenciosos, com nossos filhos e filhas confinados em espaços pequenos e tendo que cuidar de nossos familiares, essas condições são bem menos do que ideais para trabalhar. E apenas falar “elimine distrações” não é o suficiente para magicamente fazer todas essas coisas desaparecerem.
+
+<center>
+<iframe src="https://giphy.com/embed/VHl0ajQWjOF2NYHB02" width="50%" height="234" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</center>
+
+Nesse momento, é importante lembrar que você não precisa estar focada e rendendo durante todas as horas do dia, talvez você consiga terminar a sua tarefa em menos tempo do que imagina. Nesses dias, onde o foco está ruim, eu me apego no [método Pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro), para tentar ter alguns momentos de foco. Esse método consiste em períodos curtos de trabalho focado com intervalos curtos pré-definidos e quando eu não consigo concentrar em nada, geralmente o Pomodoro me salva e eu consigo terminar o dia com a sensação de fiz algo mesmo que esse algo seja um Pomodoro.
+
 ### Tempo “livre”
 
 Agora você não tem mais que ir para o escritório e isso vai ter dar um tempinho “de sobra” no seu dia e para mim essa é uma das maiores vantagens de trabalhar remotamente. Então, se puder, aproveite esse tempo disponível para fazer coisas novas, esse é um período muito bom para tirar a poeira daquele violão que você comprou e nunca aprendeu a tocar, de terminar aquele projeto de tricô, brincar mais com seus filhos e filhas, de praticar yoga na sala, ou até mesmo de fazer nada e curtir um seriado. O importante é lembrar de ter tempo de lazer mesmo que seja limitado às paredes de casa.
 
-***
+<center>
+<iframe src="https://giphy.com/embed/DGfhSy8xKKbHq" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
 
 Por fim lembre-se de manter a segurança, evitar aglomerações e lavar bem as mãos com frequência. Vamos tentar manter o mínimo de sanidade nessa época difícil... E se você estiver precisando de companhia pra um cafézinho virtual manda um alô pra mim ou pra aquela amiga ou amigo e tenta fazer uma _videoconf_. Seres humanos gostam de viver em sociedade, então vamos nos apoiar mesmo que à distância 😉
+
+***
 
 ### Dicas e leituras extras
 
