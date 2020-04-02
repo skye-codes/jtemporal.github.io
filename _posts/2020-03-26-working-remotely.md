@@ -89,8 +89,7 @@ Finally, remember to keep safe, avoid crowds, and wash your hands frequently. Le
 
 ### Extra tips and readings
 
-* [O post feito Coxa do JusBrasil, uma empresa que tem trabalho remoto e escritório silencioso com várias dicas e ideias](https://danielmurta.jusbrasil.com.br/artigos/824228394/voce-nao-precisa-ter-medo-de-trabalhar-de-casa-ou-a-distancia);
-* [Toggl: Ferramenta gratuita de contagem de tempo com cronometro para Pomodoro incluído](toggl.com/);
-* [Materiais da Officeless sobre trabalho remoto](https://www.officeless.cc/materiais).
+* [Zapier's Guide to working remotely](https://zapier.com/learn/remote-work/), there's a lot of material on this page;
+* [Toggl: Free timekeeping tool with timer for Pomodoro included](https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.com&sl=pt&sp=nmt4&tl=en&u=https://jtemporal.com/trabalhando-remoto/toggl.com/&usg=ALkJrhi3zzzYVvFSkHylEP5V5Vqj8nNbxw).
 
 PS .: if you know some material about remote work not listed here, put it in the comments below. 🙂
