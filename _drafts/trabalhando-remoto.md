@@ -4,8 +4,7 @@ date: 2020-03-26 11:55:46 -0300
 image: "/images/miscellaneous.png"
 comments: true
 title: Working remotely
-description: Dicas que sigo quando estou trabalhando remoto para que você que está
-  se adaptando
+description: Tips I use when I'm working remotely for you that are adapting yourself
 tags:
 - english
 - work tips
