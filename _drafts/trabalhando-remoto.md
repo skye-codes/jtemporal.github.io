@@ -1,13 +1,13 @@
 ---
 layout: post
 date: 2020-03-26 11:55:46 -0300
-image: "/images/variados.png"
+image: "/images/miscellaneous.png"
 comments: true
 title: Working remotely
 description: Dicas que sigo quando estou trabalhando remoto para que você que está
   se adaptando
 tags:
-- português
+- english
 - dicas de trabalho
 - trabalho remoto
 - remoto
