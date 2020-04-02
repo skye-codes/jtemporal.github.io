@@ -3,7 +3,7 @@ layout: post
 date: 2020-03-26 11:55:46 -0300
 image: "/images/variados.png"
 comments: true
-title: Trabalhando remoto
+title: Working remotely
 description: Dicas que sigo quando estou trabalhando remoto para que você que está
   se adaptando
 tags:
