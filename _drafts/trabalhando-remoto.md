@@ -8,9 +8,9 @@ description: Dicas que sigo quando estou trabalhando remoto para que você que e
   se adaptando
 tags:
 - english
-- dicas de trabalho
-- trabalho remoto
-- remoto
+- work tips
+- remote work
+- remote
 - covid
 - Corona Virus
 
