@@ -7,6 +7,7 @@ title: Trabalhando remoto
 description: Dicas que sigo quando estou trabalhando remoto para que você que está
   se adaptando
 tags:
+- português
 - dicas de trabalho
 - trabalho remoto
 - remoto
