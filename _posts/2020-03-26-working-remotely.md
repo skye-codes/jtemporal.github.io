@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-03-26 11:55:46 -0300
+date: 2020-03-26 11:50:00 -0300
 image: "/images/miscellaneous.png"
 comments: true
 title: Working remotely
