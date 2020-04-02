@@ -78,8 +78,6 @@ At this point, it is necessary to remember that you do not need to be focused an
 
 ### "Free time"
 
-### "Free time"
-
 Now you don't have to go to the office anymore. There's no commute time anymore, and this will give you a little time to spare in your day, and for me, this is one of the most significant advantages of working remotely. So, if you can, take the time available to do new things. This is a perfect time to dust off that guitar that you bought and never learned to play, to finish that knitting project, to play more with your kids, to practice yoga in the living room, or maybe to do nothing and enjoy that recently launched series. The important thing here is to have relaxation time, even if it is limited to the walls of the house.
 
 <center>
