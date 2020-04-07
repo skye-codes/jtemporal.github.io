@@ -20,7 +20,7 @@ Eu já trabalhei remotamente e presencialmente durante anos e posso dizer que cr
 <center>
 <iframe src="https://giphy.com/embed/ZdU3bTTc1WWStZM5lm" width="50%" height="340" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </center>
-  
+
 Não vou te dizer que existe uma receita mágica para montar o seu home office e trabalhar no modo de fúria de todos os dias, mas existem processos que podem te ajudar a cada dia que passa se encontrar mais confortável numa rotina nova. Então vou compartilhar aqui as dicas que sigo e me ajudam a trabalhar remotamente.
 
 ### Rotina
@@ -90,7 +90,7 @@ Por fim lembre-se de manter a segurança, evitar aglomerações e lavar bem as m
 
 ### Dicas e leituras extras
 
-* [O post feito Coxa do JusBrasil, uma empresa que tem trabalho remoto e escritório silencioso com várias dicas e ideias](https://danielmurta.jusbrasil.com.br/artigos/824228394/voce-nao-precisa-ter-medo-de-trabalhar-de-casa-ou-a-distancia);
+* [O post feito pelo Coxa do JusBrasil, uma empresa que tem trabalho remoto e escritório silencioso com várias dicas e ideias](https://danielmurta.jusbrasil.com.br/artigos/824228394/voce-nao-precisa-ter-medo-de-trabalhar-de-casa-ou-a-distancia);
 * [Toggl: Ferramenta gratuita de contagem de tempo com cronometro para Pomodoro incluído](toggl.com/);
 * [Materiais da Officeless sobre trabalho remoto](https://www.officeless.cc/materiais).
 
