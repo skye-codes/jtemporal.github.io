@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-image: /images/logo.jpeg
+image: "/images/logo.jpeg"
 permalink: "/about/"
 
 ---
@@ -11,7 +11,7 @@ Ainda na faculdade, após um breve período estagiando como desenvolvedora back-
 
 Ao me formar, tornei-me parte do projeto[ Operação Serenata de Amor](https://serenata.ai) como cientista de dados e, durante um ano, ajudei encontrar gastos irregulares analisando os dados abertos do governo brasileiro e dei várias palestras pelo mundo. Esse projeto é considerado referência mundial em uso de tecnologia para combate a corrupção.
 
-Depois de passar um ano como desenvolvedora na Nuveo, voltei a me dedicar à ciência de dados ao me tornar parte do time do Grupo Globo, onde faço estudos e análises dos dados produzidos dentro da TV Globo para gerar insights e informação em diversas áreas internas.
+Depois de passar um ano como desenvolvedora na Nuveo, voltei a me dedicar à ciência de dados ao me tornar parte do time do Grupo Globo, onde fiz estudos e análises dos dados produzidos dentro da TV Globo para gerar insights e informação em diversas áreas internas. Hoje sou parte da tribo de ciência de dados no aplicativo mais queridinho de entregas de comida ajudando milhares de Brasileiros e Brasileiras a escolherem o que comer.
 
 Sou co-fundadora e co-host no[ Pizza de Dados](https://pizzadedados.com), o primeiro podcast sobre ciência de dados no Brasil. Desde 2017 o Pizza vem debatendo tópicos de ciência de dados com especialistas nas mais diversas áreas do ramo, tudo isso em Português para ajudar a aumentar a alfabetização em dados no país.
 
