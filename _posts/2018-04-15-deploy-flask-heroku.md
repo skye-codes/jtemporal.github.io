@@ -2,7 +2,7 @@
 title: Fazendo deploy de uma API para o Heroku
 layout: post
 image: "/images/tutorial.png"
-date: '2018-04-15 00:00:00'
+date: 2018-04-15 00:00:00
 tags:
 - tutorial
 - python
@@ -14,8 +14,8 @@ tags:
 - servidor
 - português
 comments: true
----
 
+---
 Quer aprender a fazer deploy @? Vem que eu te ensino!
 
 ## O que você vai encontrar nesse tutorial
@@ -35,8 +35,10 @@ Essa plataforma provê um serviço que, a partir de uma estrutura pré-definida 
 
 Resumo:
 
-![[tudo computador essa porra](https://media1.tenor.com/images/2c7b2d01405349faca72550fc1b954f0/tenor.gif)](https://media1.tenor.com/images/2c7b2d01405349faca72550fc1b954f0/tenor.gif)
-
+<center>
+<img alt="tudo computador essa porra" src="https://media1.tenor.com/images/2c7b2d01405349faca72550fc1b954f0/tenor.gif">
+</center> 
+  
 ## Partiu código!
 
 Pra esse tutorial eu fiz uma API em um microframework Python chamado [Flask](http://flask.pocoo.org/). Não irei explicar em detalhes como o Flask funciona, mas se você quiser aprender sobre isso, o Bruno Rocha tem um conjunto de posts chamado "What the Flask" que explicam super bem e estão todos lá nos links.
@@ -303,6 +305,7 @@ _Ps.: Se tiver dúvidas ou comenta ali em baixo ou me manda mensagem que eu tent
 ---
 ## Links
 
+- [Código mostrado nesse post](https://github.com/jtemporal/api-example-flask-heroku)
 - Texto do Diego Garcia: [Publicando seu Hello World no Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
 - Texto do John Kagga em inglês: [Deploying a Python Flask app on Heroku](https://medium.com/@johnkagga/deploying-a-python-flask-app-to-heroku-41250bda27d0)
 - [What the Flask](https://twitter.com/rochacbruno) do Bruno Rocha
