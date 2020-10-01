@@ -1,8 +1,3 @@
-Demo: [http://webjeda.com/cards](http://webjeda.com/cards)
-
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
+This theme was made by [webjeda](http://webjeda.com/cards)
 
 For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
