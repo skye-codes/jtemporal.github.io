@@ -46,7 +46,7 @@ Pra começar abra [o repositório desse site aqui](https://github.com/jtemporal/
 No repositório desse site, que você acabou de abrir, navegue até a pasta `.github/` e copie o conteúdo do arquivo `repo-owner+repo-name.md` (eu recomendo que você use o modo Raw do arquivo para fazer essa cópia). Veja o gif a seguir com esse processo:
 
 <center>
-<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_passo_2.gif" alt="Gif mostrando o passo a passo descrito acima"/>
+<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/main/images/hacktober_2019/hacktober_2019_passo_2.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
 
 Esse arquivo é o template de informações necessárias para mostrar corretamente um projeto na lista.
@@ -56,7 +56,7 @@ Esse arquivo é o template de informações necessárias para mostrar corretamen
 Ainda no repositório desse site, vá até a pasta `_hacktoberfest_projects/`, lá é onde moram os dados de todos os projetos que estão sendo mostrados na lista de 2019:
 
 <center>
-<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_passo_3.gif" alt="Gif mostrando o passo a passo descrito acima"/>
+<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/main/images/hacktober_2019/hacktober_2019_passo_3.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
 
 Na pasta `_hacktoberfest_projects/` temos muitas pastas, elas existem apenas como por questões organizacionais, cada pasta tem o nome de uma linguagem, e o projeto que você quer adicionar deve ser acrescentado na pasta correspondente à linguagem principal do projeto.
@@ -76,7 +76,7 @@ Agora, numa nova página, abra o repósitorio que você quer adicionar na lista.
 O Guia é um projeto agnóstico de linguagem, afinal é apenas um grande conjunto de arquivos em markdown, sendo assim, vamos criar o arquivo do Guia na pasta  `Variados`. Novamente na página do site, navegue até pasta  `_hacktoberfest_projects/` e em seguida entre na pasta `Variados`. Para criar o arquivo clique em `Create new file`, em seguida cole o conteúdo que copiamos do arquivo `repo-owner+repo-name.md` no espaço de conteúdo, dê o nome do arquivo seguindo o padrão `<nome-do-dono-do-repo>+<nome-nome-do-repo>.md`. Veja:
 
 <center>
-<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_passo_5.gif" alt="Gif mostrando o passo a passo descrito acima"/>
+<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/main/images/hacktober_2019/hacktober_2019_passo_5.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
 
 ## Preenchendo as informações
@@ -91,7 +91,7 @@ Agora você pode preencher os dados do projeto no nosso arquivo, só precisamos 
 Para tudo isso basta copiar essas informações na página do repositório e colar na linha de campo correspondente no nosso arquivo.
 
 <center>
-<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_passo_6.gif" alt="Gif mostrando o passo a passo descrito acima. Na parte superior o repositório do Guia de onde copiei as informações e na parte inferior o repositório deste site onde colei as informações"/>
+<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/main/images/hacktober_2019/hacktober_2019_passo_6.gif" alt="Gif mostrando o passo a passo descrito acima. Na parte superior o repositório do Guia de onde copiei as informações e na parte inferior o repositório deste site onde colei as informações"/>
 </center>
 
 ## Abrindo o PR
@@ -99,7 +99,7 @@ Para tudo isso basta copiar essas informações na página do repositório e col
 Depois de preencher todos os campos necessários presentes no nosso arquivo, basta abrir o PR. Então apenas desça até a área de detalhes do _commit_, escreva uma mensagem descrevendo qual projeto você está adicionando, clique em `Propose new file` e siga para propor o PR clicando em `Create Pull Request`.
 
 <center>
-<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_passo_7.gif" alt="Gif mostrando o passo a passo descrito acima"/>
+<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/main/images/hacktober_2019/hacktober_2019_passo_7.gif" alt="Gif mostrando o passo a passo descrito acima"/>
 </center>
 
 ***
@@ -113,7 +113,7 @@ Existem principalmente dois casos em que esse fluxo que eu descrevi até agora v
 Caso o projeto que você queira adicionar na lista tenha uma linguagem principal diferente daquelas já disponíveis, você deverá criar uma nova pasta. Para fazer isso pela interface do GitHub no navegador, basta você escrever o nome da pasta no campo onde escrevemos o nome do arquivo seguido de uma barra (`/`), ao digitar a barra, o GitHub se encarregará de criar a pasta, veja:
 
 <center>
-<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_criando_pasta.gif" alt="Gif mostrando o passo a passo descrito acima num repositorio de teste"/>
+<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/main/images/hacktober_2019/hacktober_2019_criando_pasta.gif" alt="Gif mostrando o passo a passo descrito acima num repositorio de teste"/>
 </center>
 
 No gif, eu crio a pasta chamada `pasta2` e dentro dela crio o arquivo chamado `meu-arquivo.md`.
@@ -123,7 +123,7 @@ No gif, eu crio a pasta chamada `pasta2` e dentro dela crio o arquivo chamado `m
 Nesse caso é mais fácil de resolver, basta colocar no campo `description` o conteudo `No description` assim como coloquei nesse projeto aqui:
 
 <center>
-<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/master/images/hacktober_2019/hacktober_2019_no_description.gif" alt="Gif mostrando o passo a passo descrito acima num repositorio de teste"/>
+<img src="https://raw.githubusercontent.com/jtemporal/jtemporal.github.io/main/images/hacktober_2019/hacktober_2019_no_description.gif" alt="Gif mostrando o passo a passo descrito acima num repositorio de teste"/>
 </center>
 
 ***
