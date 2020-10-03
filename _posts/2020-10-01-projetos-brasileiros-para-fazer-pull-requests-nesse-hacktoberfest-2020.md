@@ -34,6 +34,32 @@ Esse ano vamos manter a mesma forma de aumentar essa lista com mais projetos, co
 
 Os projetos continuam separados pela linguagem principal pra facilitar as buscas pra quem lê e também em ordem alfabética pela linguagem. 😉
 
+*ATUALIZAÇÃO IMPORTANTE:*
+
+<center>
+<img src="https://media.giphy.com/media/26CaM3Ei5kTjWLg9a/giphy.gif" alt="Gif com a Dua Lipa no vídeo de sua música New Rules'"/>
+<br>
+<small><i>"Acorda menina! Olha as novas regras! New Rules!" - Ana Maria Braga</i></small>
+</center>
+
+
+Aqui as regras seguem as mesmas, porém a regra para tornar seu PR válido para a hacktoberfest mudou!!!11
+
+PRs apenas contaram se:
+
+1. O repositório onde o PR foi aberto tem um tópico chamado `hacktoberfest`
+
+<center>
+<img src="https://user-images.githubusercontent.com/4131432/94991921-abbd5280-0586-11eb-98a7-5e0c976aeebf.png" alt="Imagem de repositório com o tópico hacktoberfest"/>
+<br>
+</center>
+
+2. O PR foi aberto em Outubro
+
+3. OU o PR é adicionado(merged) ao projeto OU está com o rótulo(label) `hacktoberfest-accepted` por um mantenedor OU o PR foi aprovado.
+
+Mais informações no [site oficial (em inglês)](https://hacktoberfest.digitalocean.com/hacktoberfest-update)
+
 Happy Hacking!
 
 ***
