@@ -34,7 +34,7 @@ Esse ano vamos manter a mesma forma de aumentar essa lista com mais projetos, co
 
 Os projetos continuam separados pela linguagem principal pra facilitar as buscas pra quem lê e também em ordem alfabética pela linguagem. 😉
 
-*ATUALIZAÇÃO IMPORTANTE:*
+_ATUALIZAÇÃO IMPORTANTE:_
 
 <center>
 <img src="https://media.giphy.com/media/26CaM3Ei5kTjWLg9a/giphy.gif" alt="Gif com a Dua Lipa no vídeo de sua música New Rules'"/>
@@ -42,10 +42,9 @@ Os projetos continuam separados pela linguagem principal pra facilitar as buscas
 <small><i>"Acorda menina! Olha as novas regras! New Rules!" - Ana Maria Braga</i></small>
 </center>
 
-
 Aqui as regras seguem as mesmas, porém a regra para tornar seu PR válido para a hacktoberfest mudou!!!11
 
-PRs apenas contaram se:
+PRs apenas contarão se:
 
 1. O repositório onde o PR foi aberto tem um tópico chamado `hacktoberfest`
 
@@ -54,9 +53,8 @@ PRs apenas contaram se:
 <br>
 </center>
 
-2. O PR foi aberto em Outubro
-
-3. OU o PR é adicionado(merged) ao projeto OU está com o rótulo(label) `hacktoberfest-accepted` por um mantenedor OU o PR foi aprovado.
+1. O PR foi aberto em Outubro
+2. OU o PR é adicionado(merged) ao projeto OU está com o rótulo(label) `hacktoberfest-accepted` por um mantenedor OU o PR foi aprovado.
 
 Mais informações no [site oficial (em inglês)](https://hacktoberfest.digitalocean.com/hacktoberfest-update)
 
@@ -71,7 +69,7 @@ Happy Hacking!
 <div class="github-project-share">
 <a style="text-decoration: none;" href="{{ item.repo }}">
 {% assign project_info = item.relative_path |  remove: ".md" | remove: ".yml" | split: "/"  %}
-{% assign project = project_info[2] | replace: "+", "/" %}
+{% assign project = project_info\[2\] | replace: "+", "/" %}
 <div class="github-project-share-card ">
 <img src="{{ item.image }}" alt="" />
 <h4>{{ project }}</h4>
