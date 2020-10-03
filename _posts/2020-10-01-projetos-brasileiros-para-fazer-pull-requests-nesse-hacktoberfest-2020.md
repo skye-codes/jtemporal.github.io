@@ -36,6 +36,13 @@ Os projetos continuam separados pela linguagem principal pra facilitar as buscas
 
 *ATUALIZAÇÃO IMPORTANTE:*
 
+<center>
+<img src="https://media.giphy.com/media/26CaM3Ei5kTjWLg9a/giphy.gif" alt="Gif com a Dua Lipa no vídeo de sua música New Rules'"/>
+<br>
+<small><i>"Acorda menina! Olha as novas regras! New Rules!" - Ana Maria Braga</i></small>
+</center>
+
+
 Aqui as regras seguem as mesmas, porém a regra para tornar seu PR válido para a hacktoberfest mudou!!!11
 
 PRs apenas contaram se:
@@ -46,8 +53,6 @@ PRs apenas contaram se:
 <img src="https://user-images.githubusercontent.com/4131432/94991921-abbd5280-0586-11eb-98a7-5e0c976aeebf.png" alt="Imagem de repositório com o tópico hacktoberfest"/>
 <br>
 </center>
-
-![image](https://user-images.githubusercontent.com/4131432/94991921-abbd5280-0586-11eb-98a7-5e0c976aeebf.png)
 
 2. O PR foi aberto em Outubro
 
