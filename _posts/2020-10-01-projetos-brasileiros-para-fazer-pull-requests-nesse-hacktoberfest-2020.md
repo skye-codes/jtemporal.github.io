@@ -53,8 +53,8 @@ PRs apenas contarão se:
 <br>
 </center>
 
-1. O PR foi aberto em Outubro
-2. OU o PR é adicionado(merged) ao projeto OU está com o rótulo(label) `hacktoberfest-accepted` por um mantenedor OU o PR foi aprovado.
+2. O PR foi aberto em Outubro
+3. OU o PR é adicionado(merged) ao projeto OU está com o rótulo(label) `hacktoberfest-accepted` por um mantenedor OU o PR foi aprovado.
 
 Mais informações no [site oficial (em inglês)](https://hacktoberfest.digitalocean.com/hacktoberfest-update)
 
