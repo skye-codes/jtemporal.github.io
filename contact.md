@@ -5,7 +5,7 @@ image: /images/logo.jpeg
 permalink: /contact/
 ---
 
-Você pode falar comigo [pelo Telegram aqui](https://t.me/jtemporal) ou se preferir [me mandar um e-mail aqui](mailto:jessicatemporal+contatodosite@gmail.com).
+Você pode falar comigo [pelo Telegram aqui](https://t.me/jtemporal) ou se preferir [me mandar um e-mail aqui](mailto:hello@jtemporal.com).
 
 <!--
 Insert your contact details or a contact form here.

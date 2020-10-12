@@ -7,7 +7,7 @@
 
 # Site settings
 title: Jessica Temporal
-email: jessicatemporal@gmail.com
+email: hello@jtemporal.com
 description: > # this means to ignore newlines until "baseurl:"
   Data Scientist, Podcaster @ Pizza de Dados, Lecturer and Developer. my pronouns are she/her/hers.
   This is my personal blog, my opinions are my own.
@@ -51,7 +51,6 @@ twitter:
   username: jesstemporal
   card: summary_large_image
 github: http://github.com/jtemporal
-email: jessicatemporal@gmail.com
 
 #facebook like box
 #fb-like-box: yes
